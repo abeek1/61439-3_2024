@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Routine verification</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>TAVAKONTROLL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>11.1 General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>11.1 Üldnõuded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Under the responsibility of the assembly manufacturer, all routine verification including testing, installation and commissioning shall be carried out or supervised by a competent person.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Kooste tootja vastutusel toimuva kogu tavakontrolli, mis sisaldab katsetamist, paigaldamist ja vastuvõttu, peab sooritama või juhendama kompetentne isik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Routine verification is intended to detect faults in materials and workmanship and to ascertain proper functioning of the manufactured assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Tavakontroll on ette nähtud materjali- ja valmistamisdefektide tuvastamiseks ning toodetud kooste nõuetekohase toimivuse kinnitamiseks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is made on every assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>See sooritatakse kõigile koostetele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The assembly manufacturer shall determine if routine verification is carried out during and/or after manufacture.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Kooste tootja peab määrama, kas tavakontroll sooritatakse kooste valmistamise ajal ja/või pärast kooste valmimist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Routine verification shall confirm that the assembly manufacturing instructions have been adhered to.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Tavakontroll peab kinnitama, et kooste tootmisjuhenditest on kinni peetud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Routine verification is not required to be carried out on devices and self-contained components incorporated in the assembly when they have been selected in accordance with 8.5.3 and installed in accordance with 8.5.4.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Tavakontroll ei ole nõutav koostesse ühendatud seadmete ja isekandvate komponentide suhtes, mis on valitud vastavalt jaotisele 8.5.3 ja paigaldatud vastavalt jaotisele 8.5.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Verification shall comprise the following categories:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Kontroll peab sisaldama järgmisi kategooriaid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	Construction (see 11.2 to 11.8):</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>a)	konstruktsiooni osas (vt jaotised 11.2 kuni 11.8)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1)	degree of protection against contact with hazardous live parts, ingress of solid foreign bodies and water of enclosures;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>1)	kaitseastet kokkupuute eest ohtlike pingestatud osadega ning võõrkehade ja vee sissepääsu eest ümbristesse;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2)	clearances and creepage distances;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>2)	õhk- ja roomevahemikke;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>3)	protection against electric shock and integrity of protective circuits;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>3)	kaitset elektrilöögi eest ja kaitseahelate terviklikkust;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>4)	incorporation of built-in components;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>4)	sisseehitatud komponentide komplektsust;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5)	internal electrical circuits and connections;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>5)	sisemisi elektriahelaid ja ühendusi;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>6)	terminals for external conductors;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>6)	välisjuhtide klemme;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>7) mechanical operation.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>7)	mehaanilist talitlust;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	Performance (see 11.9 to 11.10):</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>b)	toimivuse osas (vt jaotised 11.9 kuni 11.10)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1)	dielectric properties;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>1)	dielektrilisi omadusi;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2)	wiring, operational performance and function.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>2)	juhistikku, talitluslikku toimivust ja funktsioone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>11.2 Degree of protection against contact with hazardous live parts, ingress of solid foreign bodies and water of enclosures</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>11.2 Kaitseaste kokkupuute eest ohtlike pingestatud osadega ning võõrkehade ja vee 
+sissepääsu eest ümbristesse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A visual inspection is necessary to confirm that the assembly meets the prescribed measures to achieve the designated degree of protection.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>On vaja visuaalset ülevaatust kinnitamaks, et kooste vastab ettekirjutatud meetmetele sätestatud kaitseastme saavutamiseks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>11.3 Clearances and creepage distances</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>11.3 Õhk- ja roomevahemikud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where the clearances are:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Kui õhkvahemikud on</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	less than the values given in Table 1, an impulse voltage withstand test in accordance with 
+10.9.3 shall be carried out;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>— väiksemad kui tabelis 1 esitatud väärtused, tuleb sooritada jaotise 10.9.3 kohane impulsstaluvuspinge katsetus;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	not evident by visual inspection to be larger than the values given in Table 1 (see 10.9.3.5), verification shall be by physical measurement or by an impulse voltage withstand test in accordance with 10.9.3;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>— visuaalsel ülevaatusel jäänud selguseta, kas need on laiemad kui tabelis 1 esitatud väärtused  (vt jaotis 10.9.3.5), tuleb kontroll sooritada füüsikalise mõõtmisega või impulsstaluvuspinge katsetusega vastavalt jaotisele 10.9.3;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	evidently larger by visual inspection than the values given in Table 1, verification may be carried out only by visual inspection.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>— visuaalsel ülevaatusel ilmselgelt laiemad kui tabelis 1 esitatud väärtused, võib kontroll piirduda üksnes visuaalse ülevaatusega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The prescribed measures with regard to creepage distances (see 8.3.3) shall be subject to a visual inspection.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Roomevahemike kohta ette kirjutatud meetmeid (vt jaotis 8.3.3) tuleb kontrollida visuaalse ülevaatusega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where it is not evident by visual inspection, verification shall be by physical measurement.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Kui see ei ole visuaalse ülevaatuse teel selge, tuleb kontroll sooritada füüsikalise mõõtmise teel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No reduction on the values given in Table 2 is acceptable.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Tabelis 2 esitatud väärtuste vähendamine ei ole vastuvõetav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>11.4	Protection against electric shock and integrity of protective circuits  
+The prescribed protective measures with regard to basic protection and fault protection (see 8.4.2 and 8.4.3) shall be subject to a visual inspection.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>11.4 Kaitse elektrilöögi eest ja kaitseahelate terviklikkus 
+Ettekirjutatud kaitseviise, mis arvestavad põhi- ja rikkekaitset (vt jaotised 8.4.2 ja 8.4.3) tuleb kontrollida visuaalse ülevaatuse teel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The protective circuits shall be checked by inspection to ascertain that the measures prescribed in the manufacturer’s instructions are adhered to and verified.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Kaitseahelaid tuleb kontrollida ülevaatusega veendumaks, et tootja ettekirjutatud meetmeid on silmas peetud ja kontrollitud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When it is not obvious by inspection that the earth continuity of the protective circuits meets the requirement of 8.4.3.2, a continuity test according to 10.5.2 shall be made.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Kui ülevaatusel ei ole silmnähtav, et kaitseahelate maanduse pidevus vastab jaotise 8.4.3.2 nõudele, tuleb sooritada pidevuse katsetus jaotise 10.5.2 järgi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Screwed and bolted connections shall be checked for the correct tightness on a random basis.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Kruvi- ja poltühendusi tuleb pisteliselt kontrollida nende õige pingulduse suhtes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>11.5	Incorporation of built-in components  
+The installation and identification of built-in components shall be in accordance with the assembly’s manufacturing instructions.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>11.5 Sisseehitatud komponentide komplektsus 
+Sisseehitatud komponentide paigaldus ja tuvastatavus peab olema kooskõlas kooste tootmisjuhistega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>11.6	Internal electrical circuits and connections  
+The connections, especially screwed and bolted connections, shall be checked for the correct tightness on a random basis.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>11.6 Sisemised elektriahelad ja ühendused 
+Ühenduste, eriti kruvi- ja poltühenduste puhul tuleb pisteliselt kontrollida nende õiget pinguldust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conductors shall be checked in accordance with the assembly’s manufacturing instructions.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Juhte tuleb kontrollida kooskõlas kooste tootmisjuhistega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>11.7	Terminals for external conductors  
+The number, type and identification of terminals shall be checked in accordance with the assembly’s manufacturing instructions.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>11.7 Välisjuhtide klemmid 
+Klemmide arvu, liiki ja tuvastatavust tuleb kontrollida kooskõlas kooste tootmisjuhistega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>11.8	Mechanical operation  
+The effectiveness of mechanical actuating elements, interlocks and locks, including those associated with removable parts, shall be checked.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>11.8 Mehaaniline talitlus 
+Tuleb kontrollida mehaaniliste täiturelementide, blokeeringute ja lukkude tõhusust, sealhulgas eemaldatavate osadega seotuse korral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where a device's operating handle is used to indicate the switching position of the device, and it detaches from the device when the door is open, it shall be confirmed that, when the door is closed, the handle provides positive and unambiguous indication of the device's open and closed positions.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Kui seadise talitluskäepidet kasutatakse seadise lülitusseisundi tähistamiseks ja kui see ukse avamise korral eraldub seadisest, peab olema kindel, et kui uks on suletud, näitab käepide jaatavalt ning ühemõtteliselt seadise sisse- ja väljalülitatud seisundit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>11.9	Dielectric properties</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>11.9 Dielektrilised omadused</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A power-frequency withstand test shall be performed on all circuits in accordance with 10.9.1 and 10.9.2 but for a duration of 1 s and with a tripping current not less than 3,5 mA.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Kõigi ahelatega tuleb sooritada võrgusageduslik taluvuskatsetus kooskõlas jaotistega 10.9.1 ja 10.9.2, kuid kestusega 1 s ja vabastusvooluga mitte alla 3,5 mA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This test need not be made on auxiliary circuits:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Seda katsetust ei ole vaja sooritada abiahelate puhul,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	that are protected by a short-circuit protective device with a rating not exceeding 16 A;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>— mis on kaitstud lühisekaitseaparaadiga, mille tunnusvool ei ole üle 16 A;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	if an electrical function test has been made previously at the rated operational voltage for which the auxiliary circuits are designed.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>— kui varem on ettenähtud tunnus-talitluspingel, millele abiahelad on projekteeritud, sooritatud elektriline toimivuskatsetus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As an alternative for assemblies with incoming protection rated up to 630 A and a rated voltage Un not exceeding 500 V, the verification of insulation resistance may be by measurement using an insulation measuring device at a voltage of at least 500 V DC.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Alternatiivina võib koostete puhul, mille sisendkaitse tunnusvool on kuni 630 A ja tunnuspinge Un ei ole üle 500 V, isolatsioonitakistuse kontrolli sooritada mõõtmisega, kasutades isolatsiooni mõõteriista alalispingega vähemalt 500 V.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In this case, the test is satisfactory if the insulation resistance between circuits and exposedconductive-parts is at least 1 M.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Katsetus on rahuldav sel juhul, kui isolatsioonitakistus ahelate ja pingealdiste juhtivate osade vahel on vähemalt 1 MΩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>11.10  Wiring, operational performance and function 
+It shall be verified that the information and markings specified in Clause 6 are complete.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>11.10 Juhistik, talitluslik toimivus ja funktsioonid 
+Tuleb kontrollida, kas peatükis 6 sätestatud teave ja märgistus on täielikult olemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Depending on the complexity of the assembly, it may be necessary to inspect the wiring and to carry out an electrical function test.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Sõltuvalt kooste komplektsusest võib vaja olla juhistik üle vaadata ja sooritada elektriline toimivuskatsetus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The test procedure and the number of tests depend on whether or not the assembly includes complicated interlocks, sequence control facilities, etc.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Katsetusprotseduur ja katsetuste arv sõltub sellest, kas koostel on või ei ole keerukaid blokeeringuid, järjestusjuhtimisseadmeid jne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By agreement between the user and the assembly manufacturer, communicating devices that are included and connected in a system within the assembly may need to be checked for basic operation and functionality.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Kasutaja ja kooste tootja kokkuleppe korral võib vaja olla kontrollida kooste ulatuses sisalduvate ja sellega süsteemi ühendatud kommunikatsiooniseadiste põhitalitlust ja funktsionaalsust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In some cases, it may be necessary to make or repeat this test on site before putting the installation into operation.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Mõnikord võib vaja olla sooritada või korrata seda katsetust enne paigaldise käituvõtmist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table 1 – Minimum clearances in air (8.3.2)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T152206Z">
+        <seg>Tabel 1 — Vähimad õhkvahemikud (jaotis 8.3.2)</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

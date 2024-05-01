@@ -1,0 +1,142 @@
+termin et	termin en	selgitus, määratlus, märkus
+madalpingeline aparaadikooste	low-voltage switchgear and controlgear assembly	
+kooste	 assembly	
+koostesüsteem	assembly system 	
+peaahel	main circuit 	
+abiahel	auxiliary circuit 	
+[kogumis]latt	busbar 	
+[kogumis]latid	busbar 	
+[kogumis]latikomplekt	busbar 	
+pea[kogumis]latid	main busbar 	
+pea[kogumis]latt	main busbar 	
+jaotuslatid	distribution busbar 	
+jaotuslatt	distribution busbar 	
+funktsionaalühik	functional unit 	
+sisendühik	incoming unit 	
+väljundühik	outgoing unit 	
+lühisekaitseaparaat	short-circuit protective device	
+lühisekaitseaparaat	SCPD	
+voolupiirav aparaat	current-limiting device 	
+voolu mittepiirav aparaat	non-current-limiting device 	
+faasijuht	line conductor	
+poolusejuht	line conductor	
+liinijuht 	line conductor	
+asjakohane koostestandard	relevant assembly standard	
+kohtkindel osa	fixed part 	
+eemaldatav osa	removable part	
+ühendatud asend	connected position	
+eemaldatud asend	removed position	
+sisestusblokeering	insertion interlock	
+fikseeritav ühendus	fixed connection 	
+sektsioon	section 	
+lahter	compartment 	
+transportühik	transport unit	
+luuk	shutter	
+lahtine kooste	open-type assembly	kooste, mis sisaldab elektriseadmeid kandvat toestikku, kusjuures elektriseadmete pingestatud osad on juurdepääsetavad
+eest kinnine kooste	dead-front assembly 	
+kinnine kooste	enclosed assembly	
+kappkooste	cubicle-type assembly	
+mitmekapiline kooste	multi-cubicle-type assembly	
+pultkooste	desk-type assembly	
+kastkooste	box-type assembly	
+mitmekastiline kooste	multi-box-type assembly	
+moodulkooste	multi-box-type assembly	
+seinakappkooste	wall mounted surface type assembly	
+süvistatav seinakappkooste	wall-mounted recessed type assembly	
+põrandal seisev kooste	floor-standing assembly 	
+kandetarind	supporting structure	
+paigaldustarind	mounting structure	
+paigaldusplaat	mounting plate	
+paigaldusraam	mounting frame	
+ümbris	enclosure	
+kate	cover	
+uks	door	
+kaas	removable	
+katteplaat	cover plate	
+vaheplaat	partition 	
+vahesein	partition 	
+(kaitse)piire	barrier	
+(elektriline) kaitsekate	barrier	
+tõke	obstacle 	
+klemmikate	terminal shield	
+kaablisisend	cable entry	
+kaitstud ruum	protected space	
+sisepaigalduskooste	assembly for indoor installation	
+välispaigalduskooste	assembly for outdoor installation	
+kohtkindel kooste	stationary assembly	
+teisaldatav kooste	movable assembly	
+õhkvahemik	clearance	
+roomevahemik	creepage distance	
+liigpinge	overvoltage	
+ajutine liigpinge	temporary overvoltage	
+transientliigpinge	transient overvoltage	
+võrgusageduslik taluvuspinge	power-frequency withstand voltage	
+impulsstaluvuspinge	impulse withstand voltage	
+saaste	pollution	
+saasteaste	pollution degree	
+keskkond	environment	
+makrokeskkond	macro-environment	
+liigpingekategooria	overvoltage category	
+liigpingepiirik	surge protective device	
+liigpingepiirik	SPD	
+isolatsiooni koordinatsioon	insulation coordination	
+mitteühtlane väli	inhomogeneous field	
+roomemoodustus	tracking	
+roomemoodustuse võrdlusindeks	comparative tracking index	
+roomemoodustuse võrdlusindeks	CTI 	
+läbilöök	disruptive discharge	
+pingestatud osa	live part	
+ohtlik pingestatud osa	hazardous live part	
+pingealdis juhtiv osa	exposed conductive part	
+kaitsejuht	protective conductor	
+neutraaljuht	neutral conductor	
+rikkevool	fault current	
+põhikaitse	basic protection	
+põhiisolatsioon	basic insulation	
+rikkekaitse	fault protection	
+maandatav kaitseväikepingesüsteem, PELV-süsteem	PELV system	
+maandusvaba kaitseväikepingesüsteem, SELV-süsteem	SELV system	
+elektrialaisik	(electrically) skilled person	
+kompetentne isik	competent person	
+ohuteadlik isik	instructed person	
+tavaisik	ordinary person	
+volitatud isik	authorized person	
+lisaisolatsioon	supplementary insulation	
+tugevdatud isolatsioon	reinforced insulation	
+nimiväärtus	nominal value	
+tunnusväärtus	rated value	
+piirväärtus	limiting value	
+tunnusandmed	rating	
+hinnang	rating	
+lühisvool	short-circuit current 	Ic
+arvutuslik lühisvool	prospective short-circuit current	Icp
+lõikevool, läbilaskevool	cut-off current, let-through current	Ilt
+pinge tunnussuurused	voltage ratings	
+tunnuspinge	rated voltage	
+tunnus-talitluspinge	rated operational voltage	
+tunnus-impulsstaluvuspinge	rated impulse withstand voltage	
+voolu tunnussuurused	current ratings	
+tunnusvool	rated current	
+tunnus-lööktaluvusvool	rated peak withstand current	Ipk
+lühiajaline tunnus-taluvusvool	rated short-time withstand current	Icw
+tinglik tunnus-lühisvool	rated conditional short-circuit current	Icc
+peaahela tunnusvool	rated current of a main circuit	Inc
+peaahela rühmtunnusvool	group rated current of a main circuit	Ing
+kooste tunnusvool	rated current of an assembly	InA
+(elektriahela) ettenähtud vool	design current (of an electric circuit)	IB
+tunnus-samaaegsustegur	rated diversity factor	
+tunnus-samaaegsustegur	RDF	
+tunnussagedus	rated frequency 	
+elektromagnetiline ühilduvus	electromagnetic compatibilit	
+elektromagnetiline ühilduvus	EMC	
+teostuse kontroll	design verification	
+kontrollkatsetus	verification test	
+kontrollvõrdlus	verification comparison	
+kontrollhindamine	verification assessment	
+võrdlusteostus	reference design	
+etalonkonstruktsioon	reference design	
+tavakontroll	routine verification	
+ülevaatus	inspection	
+esmatootja	original manufacturer	
+kooste tootja	assembly manufacturer	
+kasutaja	user	

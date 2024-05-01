@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conditions after test</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T160028Z">
+        <seg>Katsetusjärgsed olud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where the incoming switch is a protective device, the test report shall state which of the protective devices operated during the test, i.e. the incoming and/or outgoing devices.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T160028Z">
+        <seg>Kui sisendahela lülitiks on kaitseaparaat, tuleb katsetusaruandes näidata, missugust kaitseaparaati katsetuste ajal kasutati, s.t. kas sisendahela ja/või väljundahela aparaati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The earth fault indicating device shall be intact and the degree of protection of the enclosure shall not be impaired.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T160028Z">
+        <seg>Maaühendusrikke indikaatorseade peab olema terve ja ümbrise kaitseaste ei tohi olla vähenenud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The insulation resistance a) shall be measured within 3 min of the conclusion of the series of tests.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T160028Z">
+        <seg>Isolatsioonitakistust tuleb juhtumil a mõõta 3 minuti kestel pärast katsetussarja lõpetamist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The insulation resistance for b) and c) shall be measured as soon as practical after measurement of a), the times of measurement of b) and c) being recorded in the test report.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T160028Z">
+        <seg>Isolatsioonitakistust juhtumitel b ja c tuleb mõõta nii ruttu kui see on praktiliselt võimalik pärast mõõtmisi juhtumil a; mõõtmiste b ja c ajad registreeritakse katsetuste aruandes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The values shall be measured at 500 V d.c.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T160028Z">
+        <seg>Isolatsiooni- takistust tuleb mõõta alalispingel 500 V,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>and shall not be less than the following:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T160028Z">
+        <seg>kusjuures see ei tohi olla väiksem kui alljärgnevalt loetletud väärtused:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	0,10 MΩ between the final circuit protective device incoming terminal and the corresponding outgoing terminal, with the isolating device open and with the blown fuse in position or the circuit-breaker or RCBO opened, whichever is applicable.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T160028Z">
+        <seg>a)	0,10 MΩ lõppahela kaitseaparaadi sisendklemmi ja vastava väljundklemmi vahel, kui kaitse- lahutusaparaat on avatud ning läbipõlenud sulavkaitse on oma kohal või kaitselüliti või rikkevoolukaitselüliti (RCBO) on avatud, sõltumata sellest, millist neist kasutatakse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	0,25 MΩ between the final circuit protective device terminals and earth, with the final circuit fuse rewired, the final circuit cartridge fuse replaced, or the circuit-breaker or RCBO reclosed, whichever is applicable, and with the incoming isolating device open.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T160028Z">
+        <seg>b)	0,25 MΩ lõppahela kaitseaparaadi klemmide ja maa vahel, kui lõppahela sulavkaitsme sular on vahetatud, lõppahela padrunsulavkaitse on vahetatud või kaitselüliti või rikkevoolukaitselüliti (RCBO) on taassuletud (sõltumata sellest, millist neist kasutatakse) ning sisendahela kaitse- lahutusaparaat on avatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>c)	0,25 MΩ between the final circuit protective device incoming terminals and any other metal parts which are unearthed and exposed in service.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T160028Z">
+        <seg>c)	0,25 MΩ lõppahela kaitseaparaadi sisendklemmide ja kõigi muude maandamata ja talitluse ajal ligipääsetavate metallosade vahel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The condition of the incoming isolating device shall comply with its product specification with regard to isolating properties.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T160028Z">
+        <seg>Sisendahela kaitselahutusaparaadi kaitselahutusomadused peavad vastama aparaadi toote- standardile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The conductors shall not be deformed such that the clearance and creepage distances specified in 8.3 are impaired.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T160028Z">
+        <seg>Juhid ei tohi olla deformeerunud sel määral, et jaotises 8.3 sätestatud õhk- ja roome- vahemikud oleksid vähenenud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There shall be no loosening of parts used for the connection of the conductors.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T160028Z">
+        <seg>Ükski juhtide ühendamiseks kasutatud osa ei tohi olla lahti tulnud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where an RCD is included in CDB its operation shall be checked.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T160028Z">
+        <seg>Kui kliendi-jaotuskilbis on rikkevoolukaitseaparaat, tuleb kontrollida selle toimimist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With the RCD closed and connected to a supply at 0,85 times rated voltage ± 5 %</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T160028Z">
+        <seg>Katsetamiseks ühendatakse suletud rikkevoolukaitselüliti 0,85-kordsele tunnuspingele (tolerantsiga ± 5 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>the test device shall be operated</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T160028Z">
+        <seg>katseseade peab toimima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The RCD shall open.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T160028Z">
+        <seg>Rikkevoolukaitselüliti peab avanema.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

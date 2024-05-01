@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>6	Information</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145916Z">
+        <seg>6	INFORMATSIOON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This clause of Part 1 applies except as follows.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145916Z">
+        <seg>Rakendatakse osa 1 jaotist 6 koos alljärgnevate täienduste ja asendustega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>6.1	ASSEMBLY designation marking</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145916Z">
+        <seg>6.1	Kooste nimesildid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Addition to first paragraph:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145916Z">
+        <seg>Esimese lõigu täiendus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The test of 10.2.7 only applies to DBOs intended for outdoor installation.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145916Z">
+        <seg>Jaotises 10.2.7 kirjeldatud katsetust rakendatakse üksnes välisjaotuskilpidele, mida tohivad käsitada tavaisikud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145916Z">
+        <seg>MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In Germany and Sweden, 10.2.7 applies to DBOs intended for indoor installation.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145916Z">
+        <seg>Saksamaal ja Rootsis rakendatakse jaotist 10.2.7 sisejaotuskilpidele, mida tohivad käsitada tavaisikud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Addition of the following new items:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145916Z">
+        <seg>Lisanduvad järgmised uued loendiühikud:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>e)	rated current of the DBO using the symbol InA e.g. InA 250 A;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145916Z">
+        <seg>e)	tavaisikute poolt käsitamiseks ette nähtud jaotuskilpide tunnusvool tähisega InA, nt InA 250 A;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>f)	degree of protection if greater than IP 2XC.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145916Z">
+        <seg>f)	kaitseaste, kui see on kõrgem kui IP 2XC.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

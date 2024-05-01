@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9 	Performance requirements</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>9 TOIMIVUSNÕUDED 9.1 Dielektrilised omadused</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.1 	Dielectric properties</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>9.1.1 Üldnõuded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.1.1 	General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Kooste iga ahel peab olema võimeline taluma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each circuit of the assembly shall be capable of withstanding:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>— ajutisi liigpingeid,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>– 	temporary overvoltages; – 	transient overvoltages.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>— transientliigpingeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The ability to withstand temporary overvoltages, and the integrity of solid insulation, is verified by the power-frequency withstand voltage and the ability to withstand transient overvoltages is verified by the impulse withstand voltage.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Ajutiste liigpingete talumisvõimet ja tahke isolatsiooni terviklikkust kontrollitakse võrgusagedusliku taluvuspingega ning transientliigpingete talumisvõimet kontrollitakse impulsstaluvuspingega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the case of variable frequency drives or converters, reflected voltage waves, recurring peak voltages and frequency can require special attention.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Muutuva sagedusega ajamid või muundurid, peegeldunud pingelained, korduvad tipp-pinged ja nende sagedus võivad nõuda eritähelepanu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>˜NOTE</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>˜MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>IEC 60664-1:2007 contains the requirements for supplementary and reinforced insulation  (Class II).™</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>IEC 60664-1:2007 sisaldab nõudeid lisaisolatsioonile ja tugevdatud isolatsioonile (klass II).™</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.1.2 	Power-frequency withstand voltage</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>9.1.2 Võrgusageduslik taluvuspinge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The circuits of the assembly shall be capable of withstanding the appropriate power-frequency withstand voltages given in Table 8 and Table 9 (see 10.9.2).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Kooste ahelad peavad olema võimelised taluma tabelites 8 ja 9 (vt jaotis 10.9.2) esitatud asjakohaseid võrgusageduslikke taluvuspingeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The rated insulation voltage of any circuit of the assembly shall be equal to or higher than its maximum rated operational voltage.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Kooste iga ahela isolatsiooni tunnuspinge peab vähemalt võrduma ahela suurima tunnus-talitluspingega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enclosures and external operating handles manufactured from or covered with insulating materials shall be capable of withstanding the power frequency dielectric tests as given in 10.9.4 and 10.9.5.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Isoleermaterjalist valmistatud või sellega kaetud ümbrised ja välised talitluskäepidemed peavad olema võimelised taluma jaotistes 10.9.4 ja 10.9.5 esitatud võrgusageduslikke dielektrilisi katsetusi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conductors covered with insulating material to provide protection against electric shock shall be capable of withstanding the power frequency dielectric test as given in 10.9.6.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Juhid, mis on kaetud isoleermaterjaliga, et tagada kaitse elektrilöögi eest, peavad olema võimelised taluma jaotises 10.9.6 esitatud võrgusageduslikku dielektrilist katsetust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This test is not required for insulated conductors which are verified to be suitably insulated according to their product standard (e.g. cables).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Seda katsetust ei nõuta isoleeritud juhtide (nt kaablite) puhul, mille sobivat isolatsiooni on kontrollitud nende tootestandardite järgi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.1.3 	Impulse withstand voltage</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>9.1.3 Impulsstaluvuspinge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.1.3.1 	Impulse withstand voltages of main circuits</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>9.1.3.1 	Peaahelate impulsstaluvuspinge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clearances from live parts to exposed-conductive-parts and between live parts of different potential shall be capable of withstanding the test voltage given in Table 10 as appropriate for the rated impulse withstand voltage.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Pingestatud osade ja pingealdiste juhtivate osade vahelised ning pingestatud eri potentsiaaliga osade vahelised õhkvahemikud peavad olema võimelised taluma asjakohasele tunnus-impulsstaluvuspingele vastavat tabelis 10 esitatud teimipinget.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The rated impulse withstand voltage for a given rated operational voltage shall not be less than that corresponding in Annex G to the type of supply system and the nominal voltage of the supply system of the circuit at the point where the assembly is to be used and the appropriate overvoltage category.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Antud tunnus-talitluspingele vastav tunnus-impulsstaluvuspinge ei tohi olla madalam kui lisas G esitatud elektrivarustussüsteemi liigile vastav pinge ja ahela toitesüsteemi nimipinge kohas, kus koostet kasutatakse, ja asjakohane liigpingekategooria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.1.3.2 	Impulse withstand voltages of auxiliary circuits</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>9.1.3.2 	Abiahelate impulsstaluvuspinged</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	Auxiliary circuits that are connected to the main circuit and operate at the rated operational voltage without any means for reduction of overvoltage shall comply with the requirements of 9.1.3.1.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>a)	Peaahelaga ühendatud ja tunnus-talitluspingel talitlevad abiahelad, milles ei ole rakendatud liigpinget piiravaid meetmeid, peavad vastama jaotise 9.1.3.1 nõuetele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	Auxiliary circuits that are not connected to the main circuit may have an overvoltage withstand capacity different from that of the main circuit.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>b)	Abiahelatel, mis ei ole peaahelaga ühendatud, võib olla peaahelast erinev liigpingetaluvusvõime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The clearances of such circuits – AC or DC – shall be capable of withstanding the appropriate impulse withstand voltage in accordance with Annex G.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Niisuguste ahelate vahelduv- või alalispinge jaoks ette nähtud õhkvahemikud peavad olema võimelised taluma asjakohast lisaga G kooskõlas olevat impulsstaluvuspinget.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.1.4 	Protection of surge protective devices</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>9.1.4 Liigpingepiirikute kaitse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When overvoltage conditions require surge protective devices (SPDs) to be connected to the main circuit, such SPDs shall be protected to prevent uncontrolled short-circuit conditions as specified by the SPD manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Kui liigpingeolud nõuavad peaahelaga ühendatud liigpingepiirikuid, tuleb neid kaitsta kontrollimatute lühiseolukordade vältimise teel, nagu selle on sätestanud liigpingepiiriku tootja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The installation of the SPD needs to respect the instructions of the SPD manufacturer, for example, the total length of conductors between the terminals of the SPD to the line and earth, as applicable.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Liigpingepiiriku paigaldamine vajab liigpingepiiriku tootja juhiste tunnustamist, näiteks juhtide kogupikkuse arvestamist liigpingepiiriku klemmide ning faasi ja maa vahel, nagu see on rakendatav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.2 	Temperature-rise limits</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>9.2 Ületemperatuuri piirangud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.2.1 	General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>9.2.1 Üldnõuded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The assembly and its circuits shall be able to carry their rated currents under specified conditions (see 5.3.1, 5.3.2, 5.3.3 and 5.4), taking into consideration the ratings of the components, their disposition and application, without exceeding the limits given in Table 6 when verified in accordance with 10.10.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Kooste ja selle ahelad peavad olema võimelised sätestatud oludes (vt jaotised 5.3.1, 5.3.2, 5.3.3 ja 5.4), võttes arvesse komponentide tunnusandmeid, nende paigutust ja rakendust, taluma nende sätestatud tunnusvoolusid tabelis 6 esitatud piiranguid ületamata, kui neid on kontrollitud vastavalt jaotisele 10.10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The temperature-rise limits given in Table 6 apply for a daily average ambient air temperature of 35 °C.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Ületemperatuuri piirväärtused, mis on esitatud tabelis 6, kehtivad ümbruse keskmisel ööpäevasel õhutemperatuuril 35 °C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The temperature-rise of an element or part is the difference between the temperature of this element or part measured in accordance with 10.10.2.3.3 and the ambient air temperature outside the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Elemendi või osa ületemperatuur on vastava elemendi või osa jaotise 10.10.2.3.3 kohaselt mõõdetud temperatuuri ja koostet ümbritseva õhu temperatuuri vahe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the mean ambient air temperature is higher than 35 °C, then the temperature-rise limits shall be adapted for this special service condition, so that the sum of the ambient air temperature and the individual temperature-rise limit remains the same.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Kui ümbruse keskmine temperatuur on kõrgem kui 35 °C, tuleb ületemperatuuri piiranguid kohaldada selles eritalitlusolus selliselt, et ümbrustemperatuuri ja üksiku lubatava ületemperatuuri summa jääks samaks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the daily average ambient air temperature is lower than 35 °C, the same adaptation of the temperature-rise limits is allowed subject to agreement between the user and the assembly manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Kui keskmine ümbrustemperatuur on madalam kui 35 °C, lubatakse samasugust lubatava ületemperatuuri kohaldamist vastavalt kooste kasutaja ja tootja kokkuleppele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In some cases, for example, manual operating means, accessible external covers and enclosures, higher temperatures are permitted, but not higher than maximum limits from  Table 6.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Mõningatel juhtumitel, näiteks käsijuhtimisvahendite kasutamisel, võib lubada puutevõimalike väliskatete ja ümbriste kõrgemat temperatuuri, kuid mitte kõrgemat kui kõrgeimad piirväärtused tabelis 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Table 6, footnote h.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Vt tabeli 6 joonealune märkus h.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The temperature-rise shall not cause damage to current-carrying parts or adjacent parts of the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Ületemperatuur ei tohi põhjustada kooste voolujuhtivate osade ega nendega külgnevate osade kahjustamist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In particular, for insulating materials, the original manufacturer shall demonstrate compliance either by reference to the temperature index, for example, by the methods of IEC 60216 (all parts) or in accordance with IEC 60085:2007.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Eriti peab kooste esmatootja näitama isoleermaterjalide sobivust kas viitega isolatsiooni temperatuuriindeksile näiteks standardisarja IEC 60216 meetodite järgi või vastavuses standardiga IEC 60085:2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.2.2 	Adjustment of rated currents for alternative ambient air temperatures 
+If the temperature-rise limits have been changed to cover a different ambient air temperature, then the rated currents of all busbars, functional units, etc. may need to be changed accordingly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>9.2.2 Tunnusvoolude täpsustamine ümbruse alternatiivse õhutemperatuuri korral 
+Kui ületemperatuuri piiranguid on muudetud vastavalt ümbruse teistsugusele õhutemperatuurile, võib olla vajalik vastavalt muuta kõigi kogumislattide, funktsionaalühikute jne tunnusvoolusid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The original manufacturer shall state the measures to be taken, if any, to ensure compliance with the temperature limits.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Esmatootja peab kehtestama rakendatavad meetmed, kui need on vajalikud, et tagada vastavus temperatuuripiirangutele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If an adaptation for lower ambient air temperatures is made, then the rated currents of the devices published by the device manufacturers shall not be exceeded.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Ümbruse madalama temperatuuriga kohandamisel ei tohi ületada seadiste tunnusvoolusid, mille on avaldanud seadise tootja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If a temperature-rise test has been previously carried out applying the temperature-rise limits for a daily average ambient air temperature of 35 °C, then, up to a daily average ambient air temperature of 50 °C, the rated currents verified by test can be adjusted by calculation as given in 10.10.3.6.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Kui ületemperatuurikatsetus on varem sooritatud, rakendades ületemperatuuripiiranguid ümbruse ööpäevase keskmise õhutemperatuuri 35 °C korral, võib ümbruse ööpäevase keskmise õhutemperatuuri kuni 50 °C katsetusega kontrollitud tunnusvoolusid täpsustada arvutustega, nagu need on esitatud jaotises 10.10.3.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.3 	Short-circuit protection and short-circuit withstand strength</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>9.3 Lühisekaitse ja lühisetaluvus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.3.1 	General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>9.3.1 Üldnõuded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assemblies shall be capable of withstanding the thermal and dynamic stresses resulting from short-circuit currents not exceeding the rated values.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Koosted peavad olema võimelised taluma lühisvooludest tingitud soojuslikke ja dünaamilisi toimeid, mis ei ületa tunnusväärtusi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE 1</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>MÄRKUS 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The short-circuit stresses can be reduced by the use of current-limiting devices, e.g. inductance, currentlimiting fuses or other current-limiting switching devices.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Lühisvooludest tingitud toimeid saab vähendada voolupiiravate seadmete, nt induktiivsuste, voolupiiravate sulavkaitsmete või muude voolupiiravate lülitusseadiste abil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE 2</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>MÄRKUS 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When a short-circuit results from the operation of arc quenching device (AQD) according to IEC 60947-91 or any other intentional short-circuiting device, this results in the maximum stress on the circuits concerned.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Kui lühis tekitatakse standardile IEC 60947-9-1 vastava kaarekõrvaldamisseadise rakendumise või muu tahtliku lühistamise seadise rakendumise teel, tuleneb sellest mõjutatavate ahelate suurim liigkoormus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assemblies shall be protected against short-circuit currents by means of, for example, circuitbreakers, fuses or combinations of both, which may either be incorporated in the assembly or arranged outside of it.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Koosteid tuleb lühisvoolude eest kaitsta näiteks kaitselülitite, sulavkaitsmete või nende kombinatsiooniga, mis võivad olla koostesse sisse ehitatud või asuda väljaspool koostet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For assemblies intended for use in IT systems, the short-circuit protective device should have a sufficient breaking capacity on each single pole at line-to-line voltage to clear a double earth fault.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Koostete puhul, mis on ette nähtud kasutamiseks IT-süsteemides, peab lühisekaitseaparaadi igal üksikpoolusel olema faasidevahelisel pingel piisav lahutusvõime kaksikmaalühise väljalülitamiseks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(See IEC 60364-5-53:2001, IEC 60364-5-53:2001/AMD1:2002 and IEC 60364-553:2001/AMD2:2015).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>(Vt 	standardid 	IEC 60364-5-53:2001, 	IEC 60364-5-53:2001/AMD1:2002 	ja  
+IEC 60364-5-53:2001/AMD2:2015).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unless otherwise specified in the assembly manufacturer’s operating and maintenance instructions, assemblies that have been subjected to a short-circuit may not be suitable for future service without inspection and/or maintenance by skilled person(s).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Kui kooste tootja ei ole koostete talitlus- ja hooldusjuhistes määranud teisiti, võib lühisvoolude toime all olevate koostete edasine talitlus ilma elektrialaisiku(te) ülevaatuse ja/või hoolduseta olla ebapiisav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.3.2 	Information concerning short-circuit withstand strength</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>9.3.2 Teave lühisetaluvuse kohta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For assemblies with a SCPD incorporated in the incoming unit, the assembly manufacturer shall declare the maximum allowable value of the prospective short-circuit current at the input terminals of the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Sisendühikusse sisse ehitatud lühisekaitseaparaadiga koostete puhul peab kooste tootja deklareerima arvutusliku lühisvoolu enimalt lubatava väärtuse kooste sisendklemmidel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This value shall not exceed the appropriate rating(s) (see 5.3.4, 
+5.3.5, and 5.3.6).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>See väärtus ei tohi ületada vastava(te) tunnussuurus(t)e väärtust (väärtusi) (vt jaotised 5.3.4, 5.3.5 ja 5.3.6).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The corresponding power factor and peak values shall be those shown in 9.3.3.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Sellekohane võimsustegur ja tippväärtused peavad vastama jaotisele 9.3.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If a circuit-breaker with a time-delay release is used as the short-circuit protective device, the assembly manufacturer shall state the maximum time-delay and the current setting corresponding to the indicated prospective short-circuit current.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Kui lühisekaitseaparaadina kasutatakse viitega rakenduvat kaitselülitit, peab kooste tootja ette andma esitatud arvutuslikule lühisvoolule vastava pikima viite ja voolusätte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For assemblies where the short-circuit protective device is not incorporated in the incoming unit, the assembly manufacturer shall indicate the short-circuit withstand strength in one or both of the following ways:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Koostete puhul, mille lühisekaitseaparaat ei paikne sisendühikus, peab kooste tootja esitama lühisetaluvusandmed ühel või mõlemal alljärgneval viisil:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	rated short-time withstand current (Icw) together with the associated duration (see 5.3.5) and rated peak withstand current (Ipk) (see 5.3.4);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>a)	lühiajaline tunnus-taluvusvool (Icw) ja selle kestus (vt jaotis 5.3.5) ning tunnus-lööktaluvusvool (Ipk) 
+(vt jaotis 5.3.4);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	rated conditional short-circuit current (Icc) including the current-limiting characteristics of the upstream SCPD (see 3.1.11).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>b)	tinglik 	tunnus-lühisvool 	(Icc) 	koos 	toitepoolse 	lühisekaitseaparaadi 	(vt 	termin 	3.1.11) voolupiiramisandmetega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For times up to a maximum of 3 s, the relationship between the rated short-time current and the associated duration is given by the formula I2t = constant, provided that the peak value does not exceed the rated peak withstand current.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Kestusel kuni 3 s on suurima lühiajalise tunnus-taluvusvoolu ja selle kestuse vaheline sõltuvus määratud valemiga I2t = const eeldusel, et löökvool ei ületa tunnus-lööktaluvusvoolu väärtust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For an assembly having several incoming units which are unlikely to be in operation simultaneously, the short-circuit withstand strength can be indicated for each of the incoming units in accordance with the above.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Mitme sisendühikuga kooste puhul, mille sisendühikute üheaegne talitlus ei ole tõenäoline, võib lühisetaluvuse näidata vastavalt eeltoodule iga sisendühiku kohta eraldi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For an assembly having several incoming units which are likely to be in operation simultaneously, and for an assembly having one incoming unit and one or more outgoing highpower units likely to contribute to the short-circuit current, it is necessary to determine the values of the prospective short-circuit current, considering all operating modes, in each incoming unit, in each outgoing unit and in the busbars.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Mitme sisendühikuga kooste puhul, mille sisendühikud võivad talitleda ühel ajal, ning kooste puhul, millel on üks sisendühik ja üks või mitu suure võimsusega väljundühikut, mis võivad mõjutada lühisvoolu, on vaja määrata kõiki talitlusviise, arvestades iga sisendühiku, iga väljundühiku ning kogumislattide arvutusliku lühisvoolu väärtusi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The prospective short-circuit currents determined shall be based on data provided by the user.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Määratud arvutuslikud lühisvoolud peavad põhinema kasutaja esitatud andmetel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.3.3 	Relationship between peak current and short-time current</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>9.3.3 Löökvoolu ja lühiajalise voolu vaheline seos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For determining the electrodynamic stresses, the value of peak current shall be obtained by multiplying the RMS value for AC applications and mean value for DC applications of the shortcircuit current by the factor n.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Elektrodünaamiliste liigkoormuste määramiseks tuleb löökvool arvutada lühisvoolu vahelduvvoolurakenduste efektiivväärtuse või alalisvoolurakenduste keskväärtuse korrutisena teguriga n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The values for the factor n and the corresponding power factor for AC applications are given in Table 7.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Teguri n väärtused ja vahelduvvoolurakenduste asjakohane võimsustegur on esitatud tabelis 7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The peak factor for DC applications is subject to agreement between the manufacturer and the user.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Alalisvoolurakenduste lööktegur on tootja ja kasutaja vahelise kokkuleppe aines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE For DC applications, if the user has not stated a peak current value, the value of n = 1,42 is typically used.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>MÄRKUS Alalisvoolurakenduste puhul, kui kasutaja ei ole määranud löökvoolu väärtust, kasutatakse tüüpiliselt väärtust n = 1,42.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.3.4 	Coordination of protective devices</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>9.3.4 Kaitseaparaatide koordineerimine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The coordination of protective devices within the assembly with those to be used externally to the assembly shall be the subject of an agreement between the assembly manufacturer and the user.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Koostesiseste kaitseaparaatide koordineerimine väljaspool koostet asuvate kaitseaparaatide suhtes peab olema kooste tootja ja kasutaja vahel kokku lepitud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Information given in the assembly manufacturer's catalogue may take the place of such an agreement.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Sellise kokkuleppena võib arvestada ka tootja kataloogides esitatavaid andmeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the operating conditions require maximum continuity of supply, the settings or selection of the short-circuit protective devices within the assembly should, where possible, be so coordinated that a short-circuit occurring in any outgoing circuit is cleared by the SCPD installed in the circuit without affecting the other outgoing circuits, thus ensuring selectivity of the protective system.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Kui talitlusolud nõuavad kindlaimat pidevat energiavarustust, tuleb koostesiseste lühisekaitseaparaatide sätted või valik koordineerida võimalust mööda selliselt, et kooste mingi väljundi lühise lülitab välja selle väljundi lüliti, mõjutamata teisi väljundeid, tagades seega kaitse selektiivsuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where short-circuit protective devices are connected in series and are intended to operate simultaneously to reach the required short-circuit switching capability (i.e. back-up protection), the assembly manufacturer shall inform the user (e.g. by a warning label in the assembly or in the operating instructions, see 6.2) that none of the protective devices are allowed to be replaced by another device which is not of identical type and rating, unless the device is tested and approved in combination with the back-up device since the switching capability of the whole combination can otherwise be compromised.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Kui lühisekaitseaparaadid on lülitatud jadamisi ja on lühisvoolu nõutava lahutusvõime tagamiseks ette nähtud üheaegseks talitluseks (s.t varukaitset sisaldava süsteemina), peab kooste tootja teavitama kasutajat (nt koostel paikneva hoiatussildiga või talitlusjuhendis, vt jaotis 6.2), et ühtegi kaitseaparaati ei tohi asendada mingi teist liiki või teistsuguste tunnusandmetega aparaadiga, väljaarvatult juhtumil, mil aparaati on katsetatud ja heaks kiidetud kombinatsioonis koos varukaitsega, sest muidu võib kaduda kogu aparaadikombinatsiooni lülitusvõime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Further guidance is given in IEC TR 61912-1:2007 and IEC TR 61912-2:2009.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Lisajuhised on esitatud dokumentides IEC TR 61912-1:2007 ja IEC TR 61912-2:2009.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See also 8.5.3.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Vt ka jaotis 8.5.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.4 	Electromagnetic compatibility (EMC)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>9.4 Elektromagnetiline ühilduvus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For EMC-related performance requirements, see J.9.4.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T181419Z">
+        <seg>Elektromagnetilise ühilduvusega seotud toimivusnõuded on esitatud jaotises J.9.4.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

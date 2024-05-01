@@ -1,0 +1,22 @@
+large central conventional or renewable power generation systems	suured kesksed tava- või taastuvenergia tootmissüsteemid
+thermal power plants	soojuselektrijaamad
+hydropower plants	hüdroelektrijaamad
+nuclear power plants	tuumaelektijaamad
+onshore and offshore wind farms	maismaa- ja avameremeretuulepargid
+photovoltaic and solar power plants	fotoelektrilised ja päikeseelektijaamad
+geothermal plants	geotermaalelektijaamad
+distributed and/or renewable energy resources	haja- ja/või taastuvenergiaressursid
+wind turbine generators	elektrituulikud
+diesel and gas generators	diisel- ja gaaselektijaamad 
+photovoltaic, solar thermal and combined heat and power (CHP) units	fotoelektrilised, päikesesoojus- ja kombielektijaamad
+generation from combustible renewables	taastuvkütustest elektri tootmine
+storage or a combination of storage technologies	salvesti või kombineeritud salvestuslahendused
+thermal storage	soojussalvesti
+electrochemical storage	elektrokeemiline salvesti
+electrical storage	elektrisalvesti
+mechanical storage	mehaaniline salvesti
+power to X technologies	elektrienergia muundamise lahendused
+power to gas	elektriga gaasi tootmine
+power to liquid	elektirga vedeliku tootmine
+power to heat	elektriga soojuse tootmine
+transmission and distribution systems, including technical equipment provided by such systems	ülekande- ja jaotussüsteemid koos nende tehnovarustusega

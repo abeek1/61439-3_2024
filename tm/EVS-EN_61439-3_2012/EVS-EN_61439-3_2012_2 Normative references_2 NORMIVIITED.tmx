@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2	Normative references</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T185620Z">
+        <seg>2	NORMIVIITED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This clause of Part 1 applies except as follows.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T185620Z">
+        <seg>Osa 1 see jaotis kehtib koos alljärgneva täiendusega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Addition:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T185620Z">
+        <seg>Täiendus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>IEC 61439-1:2011, Low-voltage switchgear and controlgear assemblies – Part 1: General rules</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T185620Z">
+        <seg>EVS-EN 61439-1:2012. Madalpingelised aparaadikoosted. Osa 1: Üldreeglid</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

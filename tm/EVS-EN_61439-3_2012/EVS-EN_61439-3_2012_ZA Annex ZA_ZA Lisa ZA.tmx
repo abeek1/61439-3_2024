@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Annex ZA (normative)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T154333Z">
+        <seg>Lisa ZA (normlisa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Normative references to international publications with their corresponding European publications</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T154333Z">
+        <seg>Normiviited rahvusvahelistele standarditele ja neile vastavatele Euroopa standarditele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following documents, in whole or in part, are normatively referenced in this document and are indispensable for its application.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T154333Z">
+        <seg>Standard sisaldab dateeritud ja dateerimata viidete abil muude väljaannete sätteid. Need normiviited on osundatud teksti sobivates kohtades ning väljaanded on loetletud allpool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For dated references, only the edition cited applies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T154333Z">
+        <seg>Dateeritud viidete hilisemad muudatused ja uustöötlused rakenduvad selles standardis üksnes muudatuse või uustöötluse kaudu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For undated references, the latest edition of the referenced document (including any amendments) applies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T154333Z">
+        <seg>Dateerimata viidete korral kehtib viidatud dokumendi uusim väljaanne koos kõigi muudatustega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T154333Z">
+        <seg>MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When an international publication has been modified by common modifications, indicated by (mod), the relevant EN/HD applies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T154333Z">
+        <seg>Kui rahvusvahelist standardit on ühismuutustega muudetud (tähis mod), kehtib vastav Euroopa standard (EN) või harmoneerimisdokument (HD).</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

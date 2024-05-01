@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>7 	Service conditions</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>7 TALITLUSOLUD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>7.1 	Normal service conditions</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>7.1 Normaaltalitlusolud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>7.1.1 	Climatic conditions</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>7.1.1 Kliimaolud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assemblies conforming to this document are intended for use under the normal service conditions detailed in Table 15.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>Sellele dokumendile vastavad koosted on ette nähtud kasutamiseks normaalsetes talitlusoludes, mis on üksikasjalikult esitatud tabelis 15.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If components, for example relays, electronic equipment, are used which are not designed for these conditions, the environment provided within the assembly shall be suitable for the components.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>Kui kasutatakse komponente, näiteks releesid või elektroonikaseadiseid, mis ei ole ette nähtud nendele oludele, peab koostes ette nähtud keskkond sobima nendele komponentidele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>7.1.2 	Pollution degree</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>7.1.2 Saasteaste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The pollution degree referred to in Annex C is the macro-environmental condition for which the assembly is intended.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>Lisas C kirjeldatud saasteaste kujutab endast makrokeskkonna olukorda, mille jaoks kooste on ette nähtud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For switching devices and components inside an enclosure, the pollution degree of the environmental conditions inside the enclosure, the micro-environment, is applicable.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>Ümbrises 	paiknevate 	lülitusaparaatide 	ja 	komponentide 	puhul 	rakendatakse 	koostesisestele keskkonnaoludele mikrokeskkonnale vastavat saasteastet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For the purpose of evaluating clearances and creepage distances, the following four degrees of pollution in the micro-environment are established.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>Õhk- ja roomevahemike hindamiseks on kehtestatud neli järgmist mikrokeskkonna saasteastet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	Pollution degree 1:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>•	Saasteaste 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No pollution or only dry, non-conductive pollution occurs.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>saastet ei ole või esineb ainult mittejuhtiva kuivsaastena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The pollution has no influence.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>Saaste mõju ei arvestata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	Pollution degree 2:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>•	Saasteaste 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Only non-conductive pollution occurs except that occasionally a temporary conductivity caused by condensation is to be expected.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>võib 	tekkida 	üksnes 	mittejuhtiv 	saaste, 	väljaarvatult 	see, 	et 	tuleb 	arvestada 	niiskuse kondenseerumisest tingitud ajutist juhuslikku juhtivat saastet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	Pollution degree 3:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>•	Saasteaste 3:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conductive pollution occurs, or dry, non-conductive pollution occurs which is expected to become conductive due to condensation.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>ilmneb juhtiv saaste või kuiv mittejuhtiv saaste, mis eeldatavasti võib niiskuse kondenseerumise tõttu muutuda juhtivaks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	Pollution degree 4:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>•	Saasteaste 4:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Continuous conductivity occurs due to conductive dust, rain or other wet conditions.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>ilmneb püsivalt juhtiv saaste juhtiva tolmu, vihma või muude niiskusolude tõttu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pollution degree 4 is not applicable to this document for a micro-environment inside the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>Saasteastet 4 ei saa rakendada selles dokumendis määratud koostesisese mikrokeskkonna jaoks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The micro-environment within the assembly can be different from the macro-environment outside the enclosure.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>Koostesisene mikrokeskkond võib erineda makrokeskkonnast väljaspool ümbrist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The pollution degree for a particular type of assembly is given in the relevant assembly standard.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>Saasteaste kooste konkreetse liigi jaoks on esitatud asjakohases koostestandardis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The pollution degree of the micro-environment for the equipment can be influenced by installation in an enclosure.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>Seadme mikrokeskkonna saasteastet võib mõjutada paigutamine ümbrisesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When there is a need to open the assembly for normal service or operation the macro-environment of the installation can have an effect on the micro-environment.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>Kui on vaja koostet normaaltalitluses või -käidus avada, võib paigaldise makrokeskkond toimida mikrokeskkonnale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>7.2 	Special service conditions</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>7.2 Eritalitlusolud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where any special service conditions exist, the applicable particular requirements shall be complied with or special agreements shall be made between the assembly manufacturer and the user.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>Kui on olemas mingisugused talitluse eriolud, tuleb järgida rakendatavaid erinõudeid või sõlmida kooste tootja ja kasutaja vahel erikokkulepe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The user shall inform the assembly manufacturer if such exceptional service conditions exist.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>Erandlikest talitlusoludest peab kasutaja kooste tootjat informeerima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Special service conditions include, for example:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>Eritalitlusolude hulka kuuluvad näiteks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	values of temperature, relative humidity and/or altitude differing from those specified in 7.1;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>a)	temperatuur, suhteline niiskus ja/või kõrgus merepinnast, mis erinevad jaotises 7.1 sätestatuist;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	applications where variations in climatic conditions are likely to result in exceptional condensation inside the assembly;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>b)	rakendused, milles kliimaolude muutused tekitavad kooste sisemuses tõenäoliselt niiskuse erandliku kondenseerumise;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>c)	heavy pollution of the air by dust, smoke, corrosive or radioactive particles, vapours or salt;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>c)	õhu tugev saastumine tolmu, suitsu, sööbivate või radioaktiivsete ainete, aurude või soolaga;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>d)	exposure to strong electric or magnetic fields;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>d)	tugevate elektri- või magnetväljade toime;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>e)	exposure to extreme climatic conditions;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>e)	äärmuslike kliimaolude toime;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>f)	attack by fungus or small creatures;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>f)	seente või väikeolendite toime;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>g)	installation in locations where fire or explosion hazards exist;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>g)	paigaldamine piirkondadesse, kus on olemas tule- või plahvatusoht;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>h)	exposure to heavy vibration, shocks, seismic occurrences;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>h)	tugeva vibratsiooni, löökide või seismiliste nähtuste toime;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>i)	installation in such a manner that the current-carrying capacity is affected, for example equipment built into machines or recessed into walls;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>i)	paigaldamine viisil, mis mõjutab seadmete kestvalt lubatavat voolu, näiteks sisseehitamine masinatesse või süvistamine seintesse;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>j)	exposure to conducted and radiated disturbances other than electromagneti c, and electromagnetic disturbances in environments other than those described in 9.4;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>j)	mitte-elektromagnetiliste juhtivus- ja kiirgushäiringute toime ja kui keskkonna elektromagnetilised häiringud erinevad jaotises 9.4 kirjeldatuist;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>k)	exceptional overvoltage conditions or voltage fluctuations</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>k)	erandlike liigpingete või pinge erandliku kõikumise toime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>l)	excessive harmonics in the supply voltage or load current;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>l)	toitepinge või koormusvoolu liigtugevad harmoonilised komponendid;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>m)	exposure to radiation (for example, X-rays, microwave, ultraviolet other than solar, lasers).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>m)	kiirguse toime (näiteks röntgenkiirgus, mikrolained, mittepäikeseline ultraviolettkiirgus, laserid).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>7.3 	Conditions during transport, storage and installation</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>7.3 Transpordi-, hoiu- ja paigaldamisolud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A special agreement shall be made between the assembly manufacturer and the user if the conditions during transport, storage and installation, for example temperature and humidity conditions, differ from those defined in 7.1.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T171005Z">
+        <seg>Kui transpordi-, hoiu- ja paigaldamisolud, näiteks temperatuuri- ja niiskusolud, erinevad jaotises 7.1 määratletuist, tuleb kooste tootja ja kasutaja vahel sõlmida erikokkulepe.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

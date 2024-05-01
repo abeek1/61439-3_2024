@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This document (EN 13231:2006) has been prepared by Technical Committee CEN/TC 256 „Railway applications“, the secretariat of which is held by DIN.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Dokumendi (EN 13231:2006) on koostanud tehniline komitee CEN/TC 256 „Railway applications“, mille sekretariaati haldab DIN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This European Standard was prepared by CENELEC BTTF 128-2, Erection and operation of electrical test equipment.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Selle Euroopa standardi on koostanud CENELEC-i tehnilise nõukoja töörühm BTTF 128-2 „Erection and operation of electrical test equipment“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It was submitted to the formal vote and was approved by CENELEC as EN 50191 on 2010-10-01.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Standardikavandi tekst on esitatud formaalsele hääletusele ja CENELEC on selle 01.10.2010 üle võtnud kui EN 50191.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The text of document 64/1752/FDIS, future edition 1 of IEC 60364-7-718, prepared by IEC/TC 64 „Electrical installations and protection against electric shock“ was submitted to the IEC-CENELEC parallel vote and approved by CENELEC as HD 60364-7-718:2013.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>IEC tehnilise komitee TC 64 „Electrical installations and protection against electric shock“ koostatud dokumendi 64/1752/FDIS tekst, rahvusvahelise standardi IEC 60364-7-718 tulevane esimene väljaanne on esitatud IEC ja CENELEC-i paralleelsele hääletusele ja CENELEC on selle üle võtnud kui HD 60364-7-718:2013.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A draft amendment, prepared by SC 64B, Electrical installations and protection against electric shock – Protection against thermal effects, of Technical Committee CENELEC TC 64, Electrical installations and protection against electric shock, was submitted to the formal vote.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>CENELEC-i tehnilise komitee TC 64 „Electrical installations and protection against electric shock“ alamkomitee SC 64B „Electrical installations and protection against electric shock – Protection against thermal effects“ koostatud muudatuse kavand on esitatud formaalsele hääletusele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This European Standard shall be given the status of a national standard, either by publication of an identical text or by endorsement, at the latest by June 2006, and conflicting national standards shall be withdrawn at the latest by June 2006.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Euroopa standardile tuleb anda rahvusliku standardi staatus kas identse tõlke avaldamisega või jõustumisteatega hiljemalt 2006. a juuniks ja sellega vastuolus olevad rahvuslikud standardid peavad olema kehtetuks tunnistatud hiljemalt 2006. a juuniks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This document supersedes EN 13286-2:2004.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>See dokument asendab standardit EN 13286-2:2004.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This document has been prepared under a mandate given to CEN by the European Commission and the European Free Trade Association and supports essential requirements of EU Directive(s):
+"The following dates were fixed:
+latest date by which the EN has to be implemented at national level by publication of an identical national standard or by endorsement (dop) 2008-10-01
+latest date by which the national standards conflicting with the EN have to be withdrawn (dow) 2010-10-01"
+— latest date by which the existence of the HD has to be announced at national level (doa) 2011-07-24
+"The start and finish of text introduced or altered by amendment is indicated in the text by tags !""."
+According to the CEN/CENELEC Internal Regulations, the national standards organizations of the following countries are bound to implement this European Standard: Austria, …
+According to the CEN/CENELEC Internal Regulations, the national standards organizations of the following countries are bound to announce this Technical Specification:
+The text of ISO 13370:2007 has been approved by CEN as a EN ISO 13370:2007 without any modification.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Dokument on koostatud mandaadi alusel, mille on Euroopa Standardimiskomiteele (CEN) andnud Euroopa Komisjon ja Euroopa Vabakaubanduse Assotsiatsioon, ja see toetab EL-i direktiivi(de) olulisi nõudeid:
+"Kehtestati järgmised tähtpäevad:
+viimane tähtpäev Euroopa standardi kehtestamiseks riigi tasandil identse rahvusliku standardi avaldamisega või jõustumisteate meetodil kinnitamisega (dop) 2008-10-01
+viimane tähtpäev Euroopa standardiga vastuolus olevate rahvuslike standardite tühistamiseks (dow) 2010-10-01"
+— viimane tähtpäev harmoneerimisdokumendi olemasolu teatavakstegemiseks riigi tasandil (doa) 2011-07-24
+"Muudatusega lisatud või muudetud teksti algus ja lõpp tekstis on tähistatud sümbolitega !""."
+"CEN-i/CENELEC-i sisereeglite järgi peavad Euroopa standardi kasutusele võtma järgmiste riikide rahvuslikud standardimisorganisatsioonid: Austria,
+… (riiginimed eesti tähestikulises järjestuses)."
+CEN-i/CENELEC-i sisereeglite järgi peavad tehnilise spetsifikatsiooni olemasolust teavitama järgmiste riikide rahvuslikud standardimisorganisatsioonid:
+CEN on dokumendi ISO 13370:2007 teksti muutmata kujul üle võtnud kui EN ISO 13370:2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The text of the International Standard IEC 60027-7:2010 was approved by CENELEC as a European Standard without any modification.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>CENELEC on rahvusvahelise standardi IEC 60027-7:2010 teksti muutmata kujul üle võtnud Euroopa standardina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The  text  of  the  International  Standard IEC 60204-1:2005 was approved by CENELEC as a European Standard with agreed common modifications as given below.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>CENELEC   on   rahvusvahelise   standardi IEC 60204-1:2005 teksti koos allpool toodud kokkulepitud ühismuudatustega üle võtnud Euroopa standardina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This document (HD 60364-7-710:2012) consists of the text of IEC 60364-7-710:2002 prepared by IEC/TC 64 „Electrical installations and protection against electric shock“, together with the common modifications prepared by CLC/TC 64, „Electrical installations and protection against electric shock“.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>See dokument HD 60364-7-710:2012 koosneb IEC tehnilise komitee TC 64 „Electrical installations and protection against electric shock“ koostatud standardi IEC 60364-7-710:2002 ja CENELEC-i tehnilise komitee TC 64 „Electrical installations and protection against electric shock“ koostatud ühismuudatuste tekstist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In this document, the common modifications to the International Standard are indicated by a vertical line in the left margin of the text.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Selles dokumendis on rahvusvahelise standardi ühismuudatused tähistatud püstkriipsuga teksti vasakul veerisel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In this document, the modifications to the International Standard are indicated by a vertical line in the left margin.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Selles dokumendis on muudatused võrreldes IEC standardiga tähistatud püstkriipsuga lehe vasakul veerisel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the official version, for Bibliography, the following notes have to be added for the standards indicated:
+Harmonized as EN 60570:2003 (modified).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Ametliku väljaande kirjanduse loetelus tuleb viidatud standarditele lisada järgmised märkused:
+Harmoneeritud kui EN 60570:2003 (muudetud).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Harmonized as EN 60909-0:2001 (not modified).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Harmoneeritud kui EN 60909-0:2001 (muutmata).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Harmonized as EN 61439 series (partly modified).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Harmoneeritud standardisarjas EN 61439 (osaliselt muudetud).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approved as EN 60570:2003 (modified).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Üle võetud kui EN 60570:2003 (muudetud).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Annex ZA has been added by CENELEC.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Lisa ZA on lisanud CENELEC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For the relationship with EU Directive see informative Annex ZA, which is an integral part of this document.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Teave EL-i direktiivi kohta on esitatud teatmelisas ZA, mis on selle dokumendi lahutamatu osa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The main changes with respect to HD 60364-7-717:2004 are as follows:
+The significant technical changes with respect to EN 60079-19:2007 are as follows:
+Significant changes between this document and EN 12464-2:2007 are:
+For an explanation on the meaning of ISO specific terms and expressions related to conformity assessment, as well as information about ISO’s adherence to the WTO principles in the Technical Barriers to Trade (TBT) see the following URL: Foreword – Supplementary information.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Peamised muudatused võrreldes harmoneerimis- dokumendiga HD 60364-7-717:2004 on järgmised:
+Olulised tehnilised muudatused võrreldes standardiga EN 60079-19:2007 on järgmised:
+Selle dokumendi olulised muudatused võrreldes standardiga EN 12464-2:2007 on järgmised:
+Selgitused vastavushindamisega seotud ISO eriomaste terminite ja väljendite kohta ning teave selle kohta, kuidas ISO järgib WTO tehniliste kaubandustõkete lepingus sätestatud põhimõtteid, on esitatud järgmisel aadressil: Foreword – Supplementary information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies (ISO member bodies).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>ISO (International Organization for Standardization) on ülemaailmne rahvuslike standardimisorganisatsioonide (ISO rahvuslike liikmesorganisatsioonide) föderatsioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The work of preparing International Standards is normally carried out through ISO technical committees.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Tavaliselt tegelevad rahvusvahelise standardi koostamisega ISO tehnilised komiteed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Kõigil rahvuslikel liikmesorganisatsioonidel, kes on mingi tehnilise komitee pädevusse kuuluvast valdkonnast huvitatud, on õigus selle komitee tegevusest osa võtta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Selles töös osalevad ka ISO-ga seotud rahvusvahelised riiklikud organisatsioonid ning vabaühendused.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Kõigis elektrotehnika standardimist puudutavates küsimustes teeb ISO tihedat koostööd Rahvusvahelise Elektrotehnikakomisjoniga (IEC).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ISO (the International Organization for Standardization) and IEC (the International Electrotechnical Commission) form the specialized system for worldwide standardization.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>ISO (International Organization for Standardization) ja IEC (International Electrotechnical Commission) moodustavad  ülemaailmse standardimise kohandatud süsteemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>National bodies that are members of ISO or IEC participate in the development of International Standards through technical committees established by the respective organization to deal with particular fields of technical activity.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Rahvuslikud organisatsioonid, kes on ISO või IEC liikmed, osalevad rahvusvaheliste standardite väljatöötamisel  asjakohase organisatsiooni loodud tehniliste komiteede kaudu, mille eesmärk on tegeleda konkreetsete tehniliste valdkondadega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ISO and IEC technical committees collaborate in fields of mutual interest.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>ISO ja IEC tehnilised komiteed teevad koostööd mõlemale organisatsioonile huvi pakkuvates valdkondades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other international organizations, governmental and non- governmental, in liaison with ISO and IEC, also take part in the work.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Selles töös osalevad ka muud ISO-ga ja IEC-ga seotud rahvusvahelised riiklikud organisatsioonid ning vabaühendused.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>International Standards are drafted in accordance with the rules given in the ISO/IEC Directives, Part 2.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Rahvusvahelised standardid kavandatakse ISO/IEC direktiivide 2. osas esitatud reeglite kohaselt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The main task of technical committees is to prepare International Standards.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Tehniliste komiteede põhiülesanne on rahvusvaheliste standardite koostamine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draft International Standards adopted by the technical committees are circulated to the member bodies for voting.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Tehnilistes komiteedes vastuvõetud rahvusvahelised standardikavandid saadetakse hääletamiseks rahvuslikele   liikmesorganisatsioonidele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Publication as an International Standard requires approval by at least 75 % of the member bodies casting a vote.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Avaldamine rahvusvahelise standardina nõuab, et hääletusel  osalenud  rahvuslikest liikmesorganisatsioonidest kiidaks selle heaks vähemalt 75 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Tuleb pöörata tähelepanu võimalusele, et dokumendi mõni osa võib olla patendiõiguse objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ISO shall not be held responsible for identifying any or all such patent rights.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>ISO ei vastuta sellis(t)e patendiõigus(t)e väljaselgitamise ega selgumise eest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any feedback and questions on this document should be directed to the users’ national standards body/national committee.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Igasugune tagasiside ja küsimused selle dokumendi kohta tuleks suunata dokumendi kasutaja rahvuslikule standardimisorganisatsioonile / rahvuslikule komiteele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A complete listing of these bodies can be found on the CEN and CENELEC websites.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Täielik loetelu nende organisatsioonide kohta on leitav CEN-i ja CENELEC-i veebilehtedelt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scope
+Normative references
+There are no normative references in this document.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Käsitlusala
+Normiviited
+Selles dokumendis ei ole normiviiteid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following referenced documents are indispensable for the application of this document.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Allpool nimetatud dokumendid on vajalikud selle dokumendi rakendamiseks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For dated references, only the edition cited applies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Dateeritud viidete korral kehtib üksnes viidatud väljaanne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For undated references, the latest edition of the referenced document (including any amendments) applies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Dateerimata viidete korral kehtib viidatud dokumendi uusim väljaanne koos võimalike muudatustega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following referenced documents, where applicable, are indispensable for the application of this document.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Allpool nimetatud dokumendid, kui need on rakendatavad, on vajalikud selle dokumendi rakendamiseks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For dated references, only the edition cited applies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Dateeritud viidete korral kehtib üksnes viidatud väljaanne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For undated references, the latest edition of the referenced document (including any amendments) applies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Dateerimata viidete korral kehtib viidatud dokumendi uusim väljaanne koos võimalike muudatustega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following documents, in whole or in part, are normatively referenced in this document and are indispensable for its application.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Allpool nimetatud dokumendid, mille kohta on selles dokumendis esitatud normiviited, on kas tervenisti või osaliselt vajalikud selle rakendamiseks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For dated references, only the edition cited applies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Dateeritud viidete korral kehtib üksnes viidatud väljaanne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For undated references, the latest edition of the referenced document (including any amendments) applies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Dateerimata viidete korral kehtib viidatud dokumendi uusim väljaanne koos võimalike muudatustega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Allpool nimetatud dokumentidele on tekstis viidatud selliselt, et nende sisu kujutab endast kas osaliselt või tervenisti selle dokumendi nõudeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For dated references, only the edition cited applies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Dateeritud viidete korral kehtib üksnes viidatud väljaanne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For undated references, the latest edition of the referenced document (including any amendments) applies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Dateerimata viidete korral kehtib viidatud dokumendi uusim väljaanne koos võimalike muudatustega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No terms and definitions are listed in this document.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Selles dokumendis ei ole terminite ja määratluste loetelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"ISO and IEC maintain terminological databases for use in standardization at the following addresses:
+ISO Online browsing platform: available at https://www.iso.org/obp/;
+IEC Electropedia: available at http://www.electropedia.org/."</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>"ISO ja IEC hoiavad alal standardimisel kasutamiseks olevaid terminoloogiaandmebaase järgmistel aadressidel:
+ISO veebipõhine lugemisplatvorm: kättesaadav veebilehelt https://www.iso.org/obp/;
+IEC Electropedia: kättesaadav veebilehelt http://www.electropedia.org/."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Terms and definitions</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Terminid ja määratlused</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For the purposes of this document, the following terms and definitions apply.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Dokumendi rakendamisel kasutatakse allpool esitatud termineid ja määratlusi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For the purposes of this document, the terms and definitions given in IEC 60050 and the following apply.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Dokumendi rakendamisel kasutatakse standardis IEC 60050 ning allpool esitatud termineid ja määratlusi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Üldist, Üldnõuded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Annex A (informative)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Lisa A (teatmelisa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Annex A (normative)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Lisa A (normlisa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Key, Legend</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Selgitused</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE, Note to entry</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Special national condition: National characteristic or practice that cannot be changed even over a long period, e.g. climatic conditions, electrical earthing conditions.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Rahvuslik eritingimus tuleneb tegelikkuses valitsevatest asjaoludest, mida ei saa isegi pika aja jooksul muuta, nagu kliimaolud ja elektrilise maandamise võimalused.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If it affects harmonization, it forms part of the European Standard or Harmonization Document.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Kui see mõjutab harmoneerimist, on see osa Euroopa standardist või harmoneerimisdokumendist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For the countries in which the relevant special national conditions apply these provisions are normative, for other countries they are informative.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Riikides, mille kohta vastavad rahvuslikud eritingimused käivad, on need normatiivsed, teistes riikides aga teatmelised.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A-deviation: National deviation due to regulations, the alteration of which is for the time being outside the competence of the CEN-CENELEC national member.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>A-kõrvalekalle on riigi õigusaktidest tingitud erinevus, mille muutmine on praegusel ajal väljaspool CEN-i/CENELEC-i liikmesorganisatsiooni pädevust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This European Standard does not fall under any Directive/Regulation of the EU.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>See Euroopa standard ei kuulu ühegi Euroopa Liidu direktiivi/määruse alla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the relevant CEN-CENELEC countries, these A-deviations are valid instead of the respective provisions of the European Standard until the national situation causing the A-deviation has changed.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Need A-kõrvalekalded kehtivad asjakohastes CEN-i/CENELEC-i maades selle Euroopa standardi vastavate nõuete asemel, kuni A-kõrvalekallet põhjustav riiklik olukord on muutunud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A-deviations in an EFTA-country are valid instead of the relevant provisions of the European Standard in that country until they have been removed.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>A-kõrvalekalded kehtivad EFTA maades selle Euroopa standardi asjakohaste nõuete asemel kuni nende tühistamiseni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In addition to other standards, it is intended to be complementary to the regulatory measures contained in various EU Directives.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Peale teiste standardite on ka see mõeldud täienduseks eri EL-i direktiivides olevatele reguleerivatele meetmetele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This European Standard incorporates by dated or undated reference, provisions from other publications.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Standard sisaldab dateeritud ja dateerimata viidete abil muude väljaannete sätteid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These normative references are cited at the appropriate places in the text and the publications are listed hereafter.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Need normiviited on osutatud teksti sobivates kohtades ning väljaanded on loetletud allpool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For dated references, subsequent amendments to or revisions of any of these publications apply to this European Standard only when incorporated in it by amendment or revision.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Dateeritud viidete hilisemad muudatused ja uustöötlused rakenduvad selles standardis üksnes muudatuse või uustöötluse kaudu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For undated references the latest edition of the publication referred to applies (including amendments).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Dateerimata viidete korral kehtib viidatud dokumendi uusim väljaanne koos kõigi muudatustega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where an International Publication has been modified by common modifications, indicated by (mod), the relevant EN/HD applies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Kus rahvusvahelist standardit on ühismuudatustega muudetud (tähis mod), kehtib vastav Euroopa standard (EN) või harmoneerimisdokument (HD).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Up-to-date information on the latest versions of the European Standards listed in this annex is available here: www.cenelec.eu.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Päevaseisuga kehtiv teave selles lisas nimetatud Euroopa standardite viimaste versioonide kohta on saadaval internetiaadressil www.cenelec.eu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Normative references to international publications with their corresponding European publications.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Normiviited rahvusvahelistele publikatsioonidele koos neile vastavate Euroopa publikatsioonidega</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Relationship between this European Standard and the Essential Requirements of EU Directive 2009/48/EC aimed to be covered
+This European Standard has been prepared under a Commission’s standardization request relating to Mandate for standardization in the field of machinery „M/396“ to provide one voluntary means of conforming to essential requirements of EU Directive 2006/42/EC.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Selle Euroopa standardi ja EL-i direktiivi 2009/48/EÜ oluliste nõuete vahelised seosed, mida on eesmärk katta
+See Euroopa standard on koostatud Euroopa Komisjoni masinate valdkonna standardimise mandaadiga M/396 seotud standardimistaotluse alusel, kirjeldamaks üht vabatahtlikku võimalust vastamaks EL-i direktiivi 2006/42/EÜ olulistele nõuetele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This European standard has been prepared under the Commission’s standardisation request M/541 to provide one voluntary means of conforming to essential requirements of the directive 2014/32/EU.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>See Euroopa standard on koostatud Euroopa Komisjoni standardimistaotluse M/541 alusel, kirjeldamaks üht vabatahtlikku võimalust vastamaks EL-i direktiivi 2006/42/EL olulistele nõuetele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Once this standard is cited in the Official Journal of the European Union under that Directive, compliance with the normative clauses of this standard given in Table ZA.1 confers, within the limits of the scope of this standard, a presumption of conformity with the corresponding essential requirements of that Directive, and associated EFTA regulations.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Selle standardi kohta nimetatud direktiivi juures Euroopa Liidu Teatajas viite avaldamise korral annab vastavus selle standardi normatiivsetele jaotistele, mis on esitatud tabelis ZA.1, selle standardi käsitlusala piires, vastavuse eelduse selle direktiivi ning asjakohaste EFTA regulatsioonide vastavatele olulistele nõuetele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>WARNING 1</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Hoiatus 1!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>— Presumption of conformity stays valid only as long as a reference to this European Standard is maintained in the list published in the Official Journal of the European Union.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Vastavuse eeldus kehtib üksnes seni, kuni viide sellele Euroopa standardile säilib Euroopa Liidu Teatajas avaldatud nimekirjas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Users of this standard should consult frequently the latest list published in the Official Journal of the European Union.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Selle standardi kasutajatel tuleks piisavalt tihti kontrollida Euroopa Liidu Teatajas avaldatud nimekirja uusimat redaktsiooni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>WARNING 2</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Hoiatus 2!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>— Other Union legislation may be applicable to the product(s) falling within the scope of this standard.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Selle standardi käsitlusalasse kuuluva(te)le too(de)tele võivad kohalduda ka teised Euroopa Liidu õigusaktid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bibliography</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240210T172154Z">
+        <seg>Kirjandus</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

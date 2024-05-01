@@ -1,0 +1,47 @@
+inability of other protection to operate	mingi teise kaitse tõrge	448-11-14 määratlus
+failure of the appropriate circuit-breaker(s) to trip	vastava(te) võimsuslüliti(te) tõrge	448-11-14 määratlus
+tripping circuits	väljalülitusahelad	448-11-04 MÄRKUS 1
+initiating tripping	andes väljalülituskäsu	448-11-18 määratlus
+the case of failure to trip of the appropriate circuit-breaker	võimsuslüliti(te) tõrke olukord	448-11-18 määratlus
+tripping	väljalülitamine	448-11-31 (604-02-31 MOD)
+operational tripping	avariitõrjelülitus	448-11-32
+automatic tripping	automaatväljalülitus	448-11-32 määratlus
+tripping	väljalülitus	448-11-32 määratlus
+correct operation of protection	kaitse õige rakendumine	448-12-01
+tripping signal	väljalülitustoime	448-12-01 määratlus
+incorrect operation of protection	kaitse väär rakendumine	448-12-02
+failure to operate of protection	kaitse rakendustõrge	448-12-04
+failure to trip	kaitse rakendustõrge	448-12-04 (USA)
+trip blocking	väljalülitusahela katkestus	448-12-13 määratlus
+non-power system fault tripping	väärväljalülitus	448-12-14
+false tripping	väärväljalülitus	448-12-14 (USA)
+unwanted tripping	mittevajalik väljalülitus	448-12-14 määratlus
+tripping of the appropriate circuit-breakers	vastavate võimsuslülitite väljalülitus	448-13-02 määratlus
+permits the local protection to initiate tripping	võimaldab kohaliku kaitse rakendumise	448-14-09 määratlus
+blocks the local protection from initiating tripping	keelab kohaliku kaitse rakendumise	448-14-10 määratlus
+tripping from the busbar protection	latikaitse rakendub	448-14-25 määratlus
+trip permissively	kaitse rakendumisluba	448-15-02 määratlus
+to intertrip remote circuit-breaker(s) for an internal fault	võimsuslüliti(te) kaugväljalülituskäsk siserikke korral	448-15-02 määratlus
+to block tripping for an external fault	kaitse rakendumiskeeld välisrikke korral	448-15-02 määratlus
+intertripping	kaugväljalülitus	448-15-08
+transfer tripping	kaugväljalülitus	448-15-08 (USA)
+tripping of circuit-breaker(s)	võimsuslüliti(te) väljalülitus	448-15-08 määratlus
+operational intertripping	avariitõrje-kaugväljalülitus	448-15-09
+automatic intertripping	automaatne kaugväljalülitus	448-15-09 määratlus
+tripping	väljalülitus	448-15-09 määratlus
+tripping	väljalülitamine	448-15-11 määratlus
+Receipt of the signal at the other end permits a sequential measurement by an overreach zone to initiate tripping	Lubava signaali vastuvõtt lubab kohaliku kaitse üleulatusastme viiteta rakendumise	448-15-13 määratlus
+Receipt of the signal at the other end blocks the overreach protection at that end from initiating tripping	Keelava signaali vastuvõtt keelab kohaliku üleulatusastme rakendumise	448-15-14 määratlus
+permits the initiation of tripping	lubab kaitse rakendumise	448-15-15 määratlus
+to permit the overreach protection to initiate tripping	on lubatud üleulatuskaitsel rakenduda	448-15-15 MÄRKUS
+the initiation of tripping by the local overreach protection	lubab kohaliku üleulatuskaitse käivitumise	448-15-16 määratlus
+to permit tripping	lubamaks väljalülitust	448-15-17 määratlus
+after tripping	pärast (koormusvähendus)väljalülitust	448-16-13 määratlus
+Intertripping	Kaugväljalülitusega	Joonis 448-6
+to operate	rakenduma	448-11-14 määratlus
+inability of other protection to operate	teise kaitse rakendumisvõimetus	448-11-14 määratlus
+protection will not operate	kaitse ei rakendu	448-11-23 määratlus
+unwanted operation	liigrakendumine	448-12-02 määratlus
+failure to operate	rakendustõrge	448-12-02 määratlus
+to operate circuit-breaker(s)	toimib võimsuslüliti(te)le	448-14-37 määratlus
+fault-detecting elements at a section end can operate	... otsas on kaitse võimeline rakenduma	448-15-17 määratlus

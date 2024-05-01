@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This part of IEC 61439 lays down the general definitions and service conditions, construction requirements, technical characteristics and verification requirements for low-voltage switchgear and controlgear assemblies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>See standardisarja IEC 61439 osa esitab madalpingeliste aparaadikoostete üldmääratlused ja kehtestab nende talitlustingimused, ehitusnõuded, tehnilised tunnusandmed ja kontrollinõuded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE Throughout this document, the term assembly(s) (see 3.1.1) is used for a low-voltage switchgear and controlgear assembly(s).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>MÄRKUS Kogu selles dokumendis kasutatakse terminit kooste(d) (vt termin 3.1.1) üksnes madalpingelis(t)e aparaadikooste(te) tähenduses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For the purpose of determining assembly conformity, the requirements of the relevant part of the IEC 61439 series, Part 2 onwards, apply together with the cited requirements of this document.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>Kooste vastavuse tõendamise eesmärgil rakendatakse standardisarja IEC 61439 asjakohase osa nõudeid alates osast 2 koos selle dokumendi viidatud nõuetega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For assemblies not covered by Part 3 onward, Part 2 applies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>Koostete kohta, mis ei ole hõlmatud osadega alates osast 3, rakendatakse osa 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This document applies to assemblies only when required by the relevant assembly standard as follows:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>See dokument rakendub koostete kohta, kui see on nõutav üksnes asjakohase koostestandardiga, järgmiselt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>assemblies for which the rated voltage does not exceed 1 000 V AC or  1 500 V DC</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>koosted, mille tunnus-vahelduvpinge ei ole üle 1000 V ega tunnus-alalispinge üle 1500 V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>assemblies designed for a nominal frequency of the incoming supply or supplies not exceeding 1 000 Hz</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>koosted, mis on ette nähtud siseneva elektritoite või -toidete nimisagedusele mitte üle 1000 Hz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>assemblies intended for indoor and outdoor applications</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>koosted, mis on ette nähtud sise- või välisrakendusteks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>stationary or movable assemblies with or without an enclosure</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>kohtkindlad või teisaldatavad, ümbrisega või ümbriseta koosted</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>assemblies intended for use in connection with the generation, transmission, distribution and conversion of electric energy, and for the control of electrical energy consuming equipment</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>koosted, mis on ette nähtud kasutamiseks seoses elektrienergia genereerimise, edastamise, jaotamise ja muundamisega ning elektrienergia tarbimisseadmete juhtimisega</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For some applications involving, for example, explosive atmospheres, functional safety, there can be a need to comply with the requirements of other standards or legislation in addition to those specified in the IEC 61439 series.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>Mõnedes rakendustes, mida iseloomustab näiteks plahvatusohtliku keskkonna olemasolu või funktsionaalse turvalisuse nõue, võib lisaks standardisarjas IEC 61439 sätestatuile vaja olla täita muude standardite või seadusaktide nõudeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This document does not apply to individual devices and self-contained components such as motor starters and other electronic equipment which comply with their relevant product standards.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>See dokument ei rakendu üksikseadmete ja iseseisvate komponentide kohta, nagu mootorikäivitid ja muud elektroonikaseadmed, mis vastavad oma asjakohastele tootestandarditele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This document describes the integration of devices and self-contained components into an assembly or into an empty enclosure forming an assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>See dokument kirjeldab seadiste ja iseseisvate komponentide sisseehitamist koostesse või koostet kujundavasse tühja ümbrisesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>fuse switches</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>sulavkaitsmetega ühitatud lülitid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>power electronic converter systems and equipment (PECS)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>elektron-jõumuundursüsteemid ja -seadmed (PECS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>switch mode power supplies (SMPS)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>lülitimooduselised jõutoiteallikad (SMPS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>uninterruptable power supplies (UPS)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>katkestusvabad toiteallikad (UPS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>basic drive modules (BDM)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>põhiajamisüsteemid (BDM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>complete drive modules (CDM)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>komplektsed ajamisüsteemid (CDM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>adjustable speed power drives systems (PDS)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102930Z">
+        <seg>reguleeritava kiirusega elektriajamisüsteemid (PDS)</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

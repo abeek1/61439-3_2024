@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5 	Interface characteristics</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>5 LIIDESE OMADUSED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.1 	General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>5.1 Üldnõue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The characteristics of the assembly shall ensure compatibility with the ratings of the circuits to which they are connected plus the installation conditions and shall be declared by the assembly manufacturer using the criteria identified in 5.2 to 5.6.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Kooste iseloomulikud andmed peavad tagama ühilduvuse nende ahelate tunnusandmetega, millega kooste on ühendatud, ja paigaldusoludega ning kooste tootja peab need deklareerima, kasutades jaotistes 5.2 kuni 5.6 esitatud kriteeriume.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.2 	Voltage ratings</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>5.2 Pinge tunnusandmed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.2.1 	Rated voltage (Un) (of the assembly)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>5.2.1 (Kooste) tunnuspinge (Un)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The rated voltage shall be at least equal to the nominal voltage of the electrical system.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Kooste tunnuspinge peab olema vähemalt võrdne elektrisüsteemi nimipingega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE For further details on nominal system voltage see IEC 60038.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>MÄRKUS 	Süsteemi nimipinge kohta vt lähemalt standardist IEC 60038.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.2.2 	Rated operational voltage (Ue) (of a circuit of an assembly) 
+The rated operational voltage of any circuit shall not be less than the nominal voltage of the electrical system to which it is to be connected.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>5.2.2 (Kooste ahela) tunnus-talitluspinge (Ue) 
+Kooste ühegi ahela tunnus-talitluspinge ei tohi olla väiksem elektrisüsteemi nimipingest, millega see ahel tuleb ühendada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the nominal voltage is given for a three-phase system, the rated operational voltage of single-phase circuits shall not be less than the nominal voltage divided by √3.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Kui nimipinge on esitatud kolmefaasilise süsteemi jaoks, ei tohi ühefaasilise ahela tunnustalitluspinge olla väiksem kui nimipinge jagatuna teguriga √3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If different from the rated voltage of the assembly, the appropriate rated operational voltage of the circuit shall be stated.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Kui kooste ahela sobiv tunnus-talitluspinge erineb kooste tunnuspingest, tuleb see eraldi deklareerida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.2.3 	Rated insulation voltage (Ui) (of a circuit of an assembly) 
+The rated insulation voltage of a circuit of an assembly is the voltage value to which dielectric test voltages and creepage distances are referred.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>5.2.3 (Kooste ahela) isolatsiooni tunnuspinge (Ui) 
+Kooste ahela isolatsiooni tunnuspinge on pinge väärtus, mille järgi määratakse dielektrilise katsetuse pinged ja roomevahemikud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The rated insulation voltage of a circuit shall be equal to or higher than the values stated for Un and for Ue for the same circuit.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Ahela isolatsiooni tunnuspinge peab olema vähemalt võrdne sama ahela jaoks kehtestatud väärtustega Un ja Ue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For single-phase circuits derived from IT systems (see IEC 60364-5-52:2009), the rated insulation voltage shall be at least equal to the voltage between the line conductors of the supply.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>IT-juhistikust (vt standard IEC 60364-5-52:2009) toidetavate ühefaasiliste ahelate isolatsiooni tunnuspinge peab võrduma vähemalt toitevõrgu liinijuhtide vahelise (faasidevahelise) pingega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.2.4 	Rated impulse withstand voltage (Uimp) (of the assembly) 
+The rated impulse voltage of an assembly is the voltage value to which clearance distances and solid insulation withstand to transient overvoltage are referred.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>5.2.4 (Kooste) tunnus-impulsstaluvuspinge (Uimp) 
+Kooste tunnus-impulsstaluvuspinge on pinge väärtus, mille juures õhkvahemikud ja tahke isolatsioon peavad vastu pidama transientliigpingetele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The rated impulse withstand voltage shall be equal to or higher than the values stated for the transient overvoltages occurring in the electrical system(s) to which the circuit is designed to be connected.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Tunnus-impulsstaluvuspinge peab olema vähemalt võrdne väärtusega, mis on sätestatud esinevate transientliigpingete jaoks elektrisüsteemi(de)s, millega ahel on ette nähtud ühendada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The preferred values of rated impulse withstand voltage are those given in Table G.1.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Tunnus-impulsstaluvuspinge eelisväärtused on esitatud tabelis G.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.3 	Current ratings</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>5.3 Voolu tunnusandmed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.3.1 	Rated current of an assembly (InA)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>5.3.1 Kooste tunnusvool (InA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The rated current of an assembly is the lowest value of:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Kooste tunnusvool on vähim kahest järgmisest väärtusest:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	the total group rated current Ing of the incoming circuit(s), which is either the group rated current of the single incoming circuit or the sum of the group rated currents of the incoming circuits operated in parallel and simultaneously within the assembly;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>— sisendahela(te) summaarne rühmtunnusvool Ing, mis on kas üksiku sisendahela rühmtunnusvool või koostes rööbiti ja ühel ajal talitlevate sisendahelate rühmtunnusvoolude summa;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	the total current that the main busbar can distribute in the particular assembly arrangement.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>— kogu vool, mida peakogumislatikomplekt on võimeline jaotama kooste konkreetsele seadmestikule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This current shall be carried without the temperature-rise of the individual parts exceeding the limits specified in 9.2.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Seda voolu peab kooste taluma, ilma et eri osade ületemperatuur ületaks jaotises 9.2 sätestatud piire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE 1 The group rated current of an incoming circuit can be lower than the rated current of the incoming device (according to the respective device standard) installed in the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>MÄRKUS 1 Kooste sisendahela rühmtunnusvool võib olla väiksem kui koostesse paigaldatud sisendseadise tunnusvool (vastavalt asjakohasele seadisestandardile).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE 2 The main busbar in this context is a single busbar or a combination of single busbars that are normally connected in service e.g. by means of a bus-coupler.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>MÄRKUS 2 	Peakogumislatikomplekt on selles kontekstis kas üksikkomplekt või mitme üksikkomplekti kogum, mis tavaliselt on ühendatud talitlusse nt ühenduslülide abil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.3.2 	Rated current of a main outgoing circuit (Inc) 
+The rated current of a main outgoing circuit is the current that can be carried by the outgoing circuit when all other outgoing main circuits in the same section are not carrying current (see 10.10).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>5.3.2 Peaväljundahela tunnusvool (Inc) 
+Peaväljundahela tunnusvool on vool, mida väljundahel võib kanda, kui kõik muud sama sektsiooni peaväljundahelad voolu ei kanna (vt jaotis 10.10).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This current shall be carried without the temperature-rise of the various parts of the assembly exceeding the limits specified in 9.2.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Seda voolu peab ahel olema võimeline kandma ilma kooste eri osade ületemperatuurile jaotises 9.2 sätestatud piire ületamata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Declaration of the rated current of a circuit Inc is voluntary if the group rated current Ing of the circuit is declared.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Kui ahela rühmtunnusvool Ing on deklareeritud, on ahela tunnusvoolu Inc deklareerimine vabatahtlik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If Inc is stated, the maximum permissible continuous load current on an individual circuit in a lightly loaded section can be assessed and the load on the individual circuit possibly allowed to exceed Ing, but it is never allowed to exceed Inc</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Kui vool Inc on sätestatud, võib individuaalahela enimalt lubatavat püsikoormusvoolu väheselt koormatud sektsioonis hinnata ja individuaalahela koormus võib olla suurem kui vool Ing, kuid kunagi ei tohi see ületada voolu Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE Ing represents the maximum permissible continuous load current in a fully loaded section.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>MÄRKUS 	Täielikult koormatud sektsioonis kujutab vool Ing endast enimalt lubatavat püsikoormusvoolu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.3.3 	Group rated current of a main circuit (Ing)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>5.3.3 Peaahela rühmtunnusvool (Ing)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The group rated current of a main circuit is the current that can be carried by this circuit when it is loaded continuously and simultaneously together with at least one other circuit in the same assembly or section of the assembly, in a specific arrangement as defined by the original manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Peaahela rühmtunnusvool on vool, mida see ahel võib kanda, kui see on koormatud pidevalt ja ühel ajal samas koostes või koostesektsioonis vähemalt ühe muu ahelaga esmatootja määratletud spetsiifilise korrastusviisi korral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It shall be carried without the temperature-rise of the various parts of the assembly exceeding the limits specified in 9.2.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Seda voolu peab ahel kandma ilma kooste eri osade ületemperatuuri tõusuta üle piirväärtuste, mis on sätestatud jaotises 9.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE 1 Where the RDF for a design of assembly has been established in accordance with previous edditons of IEC 61439 series, the Ing can be calculated by Inc × RDF.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>MÄRKUS 1 Kui kooste projekteerimiseks vajalik tunnus-samaaegsustegur (RDF) on sätestatud vastavalt standardisarja IEC 61439 eelmistele väljaannetele, võib voolu Ing arvutada valemiga Inc × RDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If Ing is declared, the original manufacturer shall state the specific arrangements which are covered by the group rated current in terms of:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Kui vool Ing on deklareeritud, peab esmatootja sätestama spetsiifilised korrastusviisid, mis sõltuvad rühmtunnusvoolust järgmiste tingimuste kohaselt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	type(s), ratings and maximum number of circuits/functional units allowed to be installed in the same assembly or section, and</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>•	ahelate ja/või funktsionaalühikute tüüp (või tüübid), tunnusandmed ja maksimaalne arv, mis on lubatud paigaldada ühte ja samasse koostesse või sektsiooni, ning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	arrangement(s) of functional units within the sections and/or assemblies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>•	funktsionaalühikute korrastusviis(id) sektsioonides ja/või koostetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE 2 For a functional unit with a given Ing, the specific arrangement of assembly or section of an assembly can also be stated in terms of power loss.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>MÄRKUS 2 Funktsionaalühiku jaoks antud vooluga Ing võib kooste või koostesektsiooni spetsiifilise korrastusviisi valida ka võimsuskao arvestamise teel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE 3 In most cases the same type of section provided by an original manufacturer can be equipped with a varying number and different types of circuits (functional units), depending on the needs of a specific customer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>MÄRKUS 3 Esmatootja poolt ette nähtavat üht ja sama sektsiooni liiki võib enamasti sisustada mitmesuguse arvu ja eri liiki ahelatega (funktsionaalühikutega), sõltuvalt konkreetse ostja nõuetest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Usually, not all circuits installed in a section are required to carry their rated currents continuously and simultaneously.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Sageli ei pea mitte kõik sektsiooni paigaldatud ahelad kandma nende tunnusvoolusid pidevalt ja samal ajal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Therefore, the specific arrangement defined by the original manufacturer clarifies which situations are covered by a declared value of Ing.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Seetõttu selgitab esmatootja määratletud korrastusviis, millistes olukordades saab neid hõlmata voolu Ing deklareeritud väärtusega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The group rated current of the main circuits, which are continuously and simultaneously loaded, shall be equal to or higher than the assumed loading of the outgoing circuits (equal to the design current IB according to IEC 60364-1).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Pidevalt ja samal ajal koormatud peaahelate rühmtunnusvool peab olema vähemalt võrdne väljundahelate eeldatava koormusega (mis võrdub standardi IEC 60364-1 järgi ettenähtud vooluga IB).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The assumed loading of outgoing circuits shall be addressed by the relevant assembly standard.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Väljundahelate eeldatav koormus peab olema kooskõlas asjakohase koostestandardiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE 4 The assumed loading of the outgoing circuits can be a steady continuous current or the thermal equivalent of a varying current (see Annex I).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>MÄRKUS 4 Väljundahelate eeldatav koormus võib olla püsiv muutmatu vool või muutuva vooluga soojuslikult ekvivalentne vool (vt lisa I).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ing is obtained by a test according to 10.10.2.3.5 or 10.10.2.3.6 or 10.10.2.3.7, or by calculation according to 10.10.4.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Voolu Ing väärtus saadakse katsetuse teel vastavalt jaotisele 10.10.2.3.5, 10.10.2.3.6 või 10.10.2.3.7 või arvutuse teel vastavalt jaotisele 10.10.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using method 10.10.2.3.6 or 10.10.2.3.7, Ing values are required to calculate the RDF.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Jaotises 10.10.2.3.6 või 10.10.2.3.7 meetodite kasutamisel saadavad voolu Ing väärtused on vajalikud tunnus-samaaegsusteguri arvutamiseks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An alternative to declaring Ing for each type of main circuit is to declare Inc for each type of main circuit and the appropriate RDF.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Voolu Ing deklareerimise alternatiiv iga peaahela liigi jaoks on voolu Inc ja sobiva tunnus-samaaegsusteguri deklareerimine iga peaahela liigi jaoks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.3.4 	Rated peak withstand current (Ipk) 
+The rated peak withstand current shall be equal to or higher than the values stated for the peak value of the prospective short-circuit current of the supply system(s) to which the circuit(s) is (are) designed to be connected (see also 9.3.3).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>5.3.4 Tunnus-lööktaluvusvool (Ipk) 
+Tunnus-lööktaluvusvool peab olema vähemalt võrdne ahela(te)ga ühendatava(te) toitesüsteemi(de) arvutusliku lühisvoolu sätestatud tippväärtus(te)ga (vt ka jaotis 9.3.3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.3.5 	Rated short-time withstand current (Icw) (of a main circuit of an assembly)  
+The rated short-time withstand current of a main circuit of an assembly shall be equal to or higher than the prospective value of the short-circuit current Icp at each point of connection to the supply (see also 3.8.10.3).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>5.3.5 Lühiajaline tunnus-taluvusvool (Icw) (kooste peaahelas) 
+Kooste peaahela lühiajaline tunnus-taluvusvool peab olema vähemalt võrdne toitesüsteemi iga ühenduspunkti arvutusliku lühisvoolu väärtusega Icp (vt ka termin 3.8.10.3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Different values of Icw for different durations (e.g. 0,2 s; 1 s; 3 s) may be assigned to an assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Koostele võib määrata voolu Icw mitmesuguseid väärtusi eri kestuse (nt 0,2 s; 1 s; 3 s) korral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Maximum duration normally does not exceed 1 s.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Suurim kestus ei ole tavaliselt üle 1 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For AC, the value of the current is the RMS value of the AC component.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Vahelduvvoolu korral võetakse voolu väärtuseks vahelduvvoolukomponendi efektiivväärtus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For DC, the value of the current is the arithmetic mean value.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Alalisvoolu korral võetakse voolu väärtuseks aritmeetiline keskväärtus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.3.6 	Rated conditional short-circuit current (Icc) (of an assembly or a circuit of an assembly)  
+The rated conditional short-circuit current of an assembly or a circuit of an assembly, declared by the assembly manufacturer, is the maximum short-circuit current which that circuit when protected by a SCPD, as specified by the manufacturer, can satisfactorily withstand for the operating time of the device under the test conditions specified in 10.11.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>5.3.6 Tinglik tunnus-lühisvool (Icc) (kooste või koostesse kuuluva ahela kohta) 
+Kooste tootja deklareeritud tinglik tunnus-lühisvool kooste või koostesse kuuluva ahela kohta on suurim lühisvool, mida lühisekaitseaparaadiga kaitstud ahel, nagu selle on sätestanud tootja, võib rahuldavalt taluda aparaadi rakendumise ajal jaotises 10.11 sätestatud katsetamisoludes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The rated conditional short-circuit current of an assembly or a circuit of an assembly shall be equal to or higher than the prospective value of the short-circuit current Icp for a duration limited by the operation of the short-circuit protective device that protects the circuit or assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Kooste või koostesse kuuluva ahela tinglik tunnus-lühisvool peab olema vähemalt võrdne arvutusliku lühisvoolu väärtusega Icp kestuse puhul, mis on piiratud ahelat või koostet kaitsva lühisekaitseaparaadi rakendumise ajaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The assembly manufacturer shall declare the breaking capacity, current limitation characteristics, I2t and Ilt, of the specified short-circuit protective device, taking into consideration the data given by the device manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Kooste tootja peab deklareerima sätestatud lühisekaitseaparaadi lahutusvõime ja voolu piiramisomadused I2t ja Ipk, võttes arvesse aparaadi tootja esitatud andmeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.4 	Rated diversity factor (RDF)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>5.4 Tunnus-samaaegsustegur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As an alternative to declaring the group rated currents Ing of each main outgoing circuit, their current carrying capacity under conditions of simultaneous operation can be stated in terms of the rated currents Inc and the rated diversity factor.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Iga peaväljundahela rühmtunnusvoolu Ing deklareerimise alternatiivina võib nende kestvalt lubatavat voolu üheaegse talitluse oludes kehtestada tunnusvoolu Inc ja tunnus-samaaegsusteguri järgi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The rated diversity factor is the per unit value of Inc, to which outgoing circuits can be continuously and simultaneously loaded in the same section of the assembly in the specific arrangement(s) as defined by the original manufacturer, taking into account the mutual thermal influences.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Tunnus-samaaegsustegur on esmatootja spetsiifilis(t)el korrastusviisi(de)l määratletud suhtelise tunnusvoolu Inc väärtus, millele kooste sama sektsiooni väljundahelaid võib pidevalt samal ajal koormata ja mis arvestab ahelate vastastikust soojuslikku toimet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For further details on the specific arrangements, see 5.3.3.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Spetsiifilis(t)e korrastusviisi(de) lähemad üksikasjad on esitatud jaotises 5.3.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE 1 More information on RDF is given in Annex E.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>MÄRKUS 1 	Enam teavet tunnus-samaaegsusteguri kohta on esitatud lisas E.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The rated diversity factor multiplied by the rated current Inc of the circuits shall be equal to or higher than the assumed loading of the outgoing circuits, where the assumed load current is equal to the design current IB for continuously and simultaneously loaded circuits.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Tunnus-samaaegsusteguri ja ahela tunnusvoolu Inc korrutis peab olema vähemalt võrdne väljundahela eeldatava koormusega, kus eeldatav koormusvool võrdub ettenähtud vooluga IB ahelate pideval ja samaaegsel koormamisel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the design current IB is not provided then the assumed loading of outgoing circuits shall be as given in the relevant assembly standard of IEC 61439 and is subject to agreement between user and manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Kui ettenähtud voolu IB ei ole kehtestatud, tuleb väljundahelate eeldatav koormus võtta asjakohasest standardisarja IEC 61439 koostestandardist ning kasutaja ja tootja vahel kokku leppida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE 2 The assumed loading of the outgoing circuits can be a steady continuous current or the thermal equivalent of a varying current (see Annex I).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>MÄRKUS 2 	Väljundahelate eeldatav koormus võib olla püsiv pidevvool või muutuva voolu soojuslik ekvivalent 
+(vt lisa I).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.5 	Rated frequency (fn) 
+The rated frequency of a circuit is the value of frequency to which the operating conditions are referred.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>5.5 Tunnussagedus (fn) 
+Ahela tunnussagedus on sageduse väärtus, mis vastab talitlusoludele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where the circuits of an assembly are designed for different values of frequency, the rated frequency of each circuit shall be given.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Kui kooste ahelad on ette nähtud sageduse eri väärtustele, tuleb esitada iga ahela tunnussagedus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The frequency should be within the limits specified in the relevant IEC standards for the incorporated components.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Sagedus peab olema piirides, mis on sätestatud asjakohastes IEC standardites sisalduvate komponentide kohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unless otherwise stated by the assembly manufacturer, the limits are assumed to be 98 % and 102 % of the rated frequency.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Kui kooste tootja pole määranud teisiti, peab sagedus olema piirides 98 % kuni 102 % tunnussagedusest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.6 	Other characteristics</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>5.6 Muud omadused</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following characteristics shall be declared:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>Deklareerida tuleb järgmised omadused:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	additional requirements depending on the use of a functional unit (e.g. type of coordination, overload characteristics);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>a)	lisanõuded sõltuvalt funktsionaalühiku kasutamisest (nt koordinatsiooni viis, ülekoormatavus);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	pollution degree of the macro-environment (see 3.6.10.2);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>b)	makrokeskkonna saasteaste (vt termin 3.6.10.2);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>c)	types of earthing system for which the assembly is designed;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>c)	maandamisviisid, millele kooste on ette nähtud;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>d)	indoor and/or outdoor installation (see 3.5.1 and 3.5.2);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>d)	sobivus sise- ja/või välispaigalduseks (vt terminid 3.5.1 ja 3.5.2);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>e)	stationary or movable (see 3.5.3 and 3.5.4);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>e)	kohtkindel või teisaldatav kasutamine (vt terminid 3.5.3 ja 3.5.4);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>f)	degree of protection against contact with hazardous live parts, ingress of solid foreign bodies and water, IP code (see 8.2.2);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>f)	kaitseaste ohtlike pingestatud osade puudutamise eest, tahkete võõrkehade ja vee sissepääsu eest,  IP-kood (vt jaotis 8.2.2);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>g)	intended for use by ordinary or authorized persons (see 3.7.16 and 3.7.17);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>g)	ettenägemine kasutamiseks tavaisikute või volitatud isikute poolt (vt terminid 3.7.16 ja 3.7.17);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>h)	electromagnetic compatibility (EMC) classification (see Annex J);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>h)	liigitus elektromagnetilise ühilduvuse järgi (vt lisa J);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>i)	special service conditions, if applicable (see 7.2);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>i)	eritalitlusolud, kui need on rakendatavad (vt jaotis 7.2);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>j)	external design (see 3.3);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>j)	väliskujundus (vt jaotis 3.3);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>k)	degree of protection against mechanical impact, IK code, if applicable (see 8.2.1);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>k)	kaitseaste mehaaniliste toimete eest ja IK-kood, kui need on rakendatavad (vt jaotis 8.2.1);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>l)	type of construction – fixed or removable parts (see 8.5.1 and 8.5.2);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>l)	ehitusviis – kohtkindlate või eemaldatavate osadega (vt jaotised 8.5.1 ja 8.5.2);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>m)	type of short-circuit protective device(s) (see 9.3.2);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>m)	lühisekaitseaparaadi või -aparaatide liik (vt jaotis 9.3.2);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>n)	measures for protection against electric shock;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>n)	kaitsemeetmed elektrilöögi eest;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>o)	overall dimensions (including projections e.g. handles, covers, doors), if required;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>o)	nõudmise korral üldmõõtmed (sealhulgas väljaulatuvate osade, nt käepidemete, katete, uste mõõtmed);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>p) weight, if required.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T185916Z">
+        <seg>p)	nõudmise korral kaal.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

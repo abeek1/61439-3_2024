@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>6 	Information</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>6 INFORMATSIOON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>6.1 	Assembly designation marking</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>6.1 Kooste nimesildid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The assembly manufacturer shall provide each assembly with one or more labels, marked in a durable manner and located in a place such that they are visible and legible when the assembly is installed and in operation.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>Kooste tootja peab iga kooste varustama ühe või mitme vastupidavalt tähistatud ja nähtavale kohale kinnitatud nimesildiga, mis on pärast kooste paigaldamist ja talitlusel nähtav(ad) ja selgelt loetav(ad).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compliance is checked according to the test of 10.2.7 and by inspection.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>Nõuetele vastavust kontrollitakse ülevaatusega ning jaotisele 10.2.7 vastava katsetusega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following information regarding the assembly shall be provided on the designation label(s):</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>Nimesildile või -siltidele tuleb kanda järgmine koostet puudutav informatsioon:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	assembly manufacturer's name or trade mark (see 3.10.2);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>a) kooste tootja nimi või kaubamärk (vt termin 3.10.2);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	type designation or identification number or any other means of identification, making it possible to obtain relevant information from the assembly manufacturer;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>b)	tüübitähis või identifitseerimisnumber või muud identifitseerimistähised, mille järgi võib kooste tootjalt saada asjakohast informatsiooni;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>c)	means of identifying date of manufacture;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>c)	valmistamise kuupäeva tuvastamist võimaldavad viisid;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>d)	rated current of the assembly InA (see 3.8.10.7 and 5.3.1);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>d)	kooste tunnusvool InA (vt termin 3.8.10.7 ja jaotis 5.3.1);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>e)	rated voltage of the assembly Un (see 3.8.9.1 and 5.2.1);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>e)	kooste tunnuspinge Un (vt termin 3.8.9.1 ja jaotis 5.2.1);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>f)	rated frequency of the assembly fn (see 3.8.12 and 5.5);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>f)	kooste tunnussagedus fn (vt termin 3.8.12 ja jaotis 5.5);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>g)	IEC 61439-X (the specific part “X” shall be identified).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>g)	standardi number IEC 61439-X (X – standardisarja IEC 61439 vastava osa number).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE The relevant assembly standard can specify where additional information is to be provided on the designation label.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>MÄRKUS 	Asjakohane koostestandard võib sätestada, kas nimesildil tuleb ette näha lisainformatsioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>6.2 	Documentation</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>6.2 Dokumentatsioon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>6.2.1	Information relating to the assembly</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>6.2.1 Kooste kohta antav teave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All interface characteristics according to Clause 5, where applicable, shall be provided in the assembly manufacturer’s technical documentation supplied with the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>Vastavalt peatükile 5 peavad kõik liideste tunnussuurused, kui see on rakendatav, olema antud koos koostega tarnitavas kooste tootja tehnilises dokumentatsioonis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>6.2.2	Instructions for handling, installation, operation and maintenance 
+The assembly manufacturer shall provide in documents or catalogues the conditions, if any, for the handling, installation, operation and maintenance of the assembly and the equipment contained therein.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>6.2.2 Käsitsemis-, paigaldus-, käidu- ja hooldusjuhised 
+Kooste tootja peab oma dokumentides või kataloogides määratlema võimalikud tingimused, mida on vaja järgida kooste ja sellesse kuuluvate seadmete käsitsemisel, paigaldamisel, käidul ja hooldamisel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where appropriate, instructions shall state that the assembly manufacturer is to be consulted when repair of an assembly is required.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>Kui on asjakohane, peavad juhised sätestama, et kui koostet on vaja remontida, tuleb konsulteerida kooste tootjaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If necessary, the instructions shall indicate the measures that are of particular importance for the safe, proper and correct transport, handling, installation and operation of the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>Kui vaja, peavad juhendid sisaldama nõudeid, mida on eriti tähtis järgida, et koostet ohutult, õigesti ja korrektselt transportida, käsitseda, paigaldada ja käitada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The provision of weight details is of particular importance in connection with the transport and handling of transport units.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>Koostete transpordil ja transpordiseadmete käsitsemisel on eriti tähtis arvestada transportühiku kaalu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In addition, installation instructions shall provide sufficient details for the installer to adequately secure the assembly in service.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>Peale selle tuleb paigaldusjuhistes ette näha üksikasjalikud juhised paigaldajale, et adekvaatselt tagada kooste turvaline viimine talitlusse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The correct location and installation of lifting means and the thread size of lifting attachments, if applicable, shall be given in the assembly manufacturer's documentation or the instructions on how the transport unit has to be handled.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>Kooste tootja peab dokumentatsioonis või transportühiku käsitsemisjuhistes andma tõsteosade täpse asukoha ja paigutuse ning tõstetrosside mõõtmed, kui selline tõsteviis on ette nähtud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The measures to be taken, if any, with regard to EMC associated with the installation, operation and maintenance of the assembly shall be specified (see Annex J).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>Kooste tootja peab määratlema elektromagnetilist ühilduvust arvestavad meetmed (kui need on ette nähtud) kooste paigaldamisel, käidul ja hooldamisel (vt lisa J).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If an assembly specifically intended for environment A is to be used in environment B, a warning shall be included in the operating instructions, in accordance with the following:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>Kui koostet, mis on ette nähtud kasutamiseks üksnes keskkonnas A, tuleb kasutada keskkonnas B, peavad käidujuhendid sisaldama järgmist hoiatust:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CAUTION</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>HOIATUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This product has been designed for environment A.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>See toode on ette nähtud kasutamiseks keskkonnas A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use of this product in environment B can cause unwanted electromagnetic disturbances, in which case the user may be required to take adequate mitigation measures.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>Kasutamisel keskkonnas B võib see põhjustada soovimatuid elektromagnetilisi häiringuid, mille puhul võidakse kasutajalt nõuda asjakohaste summutusmeetmete rakendamist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where necessary, the above-mentioned documents shall indicate the recommended extent and frequency of maintenance.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>Kui vaja, peavad eelnimetatud dokumendid määratlema hoolduse soovitatava ulatuse ja sageduse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the circuitry within the assembly is not obvious, for example, there are connections from several incoming power-supplies such as photovoltaic supplies, generators, batteries, information detailing the circuit arrangements shall be supplied.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>Kui koostes olevad ahelad ei ole nähtavad, näiteks kui on sisenevaid ühendusi mitmelt energiaallikalt, nagu näiteks solaarelektrilistelt toiteallikatelt, generaatoritelt või akumulaatoritelt, tuleb lisada üksikasjalik informatsioon elektriahelate paigutusviisi kohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When fuses are installed, the assembly manufacturer shall state the type and rating of the fuselinks to be used.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>Kui on paigaldatud sulavkaitsmeid, peab kooste tootja sätestama kasutatavate sularite tüübi ja tunnusandmed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>6.3 	Device and/or component identification 
+Inside the assembly, it shall be possible to identify individual circuits and their protective devices.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>6.3 Seadise ja/või komponendi tuvastamine 
+Kooste sees peab saama tuvastada üksikahelaid ja nende kaitseseadiseid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Identification tags shall be legible, permanent and appropriate for the physical environment.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>Tuvastamiseks kasutatavad tähised peavad olema arusaadavad, vastupidavad ning sobima kokku füüsikalise keskkonnaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any designations used shall be in compliance with IEC 81346-1:2009 and IEC 81346-2:2019 and identical to those used in the wiring diagrams, which shall be in accordance with IEC 61082-1:2014.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T190523Z">
+        <seg>Kõik kasutatud tähised peavad olema kooskõlas standarditega IEC 81346-1:2009 ja IEC 81346-2:2019 ning ühtima skeemitingmärkidega, mis peavad vastama standardile IEC 61082-1:2014.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

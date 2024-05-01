@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Design verification</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>KONSTRUKTSIOONIOMADUSTE KONTROLL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This clause of Part 1 applies except as follows.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Rakendatakse osa 1 jaotist 10 koos alljärgnevate täiendustega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.2.2.2	Severity test A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>10.2.2.2	Vastupidavuskatsetus A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Addition:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Täiendus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following is an alternative test.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Alternatiivne katsetus tehakse alljärgnevalt kirjeldatud viisil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All grease is removed from the parts or representative samples of the steel enclosures of the DBO to be tested, by immersion in a cold chemical degreaser such as methylchloroform or refined petrol for 10 min. The parts are then immersed for 10 min in a 10 % solution of ammonium chloride in water at a temperature of (20  5) °C.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Katsetamisele kuuluvate jaotuskilpide korral, mida tohivad käsitada tavaisikud, eemaldatakse nende teras- ümbriste osadelt või katsenäidistelt mustus nende sukeldamise teel 10 minutiks külma keemilisse puhastus- vedelikku, nagu metüülkloroform või rafineeritud petrool. Seejärel sukeldatakse osad 10 minutiks 10-protsendilisse ammooniumkloriidi vesilahusesse temperatuuril (20  5) °C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Without drying but after shaking off any drops, the parts are placed for 10 min in a box containing air saturated with moisture at a temperature of (20  5) °C.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Kuivatamata, kuid pärast tilkade maharaputamist asetatakse osad 10 minutiks niiskusega küllastatud õhku sisaldavasse kasti temperatuuril (20  5) °C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After the parts have dried for 10 min in a heating cabinet at a temperature of (100  5) °C and have been left at room temperature for 24 h, their surfaces shall show no signs of iron oxidization.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Pärast seda, kui osad on 10 minuti jooksul kuumutuskambris temperatuuril (100  5) °C kuivanud ja seejärel 24 tunni kestel toatemperatuuril seisnud, ei tohi nende pinnal ilmneda mitte mingeid raua oksüdeerumise märke.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Traces of iron oxide on sharp edges and any yellowish film removable by rubbing are ignored.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Raudoksiidi jälgi teravatel servadel ja hõõrumisega eemaldatavat kollakat kihti ei võeta arvesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For small helical springs and the like, and for inaccessible parts exposed to abrasion, a layer of grease may provide sufficient protection against iron oxidization.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Väikeste keermikvedrude ja muude taoliste ning mitteligipääsetavate kuluvate osade korral võib määrdekiht tagada piisava kaitse raua oksüdeerumise eest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Such parts are subjected to the test only if there is doubt about the effectiveness of the grease film, and the test is then made without previous removal of the grease.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Selliseid osi katsetatakse ainult siis, kui on kahtlusi määrdeaine kaitsekihi tõhususe suhtes; sel juhul tehakse katse määret eelnevalt eemaldamata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.2.2.4	Results to be obtained</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>10.2.2.4	Katsetustulemuste hinnang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The first paragraph of Part 1 does not apply to the alternative test of this standard.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Selle standardi alternatiivsete katsetuste korral ei rakendata osa 1 esimest lõiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.2.3.2	Verification of resistance of insulating materials to abnormal heat and fire due to internal electric effects
+The last paragraph of Part 1 does not apply.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>10.2.3.2	Isoleermaterjalide normaalkuumuskindluse ning sisemistest elektrilistest toimetest tingitud liigkuumuse ja tule taluvuse kontroll
+Osa 1 viimast lõiku ei rakendata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Addition:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Täiendus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>850 °C does not apply to accessible parts of the enclosure after mounting in hollow walls e.g. covers, doors.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Temperatuur 850 °C ei kehti ümbrise ligipääsetavate osade kohta pärast nende paigaldamist õõnsatesse seintesse, nt katted või uksed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.2.6	Mechanical impact</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>10.2.6 Mehaaniline toime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Replacement:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Asendus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Verification of the degree of protection against mechanical impacts shall be carried out in accordance with IEC 62262.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Mehaaniliste toimete kaitseastme kontroll tuleb teha vastavalt standardile IEC 62262.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The test shall be carried out by means of a hammer test apparatus as described in IEC 60068-2-75, e.g. impact spring hammer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Katsetus tuleb teha standardis IEC 60068-2-75 kirjeldatud vasarkatsetusaparatuuriga, nt löökvedruvasaraga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The test is made after the sample(s) has been for 2 h at a temperature of –5 °C  1 K for indoor use and -25 °C  1 K for outdoor use.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Katsetus tehakse pärast seda, kui katsetusnäidis(ed) on olnud 2 tundi temperatuuril –5 °C  1 K sise- kasutuseks, temperatuuril –25 °C  1 K aga väliskasutuseks ette nähtud näidiste korral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compliance is checked on those exposed parts of the DBO which may be subjected to mechanical impact when mounted as in normal use.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Vastavust kontrollitakse tavaisikute poolt käsitatavate jaotuskilpide nendel ligipääsetavatel osadel, millele võivad toimida mehaanilised löögid, kui need on paigaldatud nagu normaalkasutusel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The sample with cover, or the enclosure, if any, shall be fixed as in normal use or placed against a rigid support.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Kattega või ümbrisega katsetusnäidis tuleb kinnitada normaalkasutuseks ettenähtud viisil või vastu jäika tuge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Three blows shall be applied on separate places of each of the accessible faces and door (if provided).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Iga ligipääsetava külje ja ukse (kui see on olemas) eri kohtadesse tuleb rakendada kolm lööki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The impacts shall be evenly distributed on the faces of the enclosure(s) under test.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Löögid peavad olema katsetatava(te) ümbris(t)e külgedele ühtlaselt jaotatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In no case shall the impacts be applied in the surroundings of the same point of the enclosure.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Mitte mingil juhul ei tohi lööke rakendada ümbrise ühesama punkti ümbrusesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A new sample for each accessible face is used, unless the previous test has not influenced the results of the subsequent test(s), then the sample may be reused.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Iga ligipääsetava külje jaoks kasutatakse uut näidist, väljaarvatult juhul, kui eelmine katsetus ei ole mõjutanud järgmis(t)e katsetus(t)e tulemusi; sel juhul võib sama näidist taaskasutada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They shall not be applied to knock-outs, built-in components complying with other standards, or other fastening means which are recessed below the surface so as not to be subject to impact.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Lööke ei tohi rakendada väljalöödavatele osadele, muudele standarditele vastavatele sisseehitatud kompo- nentidele ega kinnitusvahenditele, mis on mehaaniliste toimete vältimiseks süvistatud allapoole pinda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cable entries which are not provided with knock-outs shall be left open.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Kaabliläbiviigud, mille jaoks väljalöödavaid osi pole ette nähtud, tuleb jätta avatuks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If they are provided with knock-outs, two of them shall be opened.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Väljalöödavate osade olemasolu korral tuleb kaks neist avada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Before applying the blows, fixing screws of bases, covers and the like shall be tightened with a torque equal to that specified in Table 102.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Enne löökide rakendamist tuleb aluste, katete ja muude taoliste osade kinnituskruvid pinguldada tabelis 102 sätestatud pöördemomendiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After the test, visual inspection shall verify that the specified IP code and dielectric properties have be maintained.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Pärast katsetusi tuleb ülevaatuse teel veenduda, et ettenähtud IP-kood ja dielektrilised omadused on säilinud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Removable covers can still be removed and reinstalled, doors opened and closed.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Eemaldatavaid katteid peab endiselt saama eemaldada ja taaspaigaldada, uksi avada ja sulgeda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.2.7	Marking</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>10.2.7 Märgistamine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Addition of new first paragraph:
+This test only applies to DBO’s intended for outdoor installation.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Lisanduv uus esimene lõik:
+Seda katsetust rakendatakse üksnes välispaigalduseks ette nähtud jaotuskilpidele, mida tohivad käsitada tavaisikud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.10.2.3.1	General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>10.10.2.3.1 Üldist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Addition after the third paragraph:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Täiendus kolmanda lõigu järele:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the absence of manufacturer’s instructions, the tightening torque applied to terminals shall be in accordance with those specified for the temperature rise test in the relevant device product standard.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Tootja juhiste puudumise korral peab klemmidele rakendatav pinguldusmoment vastama samadele nõuetele nagu asjakohases tootestandardis ületemperatuurikatsetuste korral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.10.2.3.6	Verification considering individual functional units separately and the complete ASSEMBLY
+Addition to fourth paragraph:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>10.10.2.3.6 Iseseisvate funktsionaalühikute eraldi kontroll ja tervikkooste kontroll
+Lisandus neljandasse lõiku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>One method to determine the most onerous group, is for the rated current of the DBO (InA), to be distributed amongst the smallest possible number of outgoing circuits, so that each of
+these circuits is loaded with its rated current multiplied by the assumed loading factor shown in Table 101 of this standard or a diversity factor stated by the manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Jaotuskilpide korral, mida tohivad käsitada tavaisikud, on kõige enam koormatud rühma määramise üheks meetodiks tunnusvoolu (InA) jagamine väljundahelate vähima võimaliku arvu vahel selliselt, et iga väljundahel oleks koormatud tunnusvooluga, mis on korrutatud selle standardi tabelis 101 esitatud eeldatava koormus- teguriga või tootja määratud samaaegsusteguriga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For an example considering a complete DBO, see Figure 101.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Näide jaotuskilbi kohta, mida tohivad käsitada tavaisikud, on esitatud joonisel 101.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.10.2.3.7	Verification considering individual functional units and the main and distribution busbars separately as well as the complete ASSEMBLY
+Addition to item d):</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>10.10.2.3.7 Iseseisvate funktsionaalühikute, kogumis- ja jaotuslattide eraldi kontroll ning tervikkooste kontroll
+Lisandus punktile d:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>One method to determine the most onerous group, is for the rated current of the DBO (InA), to be distributed amongst the smallest possible number of outgoing circuits, so that each of
+these circuits is loaded with its rated current multiplied by the rated diversity factor shown in Table 101 of this standard or a diversity factor stated by the manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Jaotuskilpide korral, mida tohivad käsitada tavaisikud, on kõige enam koormatud rühma määramise üheks meetodiks tunnusvoolu (InA) jagamine väljundahelate vähima võimaliku arvu vahel selliselt, et iga väljundahel oleks koormatud tunnusvooluga, mis on korrutatud selle standardi tabelis 101 esitatud eeldatava koormus- teguriga või tootja määratud samaaegsusteguriga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.10.3.2	ASSEMBLIES</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>10.10.3.2 Koosted</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Addition:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Täiendus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>DBOs with synthetic enclosures are considered representative of DBOs with metallic enclosures, if the highest air temperature rise on the inside surfaces of the synthetic enclosure does not exceed the maximum surface temperature rise for the accessible external metal surfaces according to Table 6 of Part 1.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Sünteetilisest materjalist ümbrisega jaotuskilpide korral, mida tohivad käsitada tavaisikud, loetakse need metall- ümbrisega jaotuskilpidega samaväärseteks, kui õhu suurim ületemperatuur sünteetilisest materjalist jaotuskilbi ümbrise sisepindadel ei ole kõrgem kui osa 1 tabelile 6 vastav ligipääsetavate väliste metallpindade maksi- maalne ületemperatuur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.10.4.2.3  Results to be obtained</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>10.10.4.2.3 Katsetustulemuste hinnang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Addition:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Täiendus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE Guidance is in the form of a publication of the maximum rated current at a specified ambient air temperature in the immediate vicinity of the device.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>MÄRKUS  Juhis on esitatud publikatsioonina, milles maksimaalne tunnusvool on määratud ümbritseva õhu temperatuuril seadme vahetus läheduses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Example:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Näide:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	Ith = 200 A at 40 °C local ambient air temperature, therefore 0,8  200 A = 160 A.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>a)	Ümbritseva õhu kohalikul temperatuuril 40 °C on vool Ith = 200 A, seega 0,8  200 A = 160 A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	The calculated air temperature within the enclosure is 60 °C.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>b)	Arvutuslik õhutemperatuur ümbrise sees on 60 °C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The manufacturer’s information limits the device Ith to 150 A at 60 °C local ambient air temperature.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Tootja juhised piiravad ümbritseva õhu kohalikul temperatuuril 60 °C seadme voolu Ith väärtuseni mitte üle 150 A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conclusion: the lower value from a) and b) is the continuous permissible load, in this case 150 A at the calculated local air temperature.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Järeldus: Lubatav püsikoormus on punktide a ja b järgi leitud vähim väärtus; antud juhul on see ümbritseva õhu arvutuslikul kohalikul temperatuuril 150 A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.10.4.3.2	Results to be obtained
+Addition:
+NOTE  Guidance is in the form of a publication of the maximum rated current at a specified ambient air temperature in the immediate vicinity of the device.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>10.10.4.3.2 Katsetustulemuste hinnang
+Täiendus:
+MÄRKUS	Juhis on esitatud publikatsioonina, milles maksimaalne tunnusvool on määratud ümbritseva õhu temperatuuril seadme vahetus läheduses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Example:
+a)	Ith = 200 A at 40 °C local ambient air temperature, therefore 0,8  200 A = 160 A.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Näide:
+a)	Ümbritseva õhu kohalikul temperatuuril 40 °C on vool Ith = 200 A, seega 0,8  200 A = 160 A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	The calculated air temperature within the enclosure is 60 °C.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>b)	Arvutuslik õhutemperatuur ümbrise sees on 60 °C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The manufacturer’s information limits the device Ith to 150 A at 60 °C local ambient air temperature.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Tootja juhised piiravad ümbritseva õhu kohalikul temperatuuril 60 °C seadme voolu Ith väärtuseni mitte üle 150 A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conclusion: the lower value from a) and b) is the continuous permissible load, in this case 150 A at the calculated local air temperature.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Järeldus: Lubatav püsikoormus on punktide a ja b järgi leitud vähim väärtus; antud juhul on see ümbritseva õhu arvutuslikul kohalikul temperatuuril 150 A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.11.5.3.3	Incoming circuit and main busbars</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>10.11.5.3.3 Sisendahelad ja peakogumislatid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Addition:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Täiendus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A rated conditional short-circuit current can be assigned where the distance of the main and distribution busbar between the load terminals of the incoming device connected to the main busbar and the supply terminals of the outgoing functional unit does not exceed 3 m.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Tinglikku tunnuslühisvoolu saab määrata, kui pea- ja jaotuslattide ning pealattidega ühendatud sisendseadme koormusklemmide ja väljundahela funktsionaalühiku toiteklemmide vaheline kaugus pole suurem kui 3 m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The main busbar, distribution busbar and incoming device may be tested and rated on the basis of the reduced short-circuit stresses occurring on the load side of the respective short-circuit protective device within each unit. Provided that these conductors are arranged so that an internal short-circuit between phases and/or between phases and earth is not to be expected (see 8.6.4 of Part 1).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Pealatte, jaotuslatte ja sisendseadet saab katsetada ning määrata nende tunnusandmeid igas ühikus vastava lühisekaitseaparaadi koormuspoole piiratud lühiskoormuse põhjal, kui on tagatud, et nende juhtide asetus muudab normaaltalitluses sisemise faasidevahelise või faaside ja maa vahelise lühise vähetõenäoliseks (vt osa 1 jaotis 8.6.4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE  Examples of conductor types and installation requirements are given in Table 4 of Part 1.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>MÄRKUS   Juhtide tüüpide näidised ja paigaldusnõuded on esitatud osa 1 tabelis 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.13	Mechanical operation</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>10.13	Mehaaniline toimivus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Replacement of second paragraph:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Teise lõigu asendus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For parts, which need verification by test, satisfactory mechanical operation shall be verified after installation in the DBO.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Katsetustega kontrollitavate osade rahuldavat mehaanilist talitlust tuleb kontrollida pärast nende paigaldamist jaotuskilpi, mida tohivad käsitada tavaisikud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The number of operating cycles shall be 50.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T131318Z">
+        <seg>Toimingutsüklite arv peab olema 50.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

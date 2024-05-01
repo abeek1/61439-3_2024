@@ -1,0 +1,123 @@
+EVS-IEC 60050-602; Elektri tootmine, ülekandmine ja jaotamine. Elektri tootmine
+elektrijaam; jõujaam	porver station
+elektritootmissüsteem	generation system
+hüdroenergiaehitis	hydroelectric installation
+hüdroelektrijaam	hydroelectrie power station
+jõevoolu-hüdrojaam	run-of-river power station
+väikese veehoidlaga hüdrojaam	pondage power station
+suure veehoidlaga hüdrojaam	reservoir power station
+loodete elektrijaam	tidal power station
+pumpsalvestus; hüdroakumulatsioon	pumped storage
+pumpelektrijaam	pumped storage power station
+hüdroelektrij aama brutosurukõrgus	gross head of a hydroelectric power station 
+hüdroelektrijaama netosurukõrgus	net head of a hydroelectric power station 
+veehoidla kasulik maht	useful water capacity of a reservoir
+veehoidla energiamahutavus	energy capability of a reservoir
+veehoidla kasulik veevaru	useful water reserve of a reservoir
+veehoidla energiavaru	energy reserve of a reservoir
+veehoidla täitetegur	reservoir fullness factor
+äravool; äravooluhulk	water cumulatiye flows
+energiamahutavus	energy capability (of one or more hydroelectric installations)
+keskmine energiamahutavus	mean energy capability (of one or more hydroelectric installations)
+energiamahutavusegur	energy capability factor (of one or more hydroelecrric installations)
+soojuselektrijaam	thermal power station
+tavasoojuselektrijaam	conventional thermal polver station
+soojuse ja elektri koostootmine	combined heat and power
+suruõhksalvestus; pneumoakumulatsioon	compressed air storage
+suruõhuelektrijaam	compressed air porver station
+tuumaelektrijaam	nuclear (thermal) power station
+geotermaalelektrijaam	geothermal power station
+päikeseelektrijaam	solar power station
+tuuleelektrijaam	wind power station
+magnethüdrodünaamiline elektrijaam; MHD-elektrijaam	magneto-hydro-dynamic thermal power station; MHD power station
+meresoojuselektrijaam	ocean or sea temperature gradient porver station
+kütuseelement	fuel cell
+generaatoragregaat	generating set
+mootoragregaat	motor set
+hüdroagregaat	hydroelectric set
+reversiivhüdroagregaat	reversible hydroelectric set
+pais	dam
+gravitatsioonipais	gravity dam
+kaarpais	arch dam
+pinnasepais	earth dam
+survetoru	penstock
+survekants; survereservuaar	surge tank; surge shaft
+aktiivturbiin	impulse type turbine
+reaktiivturbiin	reaction type turbine
+koppturbiin; Peltoni turbiin	Pelton turbine
+radiaal-aksiaalturbiin; Francise turbiin	Francis turbine
+pöördlabaturbiin; Kaplani turbiin	Kaplan turbine
+kapselhüdroagregaat	bulb-type unit
+propellerturbiin	propeller turbine
+tasandusbassein	tail water reservoir
+soojuselektrijaama plokk	thermal polver unit
+soojus- generaatoragregaat	thermal generating set
+turbo(generaator)agregaat	turbo-generator set
+sisepõlemisagregaat; diiselgeneraatoragregaat	internal combustion set
+gaasiturbiinagregaat	gas turbine set
+kondensatsioonagregaat	condensing set
+vaheülekuumendiga kondensatsioonagregaat	condensing set with reheat
+vasturõhuagregaat	back-pressure set
+peageneraator	main generator
+omatarbegeneraator	auxiliary generator
+ploki abiseadmed	unit auxiliaries
+üldabiseadmed	common auxiliaries
+plokitrafo	unit generator transformer; set transformer
+ploki omatarbetrafo	auxiliary transformer of a unit
+elektrijaama omatarbetrafo	auxiliary transformer of a power station
+aurukatel; aurugeneraator	boiler
+loomuliku ringlusega katel; loomuliku tsirkulatsiooniga katel	natural circulation boiler
+otsevoolukatel	once-through boiler
+sundringlusega katel; sundtsirkulatsiooniga katel	controlled circulation boiler
+tolmküttekatel	pulverised fuel boiler
+gaasküttekatel	gaseous fuel boiler
+vedelküttekatel	liquid fuel boiler
+vahepunkriga katel	bin-and-feeder system boiler
+otsepõletuskatel	directly-fired boiler
+keevkihtkatel	fluidised-bed boiler
+ülekuumendatud aur	superheated steam
+ülekuumendi	superheater
+vaheülekuumendi	reheater
+auruturbiin	steam turbine
+kondensatsioonturbiin	condensing steam turbine
+vaheltvõtu-kondensatsioonturbiin	condensing steam turbine with bleeding
+(auruturbiini) silinder	cylinder (of a steam turbine)
+ühendvõlliga rootorid	line of shafting
+ühevõlliline agregaat; tandemagregaat	tandem-compound set
+mitmevõlliline agregaat	cross-compound set
+kiirusregulaator	speed governor
+liigkiiruskaitse	overspeed device
+(auruturbiini) kondensaator	condenser
+tornjahuti; gradiir	cooling tower
+kuivtornjahuti; kuivgradiir	dry cooling tower
+märgtornjahuti; märggradiir	wet cooling torver
+sundventilatsiooniga tornjahuti; sundventilatsiooniga gradiir	forced draught cooling tower
+soojusagregaadi külmkäivitus	cold start-up of a thermal generating set
+soojusagregaadi kuumkäivitus	hot start-up of a thermal generating set
+soojusagregaadi kuumkäivitus	hot start-up of a thermal generating set
+agregaadi lubatav minimaalkoormus	minimum safe output of the unit
+agregaadi brutokoormus	gross output of a set
+elektrijaama brutokoormus	gross output of a power station
+agregaadi netokoormus	net output of a set
+elektrijaama netokoormus	net output of a power station
+agregaadi suurim kestevvõimsus	maximum capacity of a unit
+elektrijaama suurim kestevvõimsus	maximum capacity of a power station
+lubatav ülekoormus; ülekoormatavus	overload capacity
+agregaadi kasutatav võimsus	available capacity of a unit
+elektrijaama kasutatav võimsus	available capacity of a porver station
+süsteemi võimsustarve; võrgu võimsustarve	power demand from the system
+süsteemi võimsusreserv	reserve power of a system
+süsteemi pöörlev reserv	spinning reserve of a system
+kuumreserv; operatiivreserv	hot stand-by
+külmreserv	cold reserve
+sundenergia	unavoidable energy
+agregaadi soojuse brutoerikulu	gross average heat rate of a unit
+agregaadi soojuse netoerikulu	net average heat rate of a unit
+agregaadi soojuslik brutokasutegur	gross thermal efficiency of a unit
+agregaadi soojuslik netokasutegur	net thermal efficiency of a unit
+agregaadi optimaalne koormus	economical load of a unit
+agregaadi koormustegur	load factor of a unit
+agregaadi maksimaalvõimsuse kasutusaeg	utilisation period at maximum capacity of one unit
+agregaatide maksimaalvõimsuse kasutusaeg	utilization period at nraximum capacity of more units
+agregaadi maksimaalvõimsuse kasutustegur	utilization factor of the maximum capacity of a unit
+agregaadi eraldamine	isolation of a unit

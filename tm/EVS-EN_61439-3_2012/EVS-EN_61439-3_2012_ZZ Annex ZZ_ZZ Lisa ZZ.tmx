@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Annex ZZ</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T193649Z">
+        <seg>Lisa ZZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(informative)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T193649Z">
+        <seg>(teatmelisa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Coverage of Essential Requirements of EU Directive 2004/108/EC</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T193649Z">
+        <seg>EL-i direktiivi 2004/108/EÜ oluliste nõuete arvestamine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This European Standard has been prepared under a mandate given to CENELEC by the European Commission and the European Free Trade Association and within its scope the standard covers all relevant essential requirements as given in Article 1 of Annex I of the EU Directive 2004/108/EC.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T193649Z">
+        <seg>Standard on koostatud Euroopa Komisjoni ja Euroopa Vabakaubanduse Assotsiatsiooni poolt Euroopa Elektro- tehnika Standardimiskomiteele (CENELEC) antud mandaadi alusel ja see arvestab oma käsitlusalas kõiki asjakohaseid olulisi nõudeid, mis on esitatud EL-i direktiivi 2004/108/EÜ lisa I artiklis 1. EE MÄRKUS 1 Direktiiv 2004/108/EÜ (15. detsember 2004) käsitleb liikmesriikide elektromagnetilise ühilduvuse alaste õigusaktide ühtlustamist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compliance with this standard provides one means of conformity with the specified essential requirements of the Directive concerned.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T193649Z">
+        <seg>Vastavus sellele standardile on üks meetmetest, mis tagab arvestatavates direktiivides sätestatud oluliste nõuete täitmise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>WARNING:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T193649Z">
+        <seg>HOIATUS!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other requirements and other EU Directives may be applicable to the products falling within the scope of this standard.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T193649Z">
+        <seg>Selle standardi käsitlusalasse kuuluvatele toodetele võivad rakenduda ka muud nõuded ja muud EL-i direktiivid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T193649Z">
+        <seg>EE MÄRKUS 2 Euroopa Parlamendi ja Euroopa Nõukogu direktiive nimetati aastani 2009 Euroopa Ühenduse direktiivideks (tähis EÜ), alates aastast 2010 aga Euroopa Liidu direktiivideks (tähis EL).</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

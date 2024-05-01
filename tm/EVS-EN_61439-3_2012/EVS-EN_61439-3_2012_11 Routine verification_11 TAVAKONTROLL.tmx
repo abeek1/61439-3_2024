@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Routine verification</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>TAVAKONTROLL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This clause of Part 1 applies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Rakendatakse osa 1 vastavat jaotist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Additional tables and figure:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Lisatabelid ja joonis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table 101 – Values of assumed loading</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Tabel 101 — Eeldatava koormuse väärtused</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Number of outgoing circuits</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Väljundahelate arv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assumed loading factor</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Eeldatav koormustegur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2 and 3
+4 and 5</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>2 või 3
+4 või 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>6 to 9 inclusive</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>6 kuni 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10 and above</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>10 või enam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table 102 – Tightening torque values for the verification of mechanical strength</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Tabel 102 — Pinguldusmomendi väärtused mehaanilise tugevuse kontrollimiseks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Diameter of thread</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Keerme läbimõõt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tightening torque</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Pinguldusmoment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Metric standard values</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Standardväärtus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Range of diameters “d”</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Läbimõõdu vahemik d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a For screws and fasteners made of plastic the tightening torque applied shall be the value specified in the manufacturer’s instructions.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>a	Plastikust kruvidele ja kinnitustarvikutele rakendatud pinguldusmoment peab vastama tootja juhistes antud väärtustele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>90 ° locking mechanisms not containing a thread are not subjected to the tightening torques prescribed in the table, they are operated so as to engage in normal use.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Tabelis esitatud pinguldusmomendid ei kehti täisnurga all paiknevate keermeta lukustusmehhanismide kohta; neid käsitatakse nagu normaalkasutuses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b Column I applies to screws without heads which, when tightened, do not protrude from the hole and to other screws which cannot be tightened by means of a screwdriver with a blade wider than the root diameter of the screw.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>b	Veerg I kehtib peata kruvide kohta, mis pinguldamisel ei ulatu avast välja, ning muude kruvide kohta, mida ei saa pinguldada kruvikeerajaga, mille tera on laiem kui kruvi keerme siseläbimõõt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>c Column II applies to nuts and screws, which are tightened by means of a screwdriver.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>c	Veerg II kehtib mutrite ja kruvide kohta, mida pinguldatakse kruvikeeraja abil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>d Column III applied to nuts and screws, which can be tightened by means other than a screwdriver.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>d	Veerg III kehtib mutrite ja kruvide kohta, mida saab pinguldada muude vahenditega kui kruvikeeraja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Outgoing unit 1</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Väljundühik 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inc 80 A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Inc = 80 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>TEST current 80 A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Katsetusvool 80 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rated current of the DBO: InA 100 A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Jaotuskilbi tunnusvool: InA 100 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Outgoing unit 1 Inc 80 A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Väljundühik 1: Inc 80 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Outgoing unit 2 Inc 80 A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Väljundühik 2: Inc 80 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Outgoing functional units Inc 63 A maximum</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Väljundahelate funktsionaalühikud: enimalt Inc 63 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Total outgoing circuits in DBO = 8</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Väljundahelate arv kokku: 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From  Table 101  assumed  loading  factor  for  8 outgoing circuits = 0,6</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Tabelist 101 leitud eeldatav koormustegur 8 väljundahela jaoks: 0,6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Test currents:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Katsetusvoolud:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Main incoming unit = 100 A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Peaahela sisendühik: 100 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Outgoing unit 1 = test current 80 A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Väljundühiku 1 katsetusvool: 80 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rated current of the DBO (InA) 100 A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Kilbi tunnusvool (InA) 100 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>TEST current 100 A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Katsetusvool 100 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1a	1b	1c	1d</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>1a	1b	1c	1d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Test current 1a = 63 A × 0,6 = 37,8 A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Katsetusvool 1a: 63 A × 0,6	= 37,8 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Test current 1b = 63 A × 0,6 = 37,8 A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Katsetusvool 1b: 63 A × 0,6	= 37,8 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Test current 1c = 6 A = 4,4 A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Katsetusvool 1c: 6 A	= 4,4 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Total 80 A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Kokku 80 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Circuit 1c is the balance current to load the outgoing unit 1 to its rated circuit current (Inc), so as to achieve the highest temperature rise.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Ahel 1c on väljundühiku 1 koormuse tasakaalustusühik kuni tunnusvooluni (Inc), et saavutada suurimat üle- temperatuuri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Outgoing unit 2 = test current 20 A, which is the balance to obtain incoming circuit InA so as to achieve the highest temperature rise.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Väljundühiku 2 katsetusvool on 20 A, mis on tasakaalustusvool, et saavutada sisendühikus voolu InA ja koos  sellega  suurimat  ületemperatuuri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Therefore outgoing circuit 2a = 32 A × 0,6 = 19,2 A and 2b = 2 A loaded to 0,8 A (balance)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Seega  on väljundahelates vool 2a võetud 32 A × 0,6 = 19,2 A ja vool 2b = 2 A; ahel on koormatud vooluga kuni 0,8 A (tasakaalustusvooluga).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Outgoing functional unit</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Väljundahela funktsionaalühik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Outgoing circuit</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Väljundahel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2a	2b	2c	2d</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>2a	2b	2c	2d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE 1</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>MÄRKUS 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is one example where the DBO is loaded to its rated current (InA).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>See näide on üks võimalik variant selle kohta, kuidas jaotuskilp on koormatud kuni oma tunnus- vooluni  (InA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>More tests in different configurations may be required.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Järgnevalt  võivad  olla  vajalikud  eri konfiguratsioonide katsetused.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE 2</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>MÄRKUS 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In DBOs, where the total of the rated currents of the outgoing circuits operating at rated diversity factor, exceeds the capacity of the incoming circuit, the diversity factor applies to any combination of outgoing circuits used to distribute the incoming current.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Tavaisikute jaoks ette nähtud jaotuskilpide korral, kui kõik väljundahelad on tunnus-samaaegsus- teguri juures tunnusvooluga koormatud, võib sisendühiku vool olla lubatust suurem. Sel juhul rakendatakse samaaegsustegurit sisendvoolu jaotamiseks mingile väljundahelate kombinatsioonile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In Figure 101, 1a to 1d each 63 A = (63 × 4) × 0,6 = 151,2 A, which exceeds the capacity of the 100 A incoming circuit.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Joonisel 101 on ahelate 1a kuni 1d vool igaühes 63 A ja seega on vool kokku (63 × 4) × 0,6 = 151,2 A, mis on suurem kui sisendahela lubatav vool 100 A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Therefore, in this example, outgoing circuits are loaded to the Inc of outgoing unit 1(80 A), with outgoing unit 2 loaded to the balance of the incoming circuit (20 A).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Seega on siinse näite puhul väljundühiku 1 väljund- ahelad koormatud kuni vooluni Inc (80 A) koos sisend- ahelat tasakaalustava väljundühikuga 2 (20 A).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE 3</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>MÄRKUS 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The rated current of a functional unit (the circuit) is the value of current, declared by the ASSEMBLY manufacturer, which are lower than the rated current of the device according to the respective device standard.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Funktsionaalühiku (ahela) tunnusvool on kooste tootja deklareeritud voolu väärtus, mis võib olla väiksem kui vastava tootestandardiga määratud tunnusvool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 101 – Example of temperature rise verification by test of a complete DBO as in 10.10.2.3.6</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T133404Z">
+        <seg>Joonis 101 — Näide tervikliku tavaisikute käsitatava jaotuskilbi ületemperatuuri kontrollimisest katsetustega vastavalt jaotisele 10.10.2.3.6</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

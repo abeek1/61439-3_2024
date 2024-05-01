@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Annex ZB (informative)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Lisa ZB (teatmelisa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A-deviations</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>A-kõrvalekalded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A-deviation: National deviation due to regulations, the alteration of which is for the time being outside the competence of the CENELEC member.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>A-kõrvalekalle on riiklikest õigusaktidest tingitud erinevus, mille muutmine on praegusel ajal väljaspool CENELEC-i liikmesorganisatsiooni pädevust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This European Standard falls under Directive 2004/108/EC.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>See Euroopa standard kuulub Euroopa Ühenduse direktiivi 2004/108/EÜ alla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(from CEN/CENELEC IR Part 2:2011 , 2.17) Where standards fall under EC Directives, it is the view of the Commission of the European Communities (OJ No C 59, 1982-03-09) that the effect of the decision of the Court of Justice in case 815/79 Cremonini/Vrankovich (European Court Reports 1980, p.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>(väljavõte regulatsioonist CEN/CENELEC IR osa 2:2011, 2.17) Kui standardid kuuluvad Euroopa Komisjoni direktiivide alla, on Euroopa Komisjoni seisukoht (Euroopa Liidu Teataja nr C 59, 1982-03-09), et Euroopa Kohtu otsuse tulemusena asjas 815/79 Cremonini/Vrankovich (Euroopa Kohtu aruanne 1980, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>3583) is that compliance with A-deviations is no longer mandatory and that the free movement of products complying with such a standard should not be restricted except under the safeguard procedure provided for in the relevant Directive.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>3583) pole vastavus A-kõrvalekalletele enam kohustuslik ja et niisugustele standarditele vastavate toodete vaba liikumist ei tohi takistada muul viisil kui asjakohases direktiivis esitatud ohutusmenetlusega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A-deviations in an EFTA-country are valid instead of the relevant provisions of the European Standard in that country until they have been removed.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>A-kõrvalekalded EFTA-riikides on Euroopa standardi asjakohaste sätete asemel kehtivad selles riigis seni, kuni need on kõrvaldatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clause</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Jaotis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deviation</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Kõrvalekalle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>United Kingdom</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Ühendkuningriik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>UK Electricity, Safety and Quality Regulations S.I.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Ühendkuningriigi elektri, ohutuse ja kvaliteedi eeskiri (UK Electricity, Safety and Quality Regulations) S.I.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2002 No. 2965 require electricity suppliers to state the maximum prospective short circuit current at the supply terminals.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>2002 nr 2965 nõuab elektritarnijatelt maksimaalse arvutusliku lühisvoolu kehtestamist toiteklemmidel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This information is given in Electricity Association publication P25.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>See informatsioon on esitatud Elektriliidu (Electricity Association) publikatsioonis P25.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To meet this condition the following requirements are to be incorporated:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Selle tingimuse täitmiseks tuleb kehtestada alljärgnevalt esitatud nõuded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>3.1	Additional definition</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>3.1	Täiendav määratlus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>3.1.104 Customer distribution board CDB</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>3.1.104 Kliendi-jaotuskilp (customer distribution board, CDB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An integrated assembly, for the control and distribution of electrical energy, principally in a household or similar premise, incorporating manual means of double-pole isolation on the incoming circuit(s), with polarity observed throughout.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Peamiselt kodumajapidamises ja muudes taolistes kohtades elektrienergia jaotamiseks ja juhtimiseks ettenähtud integreeritud kooste, mis sisaldab sisendahela(te)s kahe eraldatud poolusega käsivahendeid, mille polaarsus on läbivalt jälgitav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are designed for use exclusively with specific protective devices on the outgoing circuits, and type-tested for use when energized through the specified 100 amp fuse.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Neis on eranditult ette nähtud kasutada väljundahelates erikaitseaparaate ja kooste peab olema tüübikatsetatud kasutamiseks toitmisel ettenähtud sulavkaitsme kaudu nimivooluga 100 A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE Generally known in the UK as a Consumer unit.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>MÄRKUS   Ühendkuningriigis on eelnimetatu üldtuntud kliendiühiku (customer unit) nime all.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.11.5	Additional test</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>10.11.5	Täiendav katsetus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.11.5.7	Verification of the capability of the CDB to withstand a 16 kA fault.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>10.11.5.7	Kliendi-jaotuskilbi kontroll lühisvoolutaluvusele 16 kA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following test is applied to CDB’s as covered by the definition in 3.1.104.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Jaotise 3.1.104 määratletud kliendi-jaotuskilbi korral rakendatakse alljärgnevat katsetust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.11.5.7.1	Test arrangements</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>10.11.5.7.1	Katsetuse korraldus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The CDB shall be set up as in normal use.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Kliendi-jaotuskilp tuleb üles seada normaalkasutuseks ettenähtud viisil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It will be sufficient to test a single functional unit if the remaining functional units are constructed in the same way and cannot affect the test result.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Piisav on katsetada ühte funktsionaalühikut, kui ülejäänud funktsionaalühikud on samasuguse ehitusega ega mõjuta katsetustulemusi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.11.5.7.2	Short-circuit test procedure</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>10.11.5.7.2	Lühiskatse protseduur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following test procedure is intended to verify the performance of the incoming device and its connections, and any other item in the CDB not separately rated in excess of 16 kA, when the complete CDB is protected by a fuse-link complying with BS 88.3 (formerly BS 1361).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Alljärgnevalt kirjeldatud katsetusprotseduur on ette nähtud kuni 16 kA tunnus-lühisvooluga kliendi- jaotuskilbi sisendseadme ja selle ühenduste ning jaotuskilbi kõigi muude ühikute omaduste kontrollimiseks, kui kilp tervikuna on kaitstud sulavkaitsmetega, mis vastavad standardile BS 88.3 (endine BS 1361).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This type test shall be deemed to cover the use of any other short-circuit protective device having a Joule integral (I2t) and cut-off current not exceeding values given in item b) below, at the rated voltage, prospective current and power factor.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>See tüübikatsetus peab haarama kõigi muude lühiskaitseaparaatide kasutamist, mille Joule’i integraali (I2t) ja lõikevoolu väärtused pole tunnuspingel, arvutuslikul voolul ja võimsus- teguril suuremad kui alljärgnevad punktis b esitatud väärtused.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	It shall be verified that the representative samples of the final circuit protective devices used for the test comply with Table ZB.1 and Table ZB.2 where applicable.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>a)	Tuleb kontrollida, et katsetamisel kasutatavad lõppahela kaitseaparaadi esinduslikud näidised vastavad tabelile ZB.1 ja tabelile ZB.2, kui need on rakendatavad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	The reference fuse shall be a 100 A fuse-link complying with type II of BS 88.3.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>b)	Näidissulavkaitsmeks peab olema sulavpanus nimivooluga 100 A, mis vastab standardi BS 88.3 tüübile II.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details of the fuse-links used for the test, i.e. manufacturer’s name, reference, rated current, rated voltage and pre-arcing (I2 t), shall be given in the test report.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Katsetuste aruandes peavad olema esitatud katsetamisel kasutatava sulav- panuse üksikasjad, s.t tootja nimi, normiviide, tunnusvool, tunnuspinge ja kaare tekkele eelnev Joule’i integraal (I2t).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where BS 1361 type II fuse-links are available for test / certification purposes, they may be used in place of BS 88-3 fuse-links as key performance characteristics are identical.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Kui standardi BS 1361 tüübile II vastavad sulavpanused on katsetuste või sertifitseerimise otstarbel saadaval, võib neid kasutada standardile BS 88-3 vastavate sulavpanuste asemel, sest nende peamiste tunnussuuruste omadused on identsed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>c)	The final circuit protective device shall be mounted as in service in the manufacturer’s smallest recommended enclosure (metal if offered in the catalogue).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>c)	Lõppahela kaitseaparaat tuleb kohale monteerida nagu käidus, tootja soovitatud väikseimas ümbrises (metallümbrises, kui seda kataloogis pakutakse).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The connection on the load side of the protective device under test shall be in accordance with Table ZB.3 and 0,6 m ± 0,05 m in length.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Katsetatava kaitseaparaadi koormuspoole ühendus peab vastama tabelile ZB.3 ja selle pikkus peab olema 0,6 m ± 0,05 m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>d)	The test circuit shall be connected as shown in Figure ZB.1</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>d)	Katsetusahel peab vastama joonisele ZB.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The relative positions of the closing switch, inductive reactor and resistor are not obligatory, but the resistor shall be in series with the master circuit-breaker.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Ahelat sulgeva lüliti, induktiivpooli ja takisti suhtelised asukohad pole kohustuslikud, kuid takisti peab olema peakaitselülitiga jadamisi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>e)	The impedance used for limiting the prospective short-circuit fault current to the required value shall be inserted on the supply side of the circuit.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>e)	Oodatava lühisvoolu piiramiseks lubatava väärtuseni tuleb ahela toitepoolele lülitada näivtakisti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Resistors shall be connected between line and neutral, after the impedances for adjusting the prospective current, so as to draw current of 10 A per phase at rated voltage from the supply.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Takistid tuleb ühendada liinijuhi ja neutraaljuhi vahele pärast eeldatava voolu seadistamiseks ettenähtud näivtakisteid selliselt, et toiteahela tunnuspingel oleks vool 10 A faasi kohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If an air-cored inductor is used, a resistor taking approximately 1 % of the current through the inductor shall be connected in parallel with it.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Kui kasutatakse õhksüdamikuga induktiivpooli, tuleb induktiivpooliga rööbiti ühendada aktiivtakisti, mis võtaks enda kanda ligikaudu 1 % pooli voolust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A lower value of shunt current may be used with the consent of the manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Tootjaga kooskõlastatult võib kasutada ka väiksemat rööpahela voolu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table ZB.1 – Requirements for final circuit protective devices:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Tabel ZB.1 — Nõuded lõppahela kaitseaparaatidele:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Circuit-breakers complying with BS EN 60898 and RCBOs complying with BS EN 61009</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>standardile BS EN 60898 vastavad kaitselülitid ja
+standardile BS EN 61009 vastavad rikkevoolukaitselülitid (RCBO)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Circuit-breaker or RCBO type</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Kaitselüliti või rikkevoolu-kaitselüliti (RCBO) tüüp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Time</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Aeg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Test current in multiples of rated current (In)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Katsetusvool (In) tunnusvoolu kordsena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Result</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Tulemus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No trip</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Lüliti ei rakendu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Trip</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Rakendumine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Test to be conducted at specified reference ambient temperature.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Katsetused tuleb teha etteantud soovituslikul ümbrustemperatuuril.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This test shall commence within 5 seconds of the end of the test at 1,13 In.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Seda katsetust tuleb alustada 5 sekundit pärast katsetamist 1,13-kordsel tunnusvoolul In.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table ZB.2 – Requirements for final circuit protective devices: Semi-enclosed fuses complying with BS 3036 and cartridge fuses complying with BS 88.3.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Tabel ZB.2 — Nõuded lõppahela kaitseaparaatidele: standardile BS 3036 vastavad poolsuletud sulavkaitsmed ja standardile BS 88.3 vastavad padrunkaitsmed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Test Current</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Katsetusvool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Time</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Aeg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Test current in multiples of rated current (In)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Katsetusvool (In) tunnusvoolu kordsena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Result</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Tulemus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fuse intact</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Sulavkaitse on terve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fuse melted</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Sular on sulanud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where BS 1361 fuse-links are available for test / certification purposes, they may be used in place of BS 88-3 fuse-links as key performance characteristics are identical.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T155315Z">
+        <seg>Kui standardi BS 1361 tüübile II vastavad sulavpanused on katsetuste või sertifitseerimise otstarbel saadaval, võib neid kasutada standardile BS 88-3 vastavate sulavpanuste asemel, sest nende peamiste tunnussuuruste omadused on identsed.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

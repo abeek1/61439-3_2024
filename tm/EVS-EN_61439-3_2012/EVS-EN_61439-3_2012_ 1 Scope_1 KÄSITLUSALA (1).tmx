@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-GB"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Scope</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T124744Z">
+        <seg>KÄSITLUSALA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>This part of IEC 61439 defines the specific requirements for distribution boards intended to be operated by ordinary persons (DBO).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T124744Z">
+        <seg>Standardisarja IEC 61439 see osa määratleb erinõuded jaotuskilpidele, mida tohivad käsitada tavaisikud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DBOs have the following criteria:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T124744Z">
+        <seg>Jaotuskilbid, mida tohivad käsitada tavaisikud, on määratletud järgmiste asjaoludega:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>intended to be operated by ordinary persons (e.g. switching operations and replacing fuse-links), e.g. in domestic (household) applications</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T124744Z">
+        <seg>need on ette nähtud käsitamiseks (nt lülitustoiminguteks ja sulavpanuste vahetamiseks) näiteks kodumajapidamisrakendustes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>outgoing circuits contain protective devices, intended to be operated by ordinary persons, complying e.g. with IEC 60898-1, IEC 61008, IEC 61009, IEC 62423 and IEC 60269-3</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T124744Z">
+        <seg>nende väljundahelad sisaldavad kaitseaparaate, mida tohivad käsitada tavaisikud ja mis vastavad nt standardite IEC 60898-1, IEC 61008, IEC 61009, IEC 62423 ja IEC 60269-3 nõuetele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>rated voltage to earth does not exceed 300 V a.c.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T124744Z">
+        <seg>nende tunnuspinge maa suhtes ei ole vahelduvvoolu korral üle 300 V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>rated current (Inc) of the outgoing circuits does not exceed 125 A and the rated current (InA) of the DBO does not exceed 250 A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T124744Z">
+        <seg>nende väljundahelate tunnusvool (Inc) ei ole üle 125 A ja jaotuskilbi tunnusvool (InA) ei ole üle 250 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>intended for the distribution of electrical energy</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T124744Z">
+        <seg>need on ette nähtud elektrienergia jaotamiseks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>enclosed, stationary</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T124744Z">
+        <seg>need on kohtkindlad ning kinnise ehitusega</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>for indoor or outdoor use.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T124744Z">
+        <seg>need võivad olla ette nähtud nii sise- kui ka väliskasutuseks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DBOs may also include control and/or signaling devices associated with the distribution of electrical energy.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T124744Z">
+        <seg>Jaotuskilbid, mida tohivad käsitada tavaisikud, võivad sisaldada ka juhtimis- ja/või signalisatsiooniseadmeid, mis on seotud elektrienergia jaotamisega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>This standard applies to all DBOs whether they are designed, manufactured and verified on a one-off basis or fully standardised and manufactured in quantity.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T124744Z">
+        <seg>Standard kehtib kõigi jaotuskilpide kohta, mida tohivad käsitada tavaisikud, sõltumata sellest, kas need on projekteeritud, valmistatud ja kontrollitud ühekaupa või täielikult standarditud ning hulgi valmistatavad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DBOs may be assembled outside the factory of the original manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T124744Z">
+        <seg>Jaotuskilbid, mida tohivad käsitada tavaisikud, võivad olla koostatud väljaspool originaaltootja tehast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>This standard does not apply to individual devices and self-contained components, such as circuit breakers, fuse switches, electronic equipment, etc. which will comply with the relevant product standards.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T124744Z">
+        <seg>Standard ei kehti üksikseadmete ega tervikkomponentide kohta, nagu kaitselülitid, sulavkaitsmete ja lüliti kombinatsioonid, elektroonikaseadmed jne, mis peavad vastama asjakohastele tootestandarditele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>This standard does not apply to the specific types of ASSEMBLIES covered by other parts of IEC 61439.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T124744Z">
+        <seg>Standard ei kehti standardisarja IEC 61439 muude osadega hõlmatud eriliiki koostete kohta.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

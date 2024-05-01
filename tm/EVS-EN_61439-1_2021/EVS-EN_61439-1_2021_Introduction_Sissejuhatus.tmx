@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The purpose of this document is to harmonize as far as practicable all rules and requirements of a general nature applicable to low-voltage switchgear and controlgear assemblies, in order to obtain uniformity of requirements and verification for assemblies and to avoid the need for verification in other standards.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102450Z">
+        <seg>Selle dokumendi eesmärk on harmoneerida, niivõrd kui see on praktiliselt võimalik, kõik madalpingeliste aparaadikoostete kohta rakendatavad üldise iseloomuga reeglid ja nõuded, et ühtlustada koostetele esitatavad nõuded ja kontrolliviisid ning vältida vajadust kontrollida neid muude standardite järgi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All those requirements for the various assembly standards which can be considered as general have therefore been gathered in this document together with specific subjects of wide interest and application, e.g. temperature-rise, dielectric properties, etc.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102450Z">
+        <seg>Kõik eri koostestandardite nõuded, mida saab käsitleda üldreeglitena, on seetõttu koondatud sellesse dokumenti koos laiemat huvi ja rakendamist pakkuvate teemadega, nagu ületemperatuur, dielektrilised omadused jne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For each type of low-voltage switchgear and controlgear assembly, only two main standards are necessary to determine all requirements and the corresponding methods of verification:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102450Z">
+        <seg>Iga madalpingelise aparaadikooste puhul on kõigi nõuete ja vastavate kontrolliviiside tuvastamiseks vaja vaid kaht põhilist standardit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>the basic standard, (this document) referred to as “IEC 61439-1” in the specific standards, covering the various types of low-voltage switchgear and controlgear assemblies</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102450Z">
+        <seg>põhistandard (see dokument), millele eristandardites, mis käsitlevad mitmesuguseid madalpingelisi aparaadikoosteid, viidatakse kui „IEC 61439-1“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>the specific assembly standard hereinafter also referred to as the relevant assembly standard</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102450Z">
+        <seg>selle järel kooste eriküsimusi käsitlev standard, mida siin ja edaspidi nimetatakse ka asjakohaseks koostestandardiks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a general rule to apply to a specific assembly standard, it should be explicitly referred to by quoting this document followed by the relevant clause or subclause number e.g. “IEC 614391:2020, 9.1.3”.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102450Z">
+        <seg>Üldreeglile, mida rakendatakse kooste eristandardis, tuleb selgelt viidata sellele dokumendile vastava peatüki või jaotise numbriga, nt „IEC 61439-1:2020, jaotis 9.1.3“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A specific assembly standard may not require, and hence need not call up, a general rule where it is not applicable, or it can add requirements if the general rule is deemed inadequate in the particular case, but it may not deviate from it unless there is substantial technical justification detailed in the specific assembly standard.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102450Z">
+        <seg>Koostete eristandard ei pruugi üldreeglit käsitleda ega seda seetõttu meenutada, kui see ei ole rakendatav või kui võidakse lisada nõudeid üldreegli mittepiisavaks pidamise korral sellel erijuhtumil, kuid eristandardid ei tohi olla sellega vastuolus, väljaarvatult siis, kui kooste eristandardis on esitatud sellekohane üksikasjalik tehniline põhjendus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where, in this document, a cross-reference is made to another clause, the reference is to be taken to apply to that clause as amended by the specific assembly standard, where applicable.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102450Z">
+        <seg>Kui selles dokumendis on ristviide muule jaotisele, tuleb seda viidet võtta kui selle jaotise muudatust võrreldes kooste eristandardiga, kui see on rakendatav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Requirements in this document that are subject to agreement between the assembly manufacturer and the user are summarized in Annex C (informative).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102450Z">
+        <seg>Kooste tootja ja kasutaja vahelise kokkuleppe aluseks olevad selle dokumendi nõuded on kokkuvõtvalt esitatud teatmelisas C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This schedule also facilitates the supply of information on basic conditions and additional user specifications to enable proper design, application and utilization of the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102450Z">
+        <seg>See loend hõlbustab ka teabe hankimist kooste tehniliste põhitingimuste ja kasutaja esitatavate tehniliste lisaandmete kohta, et tagada kooste nõuetekohane projekteerimine, kasutamine ja utiliseerimine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For the IEC 61439 series, the following parts are published:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240429T102450Z">
+        <seg>Standardisarjas IEC 61439 on avaldatud järgmised osad: a) IEC 61439-1: üldreeglid;</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

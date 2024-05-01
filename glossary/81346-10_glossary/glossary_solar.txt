@@ -1,0 +1,3 @@
+photovoltaic	fotogalvaaniline	Fotoelektriline nähtus, mille puhul footonite neeldumine tekitab emj. (elmag)
+photovoltaic	fotopinge	
+photovoltaic cell	fotogalvaaniline element

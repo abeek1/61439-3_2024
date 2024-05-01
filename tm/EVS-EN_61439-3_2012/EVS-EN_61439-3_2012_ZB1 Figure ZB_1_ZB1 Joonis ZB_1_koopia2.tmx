@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure ZB.1</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>Joonis ZB.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Test circuit to prove co-ordination of characteristics</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>Katsetusahel tunnussuuruste koordinatsiooni katsetamiseks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Key</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>Tähised</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1	line Conductor</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>1	liinijuht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2	circuit breaker</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>2	kaitselüliti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>3	closing Switch</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>3	ahelat sulgev lüliti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>4	calibration point</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>4	kalibreerimispunkt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5	100 A Fuse-link complying with type II of BS 88.3 (see ZB.1 Cl. 10.11.5.7.2)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>5	sulavpanus nimivooluga 100 A, mis vastab standardi BS 88.3 (vt ZB.1 Cl jaotis 10.11.5.7.2) tüübi II nõuetele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>6	consumer unit (metalclad, if applicable)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>6	kliendi-jaotuskilp (metallümbrisega, kui see on rakendatav)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(see ZB.1 Cl. 10.11.5.7.2)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>(vt ZB.1 Cl. jaotis 10.11.5.7.2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>7	house service cut-out</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>7	hoone käidu-väljalülitusseade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8	device under test</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>8	katsetatav aparaat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9	0,6 M of twin cable (see Table ZB.3)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>9	0,6 m pikkune kahesooneline juhe või kaabel (vt tabel ZB.3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10	neural Conductor</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>10	neutraaljuht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>11	16 sqmm copper cable</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>11	vasksoonega juhe või kaabel ristlõikega 16 mm2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>12	finewire fuse 0,1 mm Dia 50 mm long tinned copper wire</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>12	peenest tinatatud vasktraadist sulavkaitse läbimõõduga 0,1 mm ja pikkusega 50 mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>13	resistor to limit earth fault current to 100 A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>13	maaühenduse rikkevoolu 100 amprini piirav takisti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>*	 resistor to take approx 1 % of the current through the inductor</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>*	aktiivtakisti, mida läbib ligikaudu 1 % induktiivpooli voolust</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>o1,o2	oscillograph connections</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T063919Z">
+        <seg>o1, o2	ostsillograafi ühenduspunktid</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

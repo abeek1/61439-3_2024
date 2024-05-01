@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8	Constructional requirements</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>8	KONSTRUKTSIOONINÕUDED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This clause of Part 1 applies except as follows.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>Rakendatakse osa 1 jaotist 8 koos alljärgnevate täienduste ja asendustega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.2.1	Protection against mechanical impact</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>8.2.1	Kaitse mehaaniliste toimete eest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Replacement:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>Asendus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The DBO shall comply with the following IK codes according to IEC 62262</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>Jaotuskilp, mida tohivad käsitada tavaisikud, peab vastama järgmistele standardis IEC 62262 esitatud IK-koodidele:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>IK 05 for a DBO for indoor use,</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>sisejaotuskilp, mida tohivad käsitada tavaisikud – kood IK 05,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>IK 07 for a DBO for outdoor use.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>välisjaotuskilp, mida tohivad käsitada tavaisikud – kood IK 07.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compliance shall be verified according to 10.2.6.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>Vastavust tuleb kontrollida jaotise 10.2.6 järgi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the USA, no IK code is required as the requirements applicable to a “type” designation (see Note 1 in 8.2.2 of IEC 61439-1:2011) cover this consideration.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>USAs pole IK-kood vajalik, sest tüüplahendusele rakendatavad nõuded (vt standardi IEC 61439-1:2011 jaotise 8.2.2 märkus 1) hõlmavad ka seda kaalutlust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.2.2	Protection against contact with live parts, ingress of solid foreign bodies and water</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>8.2.2	Kaitse pingestatud osadega kokkupuute ning tahkete võõrkehade ja vee sissetungimise eest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Replacement of the second paragraph:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>Teise lõigu asendus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The degree of protection of a DBO for indoor installation shall be at least IP 2XC after installation in accordance with the DBO manufacturer’s instructions.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>Sisejaotuskilpidel, mida tohivad käsitada tavaisikud, peab kaitseaste pärast paigaldamist vastavalt jaotuskilbi tootja juhistele olema vähemalt IP 2XC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.6.2.5	Obstacles</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>8.4.6.2.5	Kaitsetõkked</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This subclause of Part 1 does not apply.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>Osa 1 seda jaotist ei rakendata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.5.3	Selection of switching devices and components
+Addition:
+Outgoing circuits shall contain protective devices, intended to be operated by ordinary persons,	complying	e.g.	with	IEC 60898-1,	IEC 61008,	IEC 61009,	IEC 62423	and	IEC 60269-3.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>8.5.3	Lülitusseadmete ja komponentide valik
+Täiendus:
+Väljundahelates peavad olema kaitseaparaadid, mida tohivad käsitada tavaisikud ja mis vastavad nt standarditele IEC 60898-1, IEC 61008, IEC 61009, IEC 62423 ja IEC 60269-3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Re-closing of the incoming protective device when incorporated within the DBO not complying with the above standards, shall require a key or tool.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>Kui jaotuskilbid, mida tohivad käsitada tavaisikud, ei vasta eespool loetletud standarditele, tohib nende sisend- ahela kaitseaparaadi (kui see on olemas) taassulgemine olla võimalik üksnes võtme või tööriista abil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively a label stating re-closing of a tripped device shall only be carried out by an instructed or skilled person shall be located in the vicinity of the incoming protective device.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>Alternatiivse variandina võib lubada ohuteadlikul või elektrialaisikul paigaldada sisendahela rakendunud kaitse- aparaadi vahetusse lähedusse taassulgemist tähistava sildi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Circuit-breakers shall be so designed or installed that it shall not be possible to modify their settings or calibration without a deliberate act involving the use of a key or tool, and resulting in a visible indication of their setting or calibration.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>Kaitselülitid peavad olema projekteeritud või paigaldatud selliselt, et nende sätete muutmine ega kalibreerimine poleks ilma võtme või tööriistata võimalik, kusjuures see toiming peab esile kutsuma nähtava muutuse sätete või kalibreeringu indikaatoril.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When an incoming protective device incorporated within the DBO contains fuses having fuse- links not complying with IEC 60269-3, a key or tool shall be required for access to replace the fuse-links.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>Kui tavaisikute poolt käsitamiseks lubatud jaotuskilpide sisendahela kaitseaparaat sisaldab sulavkaitsmeid, mille sulavpanused ei vasta standardile IEC 60269-3, tuleb kaitseaparaadile ligipääsuks sulavpanuste vahetamise eesmärgil kasutada võtit või tööriista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE  In Norway, protective devices in outgoing circuits used for wiring protection in building shall comply with IEC 60898-1, IEC 61008, IEC 61009, IEC 60269-3 or IEC 60947-2 as long as the requirements in IEC 60898-1 or IEC 61009 are met for all tests except the test for time-current characteristic B, C and D as specified in IEC 60898-1:2001, 9.10.1 or IEC 61009-1:2010, clause 9.9.2.1.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>MÄRKUS  Norras peavad hoonete juhistiku kaitseks kasutatavad väljundahelate kaitseaparaadid vastama standardite IEC 60898-1, IEC 61008, IEC 61009, IEC 60269-3 või IEC 60947-2 nõuetele seni, kuni standardite IEC 60898-1 või IEC 61009 nõuded kõigi katsetuste osas on täidetud, väljaarvatult aeg-vool-tunnusjoonte B, C ja D katsetused standardi IEC 60898-1:2001 jaotise 9.10.1 või standardi IEC 61009-1:2010 jaotise 9.9.2.1 järgi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.6.1  Main circuits
+Replacement of second  paragraph:
+Each of the conductors between the incoming unit and outgoing unit as well as the components included in these units may be rated on the basis of the reduced short-circuit stresses occurring on the load side of the respective outgoing short-circuit protective device, provided that these conductors are arranged so that under normal operation an internal short- circuit between phases and/or between phases and earth is not to be expected (see 8.6.4 of Part 1).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>8.6.1	Peaahel
+Teise lõigu asendus:
+Iga sisendühiku ja väljundühiku vahelise juhi ning nende ühikute komponentide vaheliste juhtide tunnus- suurused võivad olla määratletud vastava väljundahela kaitseaparaadi koormuspoole piiratud lühisvoolu järgi, kui on tagatud nende juhtide selline asetus, et normaaltalitluses ei ole sisemist faasidevahelist ega faaside ja maa vahelist lühist vaja arvestada (vt osa 1 jaotis 8.6.4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Addition:
+NOTE  UK Electricity, Safety and Quality Regulations S.I.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>Täiendus:
+MÄRKUS  Ühendkuningriigi elektri, ohutuse ja kvaliteedi eeskiri (UK Electricity, Safety and Quality Regulations) S.I.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2002 No. 2965 require electricity suppliers to state the maximum prospective short circuit current at the supply terminals.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>2002 nr 2965 nõuab elektrienergia tarnijatelt eeldatava maksimaalse lühisvoolu kehtestamist toiteklemmidel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the UK the maximum prospective short-circuit current at the supply terminals of household and similar electrical installations declared by the supply authority in accordance with the Electricity Association Publication P 25 is 16 kA for single-phase supplies up to and including 100 A.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>Ühendkuningriigis on energiatarnija vastavalt Elektriliidu (Electricity Association) publikatsioonile P 25 deklareeritud kodumajapidamise või muude taoliste elektripaigaldiste toiteklemmide eeldatav maksimaalne lühisvool ühefaasilise kuni 100 A tunnusvooluga toite korral 16 kA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.8	Terminals for external conductors</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>8.8	Välisjuhtide klemmid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Addition:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>Täiendus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The number of neutral terminals of a DBO shall be not less than one outgoing terminal for each outgoing circuit requiring a neutral terminal.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>Jaotuskilpidel, mida tohivad käsitada tavaisikud, peab igas neutraaljuhti nõudvas väljundahelas olema neutraal- juhi ühendamiseks vähemalt üks klemm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These terminals shall be located or identified in the same sequence as their respective phase conductor terminals.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>Need klemmid peavad asetsema või olema tuvastatavad samas järjestuses nagu nendele vastavate faasijuhtide klemmid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>DBOs shall have a minimum of two terminals for electrical installation protective bonding conductors.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>Jaotuskilpidel, mida tohivad käsitada tavaisikud, peab kaitsejuhi elektriliseks ühendamiseks olema vähemalt kaks klemmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the USA, the neutral conductor is identified by the colour white and the protective earth conductor may be either green/yellow or solid green.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T150647Z">
+        <seg>USAs on neutraaljuhi tunnusvärv valge, kaitsejuht võib aga olla kas kollaroheline või ühtlaselt roheline.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

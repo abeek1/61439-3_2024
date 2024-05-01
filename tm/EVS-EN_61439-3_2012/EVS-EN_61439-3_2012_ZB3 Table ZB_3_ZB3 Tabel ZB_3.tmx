@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table ZB.3 –</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Tabel ZB.3 —</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cross sections of copper conductors on load side of protective device under test</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Katsetatava kaitseaparaadi koormuspoole vaskjuhtide ristlõige</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Device Rating</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Aparaadi tunnusvool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conductor</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Juhi ristlõige</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Circuit conditions
+The applied voltage shall be not less than 100 % and not more than 110 % of the rated single phase voltage of the final circuit protective device.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Ahelale esitatavad nõuded
+Rakendatav pinge ei tohi olla lõppahela kaitseaparaadi ühe faasi tunnuspingest väiksem kui 100 % ega suurem kui 110 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The recovery voltage measured two cycles after operation shall be not less than 95 % nor more than 105 % of the rated single phase voltage of the final circuit protective device, and shall be maintained for at least 30 s after the interruption of the short-circuit current.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Pärast rakendumist ei tohi kahe perioodi kestel mõõdetud taastuvpinge olla väiksem kui 95 % ega suurem kui 105 % lõppahela kaitseaparaadi ühe faasi tunnuspingest ja peab säilima vähemalt 30 s kestel pärast lühisvoolu katkestamist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The higher limit of 105 % may be exceeded with the consent of the manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Kooskõlastatult tootjaga võib taastuvpinge ülemine piirväärtus olla ka suurem kui 105 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The value of the prospective short-circuit current shall be 16 kA -0% +5 % at a power factor of 0,6 ± 0,05 determined from a calibration oscillogram taken with a link of negligible impedance positioned as shown in Figure ZB.1.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Arvutuslik lühisvool peab olema 16 kA (tolerantsiga –0 % kuni +5 %) võimsusteguri korral 0,6 ± 0,05 ning määratakse joonisel ZB.1 näidatud kaduvväikese näivtakistusega ühendustelt võetud kalibreerimisostsillogrammidelt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All parts of the equipment normally earthed in service, including its enclosure, shall be insulated from earth, but shall be connected to the neutral of the supply or to a substantially inductive artificial neutral, permitting a prospective fault current of at least 100 A.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Kõik seadme käidus tavapäraselt maandatud osad, sh ümbris, peavad olema maast isoleeritud, kuid tuleb ühendada toite neutraaljuhiga või oluliselt induktiivse tehisneutraaliga, mis võimaldab saada arvutuslikuks rikkevooluks vähemalt 100 A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This connection shall include a reliable device, such as a fuse consisting of a copper wire of 0,1 mm diameter and not less than 50 mm in length for the detection of the fault current and, if necessary, a resistor to limit the value of the prospective fault current to approximately 100 A.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>See ühendus peab rikkevoolu tuvastamiseks sisaldama töökindlat seadist, nt sulavkaitset, milles on 0,1 mm läbimõõduga ja vähemalt 50 mm pikkune vasktraat ja vajaduse korral ka takisti, mis piirab arvutuslikku rikkevoolu ligikaudu väärtuseni 100 A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.11.5.7.4</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>10.11.5.7.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Test sequence</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Katsetuste järjekord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The CDB shall be subject to the following two tests A and B with the outgoing way fitted with a final circuit protective device of the maximum thermal current rating.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Kliendi-jaotuskilbiga tuleb teha kaks järgmist katsetust A ja B, kus väljundiga on sobitatud lõppahela maksimaalse termilise tunnusvooluga kaitseaparaat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the final circuit protective devices have a short-circuit rating less than 16 kA, two further tests A and B shall be carried out with a device of the minimum thermal rating fitted.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Kui lõppahela kaitseaparaatide tunnus-lühisvool on väiksem kui 16 kA, tuleb edasi teha katsetused A ja B, kusjuures katsetatavatele aparaatidele seatakse minimaalsed soojuslikud tunnussätted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In addition, if the CDB is designed to accept different types or ranges of outgoing devices, each type shall be further tested separately.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Lisaks tuleb iga tüüpi katsetada edasiselt eraldi, kui kliendi-jaotuskilp on ette nähtud eri tüüpi või eri vooluvahemikuga väljundseadmetele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The two tests are as follows:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Nimetatud kaks katsetust on järgmised:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	Test A.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>a)	Katsetus A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With the circuit connected as described above, with all fuses in place and all circuit-breakers closed, the test voltage is applied with the point-on-wave controlled to provide initiation of the fault at between 0° and 20° (electrical) on the rising voltage.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Katsetuspinge rakendatakse rikkeoleku algatamiseks siinuslaine kontrollitud aja- hetkel pinge kasvufaasis, vahemikus 0° kuni 20° (elektrilist kraadi) eespool kirjeldatud kokku- ühendatud ahelale koos kõigi sulavkaitsmete ja kõigi suletud kaitselülititega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	Test B.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>b)	Katsetus B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A further short-circuit operation shall be applied after suitable preparation as indicated in Table ZB.4 dependent on which of the alternative results of test A is achieved.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Edasi rakendatakse lühistalitlust pärast vastavaid tabelis ZB.4 esitatud ette- valmistusi sõltuvalt sellest, missugused eri tulemused on saadud katsetusest A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If circuit-breakers are included in the customer distribution board, the test shall be applied by reclosing a circuit-breaker with the test circuit energized.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Kui kliendi-jaotuskilbis on kaitselülitid, tuleb teha pingestatud katsetusahela kaitselüliti taas- sulgemiskatse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If fuses are used, the test shall be as in Test A.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Sulavkaitsmete kasutamisel tuleb teha katsetus A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>During the tests cheesecloth shall be placed on the outside of the enclosure at all openings, e.g. arc vents and handles.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Katsetuste ajal pannakse ümbrise kõigi avade, nt kaarekustutus- ja käepidemeavade ette marli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There shall be no ignition of the cheesecloth.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Katsetustel ei tohi marli süttida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The cheesecloth shall be clean and dry bleached plain cotton of approximately 30 g to 40 g per square metre.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Marli peab olema puhas ja kuiv ning pleegitatud puuvillast, pindtihedusega 30 g/m2 kuni 40 g/m2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When placed into position the cheesecloth shall be folded loosely in such a manner that cut and torn edges will not be exposed directly to the arc or flash.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Kohaleasetamisel peab marli olema vabalt kokku volditud, et lõigatud ega rebitud servad ei oleks otseselt elektrikaare või -sädemete tekkepiirkonnas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ignition of the cheesecloth is considered to have occurred when a flame is visible.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Marli loetakse süttinuks, kui tekib nähtav leek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Smouldering is not considered to be evidence of ignition.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Hõõgumist ei loeta süttimise tunnuseks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The cheesecloth may be changed following each test B.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Marlit võib vahetada pärast iga katsetust B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details of the I2t let through by the combination of devices during the test shall be given in the test report.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Aparaatide kombineerimisel katsetuste ajal tuleb voolu ruudu integraali I2t üksikandmed esitada katsetusaruandes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A new CDB of the same design may be used for each of the two test sequences.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240406T065831Z">
+        <seg>Kummagi kahe katsetusprotseduuri puhul võib kasutada uut sama ehitusega kliendi-jaotuskilpi.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

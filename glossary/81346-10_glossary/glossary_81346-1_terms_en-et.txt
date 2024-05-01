@@ -1,0 +1,37 @@
+object	object	arendus-, rakendamis-, kasutus- ja utiliseerimisprotsessi kaasatud üksus
+aspect	aspekt	objekti vaatlemise määratletud viis
+aspect	vaatenurk	
+system	süsteem	omavahel seotud objektide kogum, mida vaadeldakse määratletud kontekstis tervikuna ja oma keskkonnast eraldatuna
+process	protsess 	vastastikmõjuga toimingute kogum, mille käigus materjali, energiat või teavet muudetakse, transporditakse või säilitatakse
+function	funktsioon	kavandatud või saavutatud eesmärk või ülesanne
+function	toimimine	
+function	toime	
+product	toode 	tööprotsessiga või loodusliku või tehisprotsessiga kavandatud või saavutatud tulemus
+component komponent	toode, mida kasutatakse kokkupandud toote , süsteemi või tehase koostisosana	
+component	[koostis]osa	
+location	asukoht 	kavandatud või rakendatud ruum
+structure	struktuur	süsteemi objektide vaheliste suhete korraldus
+structure	liigendus	
+structure	ülesehitus	
+identifier	identifikaator	
+identifier	tuvasti	objektiga seotud tundemärk (atribuut), millega seda üheselt eristatakse määratletud alal teistest objektidest
+reference designation	viitetunnus	konkreetse objekti identifikaator (tuvasti), mis on moodustatud selle süsteemi suhtes, mille koostisosaks see objekt on selle süsteemi ühe või mitme aspekti järgi
+single-level reference designation	ühetasandiline viitetunnus	objektile määratud viitetunnus, kui konkreetne objekt on otsene osis ühes aspektis 
+multi-level reference designation	mitmetasandiline viitetunnus	viitetunnus, mis koosneb ühendatud ühetasandilistest viitetunnustest
+reference designation set	viitetunnuste süsteem	kahe või enama objektiga seotud viitetunnuste kogum, millest vähemalt üks identifitseerib üheselt selle objekti
+reference designation set	viitetunnussülem	
+object occurrence	objekti esinemine	
+object occurrence	objekti ilming	objekti olemasolu aspekti järgi vaatlemisel
+product individual	tooteüksus	tooteliigi üks näidis
+product individual	ainiktoode	
+class	klass	objektide kogum, millel on vähemalt üks ühine tunnus 
+characteristic	tunnus	eristav omadus
+characteristic	tunnussuurus	
+property	omadus	objektide kirjeldamiseks ja eristamiseks sobiv määratletud tunnus
+property	eripära	
+type	tüüp	ühiste määratletud tunnussuurustega objektide kogum; EE MÄRKUS	Eesti keeles on terminil „liik“ üldisem ja terminil „tüüp“ konkreetsem tähendus.
+type	liik	ühiste määratletud tunnussuurustega objektide kogum; EE MÄRKUS	Eesti keeles on terminil „liik“ üldisem ja terminil „tüüp“ konkreetsem tähendus.
+associative relation	assotsiatiivsuhe	mittehierarhiline seos mõistete vahel
+pragmatic relation	pragmaatiline seos	mittehierarhiline seos mõistete vahel
+relation designation	seosetunnus	assotsiatiivsuhte identifikaator seotud objekti esinemisjuhtumite suhtes
+relation designation	suhtetähis	

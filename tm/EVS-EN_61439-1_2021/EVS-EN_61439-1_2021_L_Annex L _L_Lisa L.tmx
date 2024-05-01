@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Annex L 
+(informative)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Lisa L (teatmelisa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Guidance on verification of temperature-rise</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Ületemperatuuri kontrolli juhis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.1 	General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.1 Üldnõuded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.1.1 	Principles</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.1.1 Põhimõtted</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All assemblies generate heat in service.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kõik koosted eraldavad talitlemisel soojust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thermal equilibrium is established when the heat dissipation capability equals the heat produced.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Soojuslik tasakaal saavutatakse, kui soojuse hajutusvõime võrdub tekitatava soojusega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The temperature will stabilize at a temperaturerise above the ambient air temperature surrounding the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Temperatuur stabiliseerub teatud ületemperatuuril üle koostet ümbritseva õhu temperatuuri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The purpose of temperaturerise verification is to ensure temperatures stabilize at a value that will not result in:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Ületemperatuuri kontrolli eesmärk on tagada, et stabiliseerunud temperatuuri väärtus ei põhjusta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	significant deterioration or ageing of the assembly, or</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>a)	kooste olulist kahjustumist ega vananemist või</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	excessive heat being transferred to external conductors, such that the service capability of the external conductors and any equipment to which they are connected can be impaired, or,</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>b)	liigse soojuse kandumist välisjuhtidele selliselt, et see kahjustaks välisjuhtide ja nendega ühendatud seadmete talitlusvõimet, või</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>c)	people, operators or animals in the vicinity of an assembly being burnt in normal operating circumstances.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>c)	normaaltalitlusoludes kooste läheduses viibivate inimeste, operaatorite või loomade põletusi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.1.2 	Current ratings of assemblies</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.1.2 Koostete tunnusvoolud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.1.2.1 	General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.1.2.1 	Üldnõue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Several current ratings that are essential to the user of assemblies are confirmed during temperature-rise verification.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Mitmed 	kasutajale 	tähtsad 	vooluhinnangud 	on 	kinnitatavad 	ületemperatuuri 	kontrolli 	teel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See L.1.2.2 to L.1.2.5.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Vt jaotised L1.2.2 kuni L.1.2.5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.1.2.2 	Group rated current of main circuits (Ing)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.1.2.2 	Peaahelate rühmtunnusvool (Ing)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In normal service, most of the main circuits within an assembly are carrying load current.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Normaalkäidul läbib enamikku kooste peaahelatest koormusvool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This leads to mutual heating between circuits and in most cases a reduction in the current carrying capability compared with the nominal rating of the devices.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>See põhjustab ahelate vastastikust kuumenemist ja enamikul juhtudest lubatava koormusvoolu vähenemist võrreldes seadiste tunnussuurustega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This reduction in current carrying ability is defined by the group rating, but as it is not possible to anticipate every varying load pattern when designing an assembly, it can only be specified for assumed conditions, namely, continuous and simultaneous loading of circuits within a specified group within the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kestvalt lubatava voolu vähenemine on määratletud rühmhinnanguga, kuid kooste projekteerimisel ei ole võimalik ette näha kõiki koormuse muutumise seaduspärasusi ja seda saab määratleda üksnes eeldatavate olude korral, nimelt koostesse kuuluvate määratletud rühmade pideval ja üheaegsel koormamisel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Group rating can be assigned to incoming circuits, main and distribution busbars and outgoing circuits.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Rühmhinnangu saab anda sisendahelatele, pea- ja jaotuslattidele ning väljundahelatele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Without a full understanding of the variability of various load supplied from an assembly, the group rating of an outgoing circuit should not be less than the design current, IB, for a circuit, as defined in the IEC 60364 series.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Ka ilma täieliku arusaamiseta koostest toidetavate mitmesuguste koormuste muutuvusest ei tohi väljundahela rühmhinnang olla väiksem kui ahela ettenähtud vool IB, nagu see on määratletud standardisarjas IEC 60364.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.1.2.3 	Current rating of an assembly (InA)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.1.2.3 	Kooste voolu hinnang (InA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The current rating of an assembly defines the maximum load current that can be supplied via the incoming circuit(s) and distributed via the main busbars.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kooste voolu hinnang määratleb suurima koormusvoolu, millega võib koostet toita sisendahela(te) kaudu ja jaotada peakogumislattide kaudu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This rating can be determined by the capacity of the incoming circuit(s) or the main busbars.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Selle hinnangu võib määrata sisendahela(te) või peakogumislattide lubatava voolu järgi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The rated current of the assembly, InA, is the lower of (i) the sum of the group rated currents of the incoming circuits, and (ii) the group rated current of the main busbars.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kooste tunnusvool InA on kas sisendahelate rühmtunnusvoolude summa või peakogumislattide rühmtunnusvool olenevalt sellest, kumb neist on väiksem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is essential to note that the group rating of the incoming circuit(s) may be lower than the nominal rating In of the devices used in the incoming circuits.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Tähtis on märkida, et sisendahela(te) rühmhinnang võib olla madalam kui sisendahelates kasutatud seadiste nimihinnang In.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.1.2.4 	Rated current of a circuit of an assembly (Inc)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.1.2.4 	Kooste ahela tunnusvool (Inc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At their discretion, a manufacturer may declare the rated current of the outgoing circuits in an assembly, Inc.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Tootja võib omal äranägemisel deklareerida kooste väljundahelate tunnusvoolu Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is the current that an outgoing circuit can deliver when it is the only outgoing circuit that is loaded in the assembly or assembly section.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>See on vool, mida väljundahel võib edastada, kui see on kooste või koostesektsiooni ainus koormatud väljundahel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Under these conditions there are minimal heating effects from other circuits.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Nendes oludes on muude ahelate kuumendav toime vähim võimalik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Generally, when there is only one outgoing circuit in a section, the Inc for the circuit will be at least equal to, but it will not be much higher than Ing.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Üldiselt, kui sektsioonis on üksainus väljundahel, on ahela vool Inc vähemalt võrdne vooluga Ing, kuid mitte palju suurem kui vool Ing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When there are several circuits in a section, Inc can be appreciably higher than Ing due to the mutual heating effects between adjacent circuits.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kui sektsioonis on mitu ahelat, võib vool Inc olla naaberahelate vastastikuse kuumustoime tõttu tunduvalt suurem kui vool Ing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Knowing the loads (IB, time, duration, etc.) allows Ing, and Inc to be determined, In some instances, for the design current IB can exceed Ing.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Teades koormusi (vool IB, aeg, kestus jne), mis võimaldavad voolu Ing ja määratavat voolu Inc, võib ettenähtud vool IB mõnikord olla suurem kui vool Ing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, IB should never be greater than 
+Inc.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Vool IB ei peaks aga kunagi olema suurem kui vool Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When a load takes a current that is cyclic or varies over a relative short period (the on time being less than the off time and the maximum on time being 30 min), the thermal equivalent steady state current can be derived as detailed in Annex I.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kui koormus kujutab endast voolu, mis on tsükliline või vaheldub suhteliselt lühikese aja jooksul (sisse lülitatud kestus on lühem kui välja lülitatud kestus ja sisse lülitatud kestus ei ole pikem kui 30 min), võib soojuslikult ekvivalentse kestevvoolu tuletada lisas I esitatud viisil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This can be used instead of the design current IB to determine the rating of the outgoing circuit required.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Seda võib kasutada ettenähtud voolu IB asemel, et määrata väljundahela nõutavat hinnangut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The rated current Inc of an incoming circuit or busbar can be determined, but it has no practical value.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Sisendahela või kogumislattide tunnusvoolu Inc võib määrata, kuid sellel ei ole tegelikku väärtust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hence, it is not normally provided by manufacturers.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Seetõttu ei näe tootjad seda normaalselt ette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The only useful current carrying capabilitiesy of incoming circuits and busbars are those when the assembly is operating at full load; the group rated currents Ing.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Sisendahelate ja kogumislattide ainus kestvat lubatavust määrav vool on see, mille puhul kooste talitleb täiskoormusel; rühmtunnusvoolud on Ing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.1.2.5 	Rated current of a device (In)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.1.2.5 	Seadise tunnusvool (In)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The rated current of a device In is the rating of the device according to its product standard.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Seadise tunnusvool In on seadise hinnang vastavalt oma tootestandardile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This rating applies in defined conditions, usually in free air, and with specific test conductors.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>See hinnang kehtib määratud oludes, enamasti vabas õhus, ja spetsiaalsete katsetusjuhtidega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Generally, a device de-rates when it is installed in an assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Seadise paigutamisel koostesse vähenevad enamasti selle tunnusandmed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Device ratings are not proven during assembly tests in accordance with the IEC 61439 series, but the rating of a device In and the associated protection characteristic are vital in ensuring adequate protection for the load circuit.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kooste katsetamisel standardisarja IEC 61439 järgi seadise tunnusandmeid ei kontrollita, kuid seadise tunnusvool In ja sellega seotud kaitseviisid kehtivad ja tagavad koormusahela õige kaitse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.2 	Temperature-rise limits 
+It is the manufacturer’s responsibility to select the appropriate method for temperature-rise verification.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.2 Ületemperatuuri piirangud 
+Ületemperatuuri kontrolli sobiva meetodi valik kuulub tootja vastutusalasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All the temperature-rise limits given in this document assume that the assembly will be located in an environment where the daily average and peak ambient air temperatures do not exceed 35 °C and 40 °C, respectively.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kõigi selles dokumendis esitatud ületemperatuuripiirangute puhul eeldatakse, et kooste asub keskkonnas, kus ümbruse ööpäevane keskmine ega kõrgeim õhutemperatuur ei ole vastavalt üle 35 °C ega 40 °C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This document also assumes that all outgoing circuits within an assembly will not be loaded to their rated current at the same time.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>See dokument eeldab samuti, et kõik koostesse kuuluvad väljundahelad ei ole ühel ajal koormatud nende tunnusvooludega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This recognition of the practical situation is defined by a "group rating" provided for each outgoing circuit.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Tegeliku olukorra hindamine on määratud „rühmalise hindamisega“, mis on ette nähtud kõigile väljundahelatele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Temperature-rise limits within the assembly are the manufacturers’ responsibility; they are essentially determined based on operating temperature not exceeding the long-term capability of the materials used within the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Koostesisesed ületemperatuuripiirangud kuuluvad tootja vastutusalasse; põhiolemuselt on need määratud talitlustemperatuuri alusel, mis ei ületa kooste materjalide kestvalt lubatavat temperatuuritaluvust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At interfaces between the assembly and the ‘wider world’, for example, cable terminals and operating handles, this document defines temperaturerise limits (see Table 6).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>See dokument määrab ületemperatuuripiirangud kooste ja „ümbritseva maailma“ vaheliste liideste, näiteks kaabliklemmide ja talitluskäepidemete jaoks (vt tabel 6).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Within boundaries defined in this document, temperature-rise verification can be undertaken by testing, comparison or assessment.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Selles dokumendis määratud piirides saab ületemperatuuri kontrolli sooritada katsetuste, võrdlemise või hindamise teel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Figure L.1.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Vt joonis L.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is permissible to use one or a combination of the verification methods set out in this document to verify temperature-rise performance of an assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kooste ületemperatuuri toime kontrollimiseks võib kasutada kas ühte selles dokumendis sätestatud kontrollimeetodit või mitme meetodi kombinatsiooni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This allows the manufacturer to choose the most appropriate method for the assembly, or part of an assembly, being considered, taking into consideration volumes, the construction, design flexibility, current rating and size of the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>See võimaldab tootjal valida kooste või koosteosade kontrollimiseks kõige sobivama meetodi, arvestades seejuures koostete hulka, ehitust, konstruktsiooni paindlikkust, tunnusvoolusid ja kooste mõõtmeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In typical applications involving some adaptation of a standard design, it is highly likely more than one method will be used to cover various elements of the assembly design.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Tüüpilistel rakendustel, sealhulgas standardkonstruktsiooni mõningal kohandamisel on väga tõenäoline enam kui ühe meetodi kasutamine, et arvestada kooste konstruktsiooni mitmesuguseid elemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.3 	Test</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.3 Katsetamine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.3.1 	General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.3.1 Üldnõue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In order to avoid unnecessary testing, this document provides guidance on selecting groups of comparable functional units.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Et vältida mittevajalikke katsetusi, annab see dokument juhised võrreldavate funktsionaalühikute rühmade valikuks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It then details how to select the critical variant from the group for test.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Seejärel täpsustatakse katsetatava rühma kriitilise variandi valiku üksikasju.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Design rules are then applied to assign ratings to other circuits that are "thermally similar" to the critical variant tested.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Pärast seda rakendatakse konstruktsioonireegleid selleks, et määrata tunnussuuruste väärtusi muudele katsetatud kriitilise variandiga soojuslikult sarnastele ahelatele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Three options for verification by test are offered in this document.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Selles dokumendis on esitatud kolm valikulist katsetamise teel sooritatava kontrolli meetodit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.3.2 	Method a) – Verification of the complete assembly (10.10.2.3.5)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.3.2 Meetod a – tervikkooste kontroll (jaotis 10.10.2.3.5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If several or all circuits of an assembly are loaded simultaneously, then the same circuit is only able to carry its group rated current, Ing, (see 3.8.10.6), owing to the thermal influence of the other circuits.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kui kooste mõned või kõik ahelad on samal ajal koormatud, on ühtsama ahelat võimalik koormata selle rühmtunnusvooluga Ing (vt termin 3.8.10.6), mis arvestab muude ahelate soojuslikku toimet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To verify the group rated current for the circuits, Ing, within the assembly, tests with simultaneous loaded circuits are necessary (see L.3.3 Method b) and L.3.4 Method c), below).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Et kontrollida koostesse kuuluvate ahelate rühmtunnusvoolu Ing, on vaja katsetusi samal ajal koomatud ahelate korral (vt allpool jaotise L.3.3 meetod b ja jaotise L.3.4 meetod c).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If a manufacturer chooses to declare rated current for the circuit, Inc, separate tests are carried out on each type of outgoing circuit.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kui tootja valib ahela tunnusvoolu Inc deklareerimise, tuleb sooritada eraldi katsetused väljundahela iga liigiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To avoid the large number of tests that may be necessary, 10.10.2.3.5 describes a verification method where only one test is made with a load applied simultaneously to all circuits.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Et vältida võimalikku suurt katsetuste arvu, on jaotises 10.10.2.3.5 kirjeldatud kontrollimismeetodit, mille puhul kõigi samal ajal koormatud ahelatega sooritatakse ainult üks katsetus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As the individual outgoing circuits are not tested, only Ing can be determined for each circuit.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kuna väljundahelaid ei ole ühekaupa katsetatud, saab iga ahela jaoks määrata üksnes rühmtunnusvoolu Ing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the test set of functional units tested does not include one of each of the different types of outgoing circuit incorporated in the assembly, further tests are carried out taking into consideration different groups of outgoing circuits until one of each type has been tested.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kui katsetatavate funktsionaalühikute katsetusrühmas ei ole igast koostesse paigaldatud eri liiki väljundahelast vähemalt ühte, sooritatakse edasised katsetused, võttes arvesse väljundahelate eri rühmi, kuni üks igast eri liigist on katsetatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.3.3 	Method b) – Verification considering individual functional units separately and the complete assembly (10.10.2.3.6)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.3.3 Meetod b – üksik-funktsionaalühikute ja tervikkooste eraldi kontroll (jaotis 10.10.2.3.6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With this arrangement of testing, each critical variant of the outgoing circuit is tested separately to confirm its rated current, and then the assembly as a whole is tested with the incoming circuit loaded to its group rated current.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Selle katsetuskorralduse järgi katsetatakse iga väljundahela kriitilist varianti eraldi, et selle põhjal kinnitada nende tunnusvoolude ja seejärel ka tervikkooste vastavust nõuetele, kusjuures sisendahelad on koormatud oma rühmtunnusvooluga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The test sets of outgoing circuits, as required to distribute the incoming current, are loaded to their group rated current, Ing.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Väljundahelate katsetusrühmad, kuna neid nõutakse sisendvoolu jaotamiseks, on koormatud oma rühmtunnusvooluga Ing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The set tested should include one outgoing circuit of each critical variant to be incorporated in the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Katsetatud rühm peaks sisaldama ühte väljundahelat igast koostesse paigaldatavast kriitilisest variandist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where this is not practical, further sets are tested until all critical variants of the outgoing circuit have been considered.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kui see pole praktilistel kaalutlustel otstarbekas, tuleks edasi katsetada ülejäänud rühmi, kuni kõik väljundahelate kriitilised variandid on arvesse võetud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This test regime takes into account the group loading of outgoing circuits that is applicable in the majority of applications.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>See katsetusviis võtab arvesse väljundahelate rühmkoormust, mis on rakendatav enamiku rakenduste puhul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, as in method a) above, the result is only applicable to a specific arrangement of the assembly tested.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Nagu ka eeltoodud meetodi a puhul on tulemus rakendatav üksnes katsetatud kooste spetsiifilise korraldusviisi puhul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.3.4 	Method c)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.3.4 Meetod c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>– Verification considering individual functional units and the main and distribution busbars separately as well as the complete assembly (10.10.2.3.7)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>– üksik-funktsionaalühikute, pea- ja jaotuslattide ning tervikkooste eraldi kontroll (jaotis 10.10.2.3.7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This test method enables modular systems to be temperature-rise verified without the need to test every conceivable combination of circuits.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>See katsetusmeetod võimaldab kontrollida moodulsüsteemides kooste ületemperatuuri ilma ahelate kõiki võimalikke kombinatsioone kontrollimata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Temperature-rise tests are carried out separately to prove the rating of:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Ületemperatuuri katsetused sooritatakse eraldi järgmiste ühikute tunnusandmete kontrollimiseks:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	main busbars,</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>a) peakogumislatid,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	distribution busbars,</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>b)	jaotuslatid,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>c)	functional units (optional),</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>c)	funktsionaalühikud (vabal valikul),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>d)	a complete assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>d)	tervikkooste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To verify the performance of the assembly as a whole, methods a), b) and c) above, are complemented by a test d) on a representative assembly in which the incoming and outgoing circuits are loaded to their group rated currents (Ing).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Et kontrollida tervikkooste toimivust, tuleb eelnimetatud katsetusmeetodeid a, b ja c täiendada esindusliku kooste katsetusega d, kusjuures sisend- ja väljundahelad on koormatud nende rühmtunnusvooluga (Ing).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Whilst this approach requires more testing than L.3.2 Method a) and L.3.3 Method b) above, it has the advantage that the modular system rather than a specific arrangement of the assembly is verified.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kuigi see katsetusmeetod nõuab rohkem katsetusi kui jaotises L.3.2 kirjeldatud meetod a ja jaotises L.3.3 kirjeldatud meetod b, ilmnevad selle moodulsüsteemi eelised kontrollitava kooste spetsiifilise katsetuskorralduse ees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.4 	Verification assessment</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.4 Kontrolli hinnang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.4.1 	General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.4.1 Üldist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Various methods of verifying temperature-rise performance by calculation are included within this document.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Selles dokumendis on esitatud mitmesugused meetodid ületemperatuuri toimivuse kontrolliks arvutamise teel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.4.2 	Single compartment assembly with a rated current (InA) not exceeding 630 A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.4.2 Ühelahtriline kooste tunnusvooluga (InA) mitte üle 630 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is a very simple method of temperature-rise verification that requires confirmation that the total power loss of the components and conductors within the assembly do not exceed the known power dissipation capability of the enclosure.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>See on ületemperatuuri kontrolli väga lihtne meetod, mis nõuab kinnitust, et kooste komponentide ja juhtide summaarne võimsuskadu ei ületa ümbrise teadaolevat soojushajutusvõimet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The scope of this approach is very limited and in order that there are no difficulties with hot spots, all components should be de-rated to 80 % of their free air current rating or less.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Niisuguse lähenduse kasutusala on väga piiratud ja eeldusel, et ei ole probleeme kuumade kohtadega, tuleb kõigi komponentide tunnusvoolu väärtusi vähendada võrreldes vabaõhu-tunnusvooluga väärtuseni 80 % või alla selle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.4.3 	Assembly with rated currents (InA) not exceeding 1 600 A</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.4.3 Kooste tunnusvooluga (InA) mitte üle 1600 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Temperature-rise verification is by calculation in accordance with IEC TR 60890:2014 with additional margins.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Ületemperatuuri kontroll sooritatakse arvutustega vastavalt dokumendile IEC TR 60890:2014, arvestades lisapiiranguid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The scope of this approach is limited to an assembly rating, InA, of 1 600 A,</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Niisuguse kontrolliviisi kasutusala on piiratud kooste tunnusvooluga (InA) 1600 A;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>components are de-rated to 80 % of their free air rating or less, and any horizontal partitions should have, as a minimum, a 50 % open area.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>komponentide tunnusvoolu väärtusi tuleb vähendada võrreldes nende vabaõhu-tunnusvooluga väärtuseni 80 % või alla selle ning kõik rõhtsad eralduspinnad peavad olema vähemalt 50 % ulatuses avatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L.5 	Verification by comparison with a reference design</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>L.5 Kontroll võrdluse teel etalonkonstruktsiooniga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This document allows, in clearly defined circumstances, for the derivation of ratings from similar variants that have been verified by test.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>See dokument võimaldab selgelt määratud oludes tuletada tunnusandmete väärtusi sarnaste variantide järgi, mida on kontrollitud katsetustega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, if the current rating of a double lamination busbar has been established by test, it is acceptable to assign a rating equal to 50 % of the tested arrangement to a busbar comprising a single lamination with the same width and thickness as the tested laminations, when all other considerations are the same.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kui näiteks kahekordsete kogumislattide tunnusvool on katsetustega kindlaks määratud, lubatakse sama laiuse ja sama paksusega ühekordsete kogumislattide puhul kasutada tunnusvooluna katsetatud lattide 50 % võrra väiksemat väärtust eeldusel, et kõik muud arvesse võetud asjaolud on samad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The rating of all circuits within a group of comparable functional units (all devices shall be of the same frame size and belong to the same series) can be derived from a single temperaturerise test on the critical variant within the group.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kõigi võrreldavate funktsionaalühikute rühmas olevate ahelate (mille kõik seadised on sama raamsuurusega ja kuuluvad samasse sarja) tunnusandmete väärtusi saab tuletada sellesse rühma kuuluva ühe kriitilise variandi ületemperatuurikatsetuse põhjal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An example of this may be to test a nominal 250 A outgoing circuit-breaker and establish a rating for it in the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Niisuguse tuletamise näiteks võib olla väljundahela kaitselüliti nimivooluga 250 A katsetamine ja kooste tunnusvoolu määramine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then, assuming the same frame size breaker is being considered and other specified conditions are met, verify by calculation the rating of a nominal 160 A circuit-breaker within the same enclosure.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Seejärel, eeldusel, et kaitselüliti raamsuurus ja muud sätestatud tingimused on samad, saab arvutuse teel kontrollida tunnusandmeid samas ümbrises paikneva kaitselüliti puhul nimivooluga 160 A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In respect of temperature-rise, there are very strict design rules that permit the substitution of a device with a similar device from another series or even another make, without retesting.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Ületemperatuuri suhtes kehtivad väga ranged konstruktsioonireeglid, mis lubavad seadist ilma korduskatsetuseta asendada kas teise sarja kuuluva või isegi teise tootja samasuguse seadisega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In this case, in addition to the physical arrangement being essentially the same, the power loss and terminal temperature-rise of the substitute device, when it is tested in accordance with its own product standard, should not be higher than those of the original device.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Sel juhtumil ei tohi aga lisaks põhiliselt ühesugusele füüsikalisele korraldusviisile oma tootestandardi järgi katsetatud asendusseadise võimsuskadu ega klemmide ületemperatuur olla kõrgemad kui originaalseadisel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When considering device substitution, all other performance criteria, in particular that dealing with short-circuit capability, should be considered and satisfied, in accordance with this document, before an assembly is deemed to be verified.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T182237Z">
+        <seg>Kui kaaluda seadise vahetamist, tuleb arvestada ja täita vastavalt sellele dokumendile kõiki muid toimivuskriteeriume, eriti aga lühisetaluvusega seotud tunnussuurusi, enne kui koostet peetakse vajalikuks kontrollida.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

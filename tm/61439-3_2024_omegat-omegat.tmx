@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>3.1.&lt;t0/&gt;101</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T091059Z" creationid="Administrator" creationdate="20240427T091059Z">
+        <seg>3.1.&lt;t0/&gt;101</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t13/&gt;switching&lt;t14/&gt; &lt;t15/&gt;operations&lt;t16/&gt; and &lt;t17/&gt;replacing&lt;t18/&gt; &lt;t19/&gt;fuse-links&lt;t20/&gt;), &lt;t21/&gt;e.g&lt;t22/&gt;.</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T085015Z" creationid="Administrator" creationdate="20240427T085015Z">
+        <seg>lülitustoiminguteks ja sulavpanuste vahetamiseks) näiteks </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t25/&gt;DBOs&lt;t26/&gt; &lt;t27/&gt;can&lt;t28/&gt; &lt;t29/&gt;be&lt;t30/&gt; &lt;t31/&gt;assembled&lt;t32/&gt; by &lt;t33/&gt;the&lt;t34/&gt; &lt;t35/&gt;original&lt;t36/&gt; &lt;t37/&gt;manufacturer&lt;t38/&gt; &lt;t39/&gt;or&lt;t40/&gt; by &lt;t41/&gt;an&lt;t42/&gt; &lt;t43/&gt;assembly&lt;t44/&gt; &lt;t45/&gt;manufacturer</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T094153Z" creationid="Administrator" creationdate="20240427T093847Z">
+        <seg>Jaotuskilbid, mida tohivad käsitada tavaisikud, võivad olla koostatud originaaltootja või kooste tootja poolt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t25/&gt;with&lt;t26/&gt; IEC 60898-1, IEC 61008, IEC 61009, IEC 62423 and IEC 60269-3;</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T085113Z" creationid="Administrator" creationdate="20240427T085113Z">
+        <seg>standardite IEC 60898-1, IEC 61008, IEC 61009, IEC 62423 ja IEC 60269-3 nõuetele;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Addition&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T090043Z" creationid="Administrator" creationdate="20240427T090043Z">
+        <seg>Täiendus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional&lt;t0/&gt; &lt;t1/&gt;terms&lt;t2/&gt; and &lt;t3/&gt;definitions&lt;t4/&gt;:</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T091035Z" creationid="Administrator" creationdate="20240427T091035Z">
+        <seg>Lisateminid ja -määratlused</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Annexes</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240424T154236Z" creationid="Administrator" creationdate="20240424T154236Z">
+        <seg>Lisad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clause&lt;t0/&gt; 3 of IEC 61439-1:2020 &lt;t1/&gt;is&lt;t2/&gt; &lt;t3/&gt;applicable&lt;t4/&gt; &lt;t5/&gt;except&lt;t6/&gt; as &lt;t7/&gt;follows&lt;t8/&gt;.</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T090910Z" creationid="Administrator" creationdate="20240427T090910Z">
+        <seg>Rakendatakse  IEC 61439-1:2020 3. osa välja koostatud alljärgnevate täiendustega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DBOs&lt;t0/&gt; &lt;t1/&gt;may&lt;t2/&gt; &lt;t3/&gt;also&lt;t4/&gt; &lt;t5/&gt;include&lt;t6/&gt; &lt;t7/&gt;control&lt;t8/&gt; and/&lt;t9/&gt;or&lt;t10/&gt; &lt;t11/&gt;signaling&lt;t12/&gt; &lt;t13/&gt;devices&lt;t14/&gt; &lt;t15/&gt;associated&lt;t16/&gt; &lt;t17/&gt;with&lt;t18/&gt; &lt;t19/&gt;the&lt;t20/&gt; &lt;t21/&gt;distribution&lt;t22/&gt; of &lt;t23/&gt;electrical&lt;t24/&gt; &lt;t25/&gt;energy&lt;t26/&gt;.</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T085905Z" creationid="Administrator" creationdate="20240427T085905Z">
+        <seg>Jaotuskilbid, mida tohivad käsitada tavaisikud, võivad sisaldada ka juhtimis- ja/või signalisatsiooniseadmeid, mis on seotud elektrienergia jaotamisega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DBOs&lt;t0/&gt; &lt;t1/&gt;may&lt;t2/&gt; &lt;t3/&gt;be&lt;t4/&gt; &lt;t5/&gt;assembled&lt;t6/&gt; &lt;t7/&gt;outside&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;factory&lt;t12/&gt; of &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;original&lt;t16/&gt; &lt;t17/&gt;manufacturer&lt;t18/&gt;.</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T085923Z" creationid="Administrator" creationdate="20240427T085923Z">
+        <seg>Jaotuskilbid, mida tohivad käsitada tavaisikud, võivad olla koostatud väljaspool originaaltootja tehast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DBOs&lt;t0/&gt; have &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;following&lt;t4/&gt; &lt;t5/&gt;criteria&lt;t6/&gt;:</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T074814Z" creationid="Administrator" creationdate="20240427T074814Z">
+        <seg>Jaotuskilbid, mida tohivad käsitada tavaisikud, on määratletud järgmiste asjaoludega:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For &lt;t0/&gt;the&lt;t1/&gt; &lt;t2/&gt;purposes&lt;t3/&gt; of &lt;t4/&gt;this&lt;t5/&gt; &lt;t6/&gt;document&lt;t7/&gt;, &lt;t8/&gt;the&lt;t9/&gt; &lt;t10/&gt;terms&lt;t11/&gt; and &lt;t12/&gt;definitions&lt;t13/&gt; &lt;t14/&gt;given&lt;t15/&gt; in IEC 61439-1:2020 and &lt;t16/&gt;the&lt;t17/&gt; &lt;t18/&gt;following&lt;t19/&gt; &lt;t20/&gt;apply&lt;t21/&gt;.</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T090406Z" creationid="Administrator" creationdate="20240427T090406Z">
+        <seg>Dokumendi rakendamisel kasutatakse standardis IEC 61439-1:2020 ning allpool esitatud termineid ja määratlusi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General &lt;t0/&gt;terms</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T090957Z" creationid="Administrator" creationdate="20240427T090957Z">
+        <seg>Üldterminid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note&lt;t0/&gt; 1 &lt;t1/&gt;to&lt;t2/&gt; &lt;t3/&gt;entry&lt;t4/&gt;: For &lt;t5/&gt;operation&lt;t6/&gt; by &lt;t7/&gt;ordinary&lt;t8/&gt; &lt;t9/&gt;persons&lt;t10/&gt;, see 8.4.6.1 of IEC 61439-1:2020.</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T092735Z" creationid="Administrator" creationdate="20240427T092656Z">
+        <seg>Märkus 1	 Mis on mõeldud tavaisikute poolt käsitamiseks vt. 8.4.6.1 of IEC 61439-1:2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note&lt;t0/&gt; 2 &lt;t1/&gt;to&lt;t2/&gt; &lt;t3/&gt;entry&lt;t4/&gt;: &lt;t5/&gt;Switching&lt;t6/&gt; &lt;t7/&gt;operations&lt;t8/&gt; and &lt;t9/&gt;replacing&lt;t10/&gt; &lt;t11/&gt;fuse-links&lt;t12/&gt; are &lt;t13/&gt;examples&lt;t14/&gt; of &lt;t15/&gt;operations&lt;t16/&gt; &lt;t17/&gt;intended&lt;t18/&gt; &lt;t19/&gt;to&lt;t20/&gt; &lt;t21/&gt;be&lt;t22/&gt; &lt;t23/&gt;carried&lt;t24/&gt; &lt;t25/&gt;out&lt;t26/&gt; by &lt;t27/&gt;ordinary&lt;t28/&gt; &lt;t29/&gt;persons&lt;t30/&gt;.</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T092727Z" creationid="Administrator" creationdate="20240427T092727Z">
+        <seg>MÄRKUS 2	Tavaisikute sooritatavad ettenähtud toimingud on näiteks lülitustoimingud ja sulavpanuste vahetamine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note&lt;t0/&gt; 3 &lt;t1/&gt;to&lt;t2/&gt; &lt;t3/&gt;entry&lt;t4/&gt;: &lt;t5/&gt;Definition&lt;t6/&gt; 3.1.101 &lt;t7/&gt;does&lt;t8/&gt; &lt;t9/&gt;not&lt;t10/&gt; &lt;t11/&gt;preclude&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; DBO &lt;t15/&gt;from&lt;t16/&gt; &lt;t17/&gt;being&lt;t18/&gt; &lt;t19/&gt;operated&lt;t20/&gt; by &lt;t21/&gt;skilled&lt;t22/&gt; &lt;t23/&gt;or&lt;t24/&gt; &lt;t25/&gt;instructed&lt;t26/&gt; &lt;t27/&gt;persons&lt;t28/&gt;, and &lt;t29/&gt;also&lt;t30/&gt; &lt;t31/&gt;being&lt;t32/&gt; &lt;t33/&gt;used&lt;t34/&gt; in non-&lt;t35/&gt;domestic&lt;t36/&gt; &lt;t37/&gt;installations&lt;t38/&gt;.</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T093450Z" creationid="Administrator" creationdate="20240427T093032Z">
+        <seg>MÄRKUS 3Määratlus 3.1.101 ei eelda jaotuskilbi, mida tohivad käsitada tavaisikud mittekasutatavaust ohuteadlikul või elektrialaisiku poolt või mujal kui kodumajapidamispaigaldises. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note&lt;t0/&gt; 4 &lt;t1/&gt;to&lt;t2/&gt; &lt;t3/&gt;entry&lt;t4/&gt;: &lt;t5/&gt;DBOs&lt;t6/&gt; &lt;t7/&gt;can&lt;t8/&gt; &lt;t9/&gt;be&lt;t10/&gt; &lt;t11/&gt;assembled&lt;t12/&gt; &lt;t13/&gt;outside&lt;t14/&gt; &lt;t15/&gt;the&lt;t16/&gt; &lt;t17/&gt;factory&lt;t18/&gt; of &lt;t19/&gt;the&lt;t20/&gt; &lt;t21/&gt;original&lt;t22/&gt; &lt;t23/&gt;manufacturer&lt;t24/&gt;.</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T093550Z" creationid="Administrator" creationdate="20240427T093550Z">
+        <seg>MÄRKUS 4	Jaotuskilbid, mida tohivad käsitada tavaisikud, võivad olla koostatud väljaspool originaaltootja tehast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This&lt;t0/&gt; &lt;t1/&gt;clause&lt;t2/&gt; of Part 1 &lt;t3/&gt;applies&lt;t4/&gt; &lt;t5/&gt;except&lt;t6/&gt; as &lt;t7/&gt;follows&lt;t8/&gt;.</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T090037Z" creationid="Administrator" creationdate="20240427T090037Z">
+        <seg>Rakendatakse osa 1 jaotist 10 koos alljärgnevate täiendustega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This&lt;t0/&gt; part of IEC 61439 &lt;t1/&gt;defines&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;specific&lt;t6/&gt; &lt;t7/&gt;requirements&lt;t8/&gt; &lt;t9/&gt;for&lt;t10/&gt; &lt;t11/&gt;distribution&lt;t12/&gt; &lt;t13/&gt;boards&lt;t14/&gt; &lt;t15/&gt;intended&lt;t16/&gt; &lt;t17/&gt;to&lt;t18/&gt; &lt;t19/&gt;be&lt;t20/&gt; &lt;t21/&gt;operated&lt;t22/&gt; by &lt;t23/&gt;ordinary&lt;t24/&gt; &lt;t25/&gt;persons&lt;t26/&gt; (DBO).</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T074807Z" creationid="Administrator" creationdate="20240427T074807Z">
+        <seg>Standardisarja IEC 61439 see osa määratleb erinõuded jaotuskilpidele, mida tohivad käsitada tavaisikud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This&lt;t0/&gt; standard &lt;t1/&gt;applies&lt;t2/&gt; &lt;t3/&gt;to&lt;t4/&gt; all &lt;t5/&gt;DBOs&lt;t6/&gt; &lt;t7/&gt;whether&lt;t8/&gt; &lt;t9/&gt;they&lt;t10/&gt; are &lt;t11/&gt;designed&lt;t12/&gt;, &lt;t13/&gt;manufactured&lt;t14/&gt; and &lt;t15/&gt;verified&lt;t16/&gt; on a &lt;t17/&gt;one-off&lt;t18/&gt; &lt;t19/&gt;basis&lt;t20/&gt; &lt;t21/&gt;or&lt;t22/&gt; &lt;t23/&gt;fully&lt;t24/&gt; &lt;t25/&gt;standardised&lt;t26/&gt; and &lt;t27/&gt;manufactured&lt;t28/&gt; in &lt;t29/&gt;quantity&lt;t30/&gt;.</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T085919Z" creationid="Administrator" creationdate="20240427T085919Z">
+        <seg>Standard kehtib kõigi jaotuskilpide kohta, mida tohivad käsitada tavaisikud, sõltumata sellest, kas need on projekteeritud, valmistatud ja kontrollitud ühekaupa või täielikult standarditud ning hulgi valmistatavad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This&lt;t0/&gt; standard &lt;t1/&gt;does&lt;t2/&gt; &lt;t3/&gt;not&lt;t4/&gt; &lt;t5/&gt;apply&lt;t6/&gt; &lt;t7/&gt;to&lt;t8/&gt; &lt;t9/&gt;individual&lt;t10/&gt; &lt;t11/&gt;devices&lt;t12/&gt; and &lt;t13/&gt;self-contained&lt;t14/&gt; &lt;t15/&gt;components&lt;t16/&gt;, &lt;t17/&gt;such&lt;t18/&gt; as &lt;t19/&gt;circuit&lt;t20/&gt; &lt;t21/&gt;breakers&lt;t22/&gt;, &lt;t23/&gt;fuse&lt;t24/&gt; &lt;t25/&gt;switches&lt;t26/&gt;, &lt;t27/&gt;electronic&lt;t28/&gt; &lt;t29/&gt;equipment&lt;t30/&gt;, etc. &lt;t31/&gt;which&lt;t32/&gt; &lt;t33/&gt;will&lt;t34/&gt; &lt;t35/&gt;comply&lt;t36/&gt; &lt;t37/&gt;with&lt;t38/&gt; &lt;t39/&gt;the&lt;t40/&gt; relevant &lt;t41/&gt;product&lt;t42/&gt; &lt;t43/&gt;standards&lt;t44/&gt;.</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T085932Z" creationid="Administrator" creationdate="20240427T085932Z">
+        <seg>Standard ei kehti üksikseadmete ega tervikkomponentide kohta, nagu kaitselülitid, sulavkaitsmete ja lüliti kombinatsioonid, elektroonikaseadmed jne, mis peavad vastama asjakohastele tootestandarditele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This&lt;t0/&gt; standard &lt;t1/&gt;does&lt;t2/&gt; &lt;t3/&gt;not&lt;t4/&gt; &lt;t5/&gt;apply&lt;t6/&gt; &lt;t7/&gt;to&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;specific&lt;t12/&gt; &lt;t13/&gt;types&lt;t14/&gt; of ASSEMBLIES &lt;t15/&gt;covered&lt;t16/&gt; by &lt;t17/&gt;other&lt;t18/&gt; parts of IEC 61439.</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T085942Z" creationid="Administrator" creationdate="20240427T085942Z">
+        <seg>Standard ei kehti standardisarja IEC 61439 muude osadega hõlmatud eriliiki koostete kohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>assembly&lt;t0/&gt; &lt;t1/&gt;used&lt;t2/&gt; &lt;t3/&gt;to&lt;t4/&gt; &lt;t5/&gt;distribute&lt;t6/&gt; and &lt;t7/&gt;control&lt;t8/&gt; &lt;t9/&gt;electrical&lt;t10/&gt; &lt;t11/&gt;energy&lt;t12/&gt; &lt;t13/&gt;for&lt;t14/&gt; all &lt;t15/&gt;types&lt;t16/&gt; of &lt;t17/&gt;electrical&lt;t18/&gt; &lt;t19/&gt;supplies&lt;t20/&gt; and &lt;t21/&gt;loads&lt;t22/&gt;, &lt;t23/&gt;intended&lt;t24/&gt; &lt;t25/&gt;for&lt;t26/&gt; &lt;t27/&gt;operation&lt;t28/&gt; by &lt;t29/&gt;ordinary&lt;t30/&gt; &lt;t31/&gt;persons</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T092524Z" creationid="Administrator" creationdate="20240427T092524Z">
+        <seg>iga liiki allikate ja tervitite jaoks elektrienergia jaotamiseks ja juhtimiseks kasutatav kooste, mis on mõeldud tavaisikute poolt käsitamiseks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>distribution board intended to be operated by ordinary persons DBO&lt;t0/&gt; &lt;t1/&gt;(&lt;t2/&gt;distribution board intended to&lt;t3/&gt; be operated by ordinary persons DBO&lt;t4/&gt;)</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T091302Z" creationid="Administrator" creationdate="20240427T091302Z">
+        <seg>jaotuskilp, mida tohivad käsitada tavaisikud&lt;t0/&gt; &lt;t1/&gt;
+(&lt;t2/&gt;distribution board intended to&lt;t3/&gt; be operated by ordinary persons DBO&lt;t4/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>enclosed&lt;t0/&gt;, &lt;t1/&gt;stationary&lt;t2/&gt;;</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T085835Z" creationid="Administrator" creationdate="20240427T085835Z">
+        <seg>need on kohtkindlad ning kinnise ehitusega;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for&lt;t0/&gt; &lt;t1/&gt;indoor&lt;t2/&gt; &lt;t3/&gt;or&lt;t4/&gt; &lt;t5/&gt;outdoor&lt;t6/&gt; &lt;t7/&gt;use&lt;t8/&gt;.</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T085847Z" creationid="Administrator" creationdate="20240427T085847Z">
+        <seg>need võivad olla ette nähtud nii sise- kui ka väliskasutuseks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>in &lt;t23/&gt;domestic&lt;t24/&gt; (&lt;t25/&gt;household&lt;t26/&gt;) &lt;t27/&gt;applications&lt;t28/&gt;;</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T085023Z" creationid="Administrator" creationdate="20240427T085023Z">
+        <seg>kodumajapidamisrakendustes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>intended&lt;t0/&gt; &lt;t1/&gt;for&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;distribution&lt;t6/&gt; of &lt;t7/&gt;electrical&lt;t8/&gt; &lt;t9/&gt;energy&lt;t10/&gt;;</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T085652Z" creationid="Administrator" creationdate="20240427T085652Z">
+        <seg>need on ette nähtud elektrienergia jaotamiseks;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>intended&lt;t0/&gt; &lt;t1/&gt;to&lt;t2/&gt; &lt;t3/&gt;be&lt;t4/&gt; &lt;t5/&gt;operated&lt;t6/&gt; by &lt;t7/&gt;ordinary&lt;t8/&gt; &lt;t9/&gt;persons&lt;t10/&gt; (&lt;t11/&gt;e.g&lt;t12/&gt;.</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T084950Z" creationid="Administrator" creationdate="20240427T075028Z">
+        <seg>need on ette nähtud käsitamiseks (nt </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>outgoing&lt;t0/&gt; &lt;t1/&gt;circuits&lt;t2/&gt; &lt;t3/&gt;contain&lt;t4/&gt; &lt;t5/&gt;protective&lt;t6/&gt; &lt;t7/&gt;devices&lt;t8/&gt;, &lt;t9/&gt;intended&lt;t10/&gt; &lt;t11/&gt;to&lt;t12/&gt; &lt;t13/&gt;be&lt;t14/&gt; &lt;t15/&gt;operated&lt;t16/&gt; by &lt;t17/&gt;ordinary&lt;t18/&gt; &lt;t19/&gt;persons&lt;t20/&gt;,  &lt;t21/&gt;complying&lt;t22/&gt; &lt;t23/&gt;e.g&lt;t24/&gt;.</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T085054Z" creationid="Administrator" creationdate="20240427T085054Z">
+        <seg>nende väljundahelad sisaldavad kaitseaparaate, mida tohivad käsitada tavaisikud ja mis vastavad nt </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>rated&lt;t0/&gt; &lt;t1/&gt;current&lt;t2/&gt; (&lt;t3/&gt;I&lt;t4/&gt;nc&lt;t5/&gt;) of &lt;t6/&gt;the&lt;t7/&gt; &lt;t8/&gt;outgoing&lt;t9/&gt; &lt;t10/&gt;circuits&lt;t11/&gt; &lt;t12/&gt;does&lt;t13/&gt; &lt;t14/&gt;not&lt;t15/&gt; &lt;t16/&gt;exceed&lt;t17/&gt; 125 A and &lt;t18/&gt;the&lt;t19/&gt; &lt;t20/&gt;rated&lt;t21/&gt; &lt;t22/&gt;current&lt;t23/&gt; (&lt;t24/&gt;I&lt;t25/&gt;nA&lt;t26/&gt;) of &lt;t27/&gt;the&lt;t28/&gt; DBO &lt;t29/&gt;does&lt;t30/&gt; &lt;t31/&gt;not&lt;t32/&gt; &lt;t33/&gt;exceed&lt;t34/&gt; 250 A;</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T085632Z" creationid="Administrator" creationdate="20240427T085632Z">
+        <seg>nende väljundahelate tunnusvool &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;(&lt;t3/&gt;I&lt;t4/&gt;nc&lt;t5/&gt;) ei ole üle 125 A ja jaotuskilbi tunnusvool &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;(&lt;t24/&gt;I&lt;t25/&gt;nA&lt;t26/&gt;) ei ole üle 250 A;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt;&lt;t34/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>rated&lt;t0/&gt; &lt;t1/&gt;voltage&lt;t2/&gt; &lt;t3/&gt;to&lt;t4/&gt; &lt;t5/&gt;earth&lt;t6/&gt; &lt;t7/&gt;does&lt;t8/&gt; &lt;t9/&gt;not&lt;t10/&gt; &lt;t11/&gt;exceed&lt;t12/&gt; 300 V &lt;t13/&gt;a.c&lt;t14/&gt;.;</seg>
+      </tuv>
+      <tuv lang="et" changeid="Administrator" changedate="20240427T085141Z" creationid="Administrator" creationdate="20240427T085141Z">
+        <seg>nende tunnuspinge maa suhtes ei ole vahelduvvoolu korral üle 300 V;</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

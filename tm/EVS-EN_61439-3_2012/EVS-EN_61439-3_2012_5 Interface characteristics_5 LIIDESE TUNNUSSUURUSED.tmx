@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Interface characteristics</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145640Z">
+        <seg>LIIDESE TUNNUSSUURUSED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This clause of Part 1 applies except as follows.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145640Z">
+        <seg>Rakendatakse osa 1 jaotist 5 koos alljärgnevate täienduste ja asendustega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.1	General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145640Z">
+        <seg>5.1	Üldist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Addition:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145640Z">
+        <seg>Täiendus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This objective can be achieved through one of two typical processes; the user will either select a catalogue product, the characteristics of which meet the required user needs, or make a specific agreement with the manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145640Z">
+        <seg>Seda eesmärki võib saavutada kahe võimaliku tüüpprotseduuri abil: kasutaja võib valida kas kataloogitoote, mille omadused vastavad tema nõutavatele vajadustele, või sõlmida tootjaga erikokkuleppe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In both cases, the specification schedule according to Annex AA is intended to help the user to provide all data necessary to specify, and to help the manufacturer to characterize the actual DBO.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145640Z">
+        <seg>Mõlemal juhul on lisas AA esitatud määratluskava mõeldud aitama kasutajal leida kõik vajalikud andmed toote määratlemiseks või tootjal iseloomustada tegelikku jaotuskilpi, mida tohivad käsitada tavaisikud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In some cases information declared by the DBO manufacturer may take the place of an agreement.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145640Z">
+        <seg>Mõnel juhul võib tavaisikutele käsitamiseks ette nähtud jaotuskilbi tootja esitatud vastav teave olla kasutaja ja tootja vaheliseks kokkuleppeks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.2	.4	Rated impulse withstand voltage (Uimp) (of the ASSEMBLY)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145640Z">
+        <seg>5.2	.4	Kooste tunnus-impulsstaluvuspinge (Uimp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Replacement:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145640Z">
+        <seg>Asendus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The rated impulse withstand voltage shall be equal to or higher than the values stated for the transient overvoltages occurring in the electrical system(s) to which the circuit is designed to be connected.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145640Z">
+        <seg>Tunnus-impulsstaluvuspinge peab olema sama kõrge või kõrgem kui transientliigpinged elektrisüsteemi(de)s, millega ühendamiseks ahel on ette nähtud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>DBO’s shall comply with a minimum overvoltage category III (see IEC 60364-4-44) according to Table G.1 of Annex G of Part 1.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145640Z">
+        <seg>Jaotuskilbid, mida tohivad käsitada tavaisikud, peavad vastavalt osa 1 lisa G tabelile G.1 vastama vähemalt liigpingekategooriale III (vt IEC 60364-4-44).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.4	Rated diversity factor (RDF)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145640Z">
+        <seg>5.4	Arvutuslik samaaegsustegur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Addition:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145640Z">
+        <seg>Täiendus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the absence of an agreement between the DBO manufacturer and user concerning the actual load currents, the assumed loading of the outgoing circuits of the DBO or group of outgoing circuits may be based on the values in Table 101.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145640Z">
+        <seg>Kui tavaisikute poolt käsitamiseks ette nähtud jaotuskilbi tootja ja kasutaja vahel ei ole kokkulepet tegelike koormusvoolude kohta, võib kilbi väljundahelate või väljundahelarühma eeldatava koormusvoolu määrata tabeli 101 järgi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.6	Other characteristics</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145640Z">
+        <seg>5.6	Muud tunnusandmed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Addition:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145640Z">
+        <seg>Täiendus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>q)  type A or type B DBO (see 3.1.102 and 3.1.103).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240405T145640Z">
+        <seg>q)  A- või B-tüüpi jaotuskilp, mida tohivad käsitada tavaisikud (vt terminid 3.1.102 ja 3.1.103).</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

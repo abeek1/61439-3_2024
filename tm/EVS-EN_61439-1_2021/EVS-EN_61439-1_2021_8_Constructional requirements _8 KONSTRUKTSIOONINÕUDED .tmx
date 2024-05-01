@@ -1,0 +1,3274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8 	Constructional requirements</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8 KONSTRUKTSIOONINÕUDED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.1 	Strength of materials and parts</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.1 Materjalide ja osade tugevus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.1.1 	General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.1.1 Üldnõuded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Under the responsibility of the original manufacturer, all design activities shall be carried out or supervised by a competent person.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Esmatootja vastutusalasse kuulub, et kõiki projekteerimistoiminguid peavad sooritama ja juhendama kompetentsed isikud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The external shape of the assembly enclosure, if any, can vary to suit the application and use.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kooste võimaliku ümbrise väliskuju võib olla mitmesugune, et rahuldada kooste rakendamist ja kasutamist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some examples are;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Mõned näited on</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	cubicle-type assembly (see 3.3.4);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>•	kappkooste (vt termin 3.3.4),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	multi-cubicle-type assembly (see 3.3.5);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>•	mitmekapiline kooste (vt termin 3.3.5),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	desk-type assembly (see 3.3.6);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>•	pultkooste (vt termin 3.3.6),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	box-type assembly (see 3.3.7);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>•	kastkooste (vt termin 3.3.7),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	multi-box-type assembly (see 3.3.8);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>•	mitmekastiline kooste (vt termin 3.3.8),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	wall-mounted surface type assembly (see 3.3.9);</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>•	seinakappkooste (vt termin 3.3.9),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>• 	wall-mounted recessed type assembly (see 3.3.10); and</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>•	süvistatav seinakappkooste (vt termin 3.3.10) ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	floor-standing type assembly (3.3.11).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>•	põrandal seisev kooste (vt termin 3.3.11).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These enclosures may be constructed from various materials, e.g. insulating, metallic or a combination of these.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Need ümbrised võivad olla valmistatud mitmesugustest materjalidest, nt isoleerivatest, metallilistest või nendest kombineeritutest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assemblies shall be constructed of materials capable of withstanding the mechanical, electrical, thermal and environmental stresses that are likely to be encountered in specified service conditions.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Koosted peavad olema valmistatud materjalidest, mis taluvad sätestatud talitlusoludes ette tulevaid mehaanilisi, elektrilisi, soojuslikke ja keskkonnatoimeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the case of special service conditions that can be present in the physical environment in which the assembly is to be installed (for example, dust, acids, corrosive gases, salts), the assemblies shall be adequately protected against contaminants (see Annex C).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Talitluse eriolude korral, mis võivad toimuda kooste paigaldamise füüsikalises keskkonnas (näiteks tolm, happed, korrodeerivad gaasid, soolad), peavad koosted olema saasteainete eest piisavalt kaitstud  (vt lisa C).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When the assembly is subject to radiation (for example, X-rays, microwave, ultraviolet, lasers), additional measures shall be taken to avoid malfunctioning of the assembly and accelerated deterioration of the insulation.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui koostele toimib kiirgus (näiteks röntgenkiirgus, mikrolained, ultraviolettkiirgus, laserid), tuleb rakendada lisameetmeid kooste väärtalitluse ja isolatsiooni kiirendatud halvenemise vältimiseks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When such measures are necessary, an agreement is required between the assembly manufacturer and the user.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui selliseid meetmeid on vaja, tuleb kooste tootja ja kasutaja vahel sõlmida sellekohane kokkulepe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When the assembly is subject to undesirable effects of vibration or shock, e.g. caused by a machine and its associated equipment, the selection of suitable equipment, or mounting it away from the source of the vibration, or the provision of anti-vibration mountings shall be considered.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui koostele võivad toimida vältimatu vibratsioon või löögid, mis on nt tingitud masinatest ja nendega seotud seadmetest, tuleb kaaluda sobivamate seadmete valikut, paigaldamist vibratsiooniallikatest eemale või vibratsioonivastaste paigaldusviiside kasutamist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.1.2 	Protection against corrosion</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.1.2 Kaitse korrosiooni eest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Protection against corrosion shall be ensured by the use of suitable materials or by protective coatings to the exposed surface, taking account of the normal service conditions (see 7.1).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kaitse korrosiooni eest tuleb tagada kas sobivate materjalide või ohustatud pindade kaitsekatete kasutamisega, võttes arvesse normaaltalitlusolusid (vt jaotis 7.1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compliance with this requirement is checked by the test in 10.2.2.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Vastavust sellele nõudele tuleb kontrollida jaotises 10.2.2 kirjeldatud katsetusega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.1.3 	Properties of insulating materials</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.1.3 Isoleermaterjalide omadused</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.1.3.1 	Thermal stability</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.1.3.1 	Kuumuskindlus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enclosures or parts of enclosures made of insulating material(s), not already certified to their own product standard, e.g. louvers, meshes, shall be capable of operation at temperatures of at least 70 ⁰C.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Isoleermaterjali(de)st valmistatud ümbrised või ümbriseosad, mis mitte alati ei ole sertifitseeritud nende endi tootestandardite järgi, nt ventilatsiooniavad ja -võrgud, peavad vastu pidama talitlusele temperatuuril vähemalt 70 °C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thermal stability shall be verified according to 10.2.3.1.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kuumuskindlust tuleb kontrollida vastavalt jaotisele 10.2.3.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.1.3.2 	Resistance of insulating materials to heat and fire</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.1.3.2 	Isoleermaterjalide vastupidavus soojusele ja tulele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.1.3.2.1 	General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.1.3.2.1 Üldnõue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Parts of insulating materials, which can be exposed to thermal stresses due to internal electrical effects, and the deterioration of which can impair the safety of the assembly, shall not be adversely affected by normal (operational) heat, and abnormal heat or fire.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Isoleermaterjalidest osad, mis võivad sattuda sisemistest elektrinähtustest tingitud soojuslike toimete alla ja mille riknemine võib vähendada kooste ohutust, ei tohi normaalse (talitlusliku) soojuse, anomaalse kuumuse ega tule toimel kahjustuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.1.3.2.2 	Resistance of insulating materials to normal heat</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.1.3.2.2 Isoleermaterjalide vastupidavus normaalsoojusele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The original manufacturer shall select insulating materials which are suitable for the maximum temperatures to which they are exposed in normal operation, in accordance with 9.2 and  Table 6.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Esmatootja peab valima isoleermaterjalid, mis sobivad nendele normaaltalitlusel toimivale suurimale temperatuurile vastavalt jaotisele 9.2 ja tabelile 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The applied temperature-rise limit (see 9.2) for parts of insulating materials shall be justified based on, for example, the methods of IEC 60216 (all parts), or thermal class identified in accordance with IEC 60085:2007.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Isoleermaterjalist osade rakendatav ületemperatuuri piir (vt jaotis 9.2) tuleb põhjendada näiteks standardisarjas IEC 60216 esitatud meetodite alusel või temperatuuriklassiga, mis on identifitseeritud vastavalt standardile IEC 60085:2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE With recognition of the differences to other methods, insulating materials can also be selected based on the relative thermal index (RTI), UL 746B.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>MÄRKUS 	Muude meetodite erinevuste tunnustamisel võib isoleermaterjale valida ka suhtelise soojusliku indeksi (relative thermal index, RTI) alusel vastavalt standardile UL 746B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.1.3.2.3 	Resistance of insulating materials to abnormal heat and fire due to internal electric effects</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.1.3.2.3 Isoleermaterjalide vastupidavus sisemistest elektrinähtustest tingitud anomaalsele kuumusele ja tulele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insulating materials used for parts necessary to retain current carrying parts in position and parts which can be exposed to thermal stresses due to internal electrical effects, of which the deterioration can impair the safety of the assembly, shall not be adversely affected by abnormal heat and fire and shall be verified by the glow-wire test in 10.2.3.2.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Isoleermaterjalist osad, mis on vajalikud voolujuhtivate osade paigal hoidmiseks, ning osad, mis võivad sattuda sisemistest elektrinähtustest tingitud soojuslike toimete alla ja mille riknemine võib vähendada kooste ohutust, ei tohi anomaalse kuumuse ega tule toimel kahjustuda ning neid tuleb kontrollida jaotises 10.2.3.2 kirjeldatud hõõgtraatkatsetusega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For the purpose of this test, a protective conductor (PE) is not considered as a current-carrying part.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kaitsejuhti (PE) sellisel katsetusel voolujuhtiva osana ei arvestata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.1.4 	Resistance to ultra-violet (UV) radiation</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.1.4 Vastupidavus ultraviolettkiirgusele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>External surfaces made of insulating material(s) and coated metal enclosures which are intended to be used outdoor exposed to ultra-violet radiation shall not crack nor deteriorate such that it impairs the safety of the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Välisoludes kasutatavad isoleermaterjali(de)st pinnad ja kaetud metallümbrised, mis on välisoludes kasutamiseks ette nähtud ja millele toimib ultraviolettkiirgus, ei tohi praguneda ega halveneda sellisel määral, et see mõjutaks kooste ohutust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Resistance to ultra-violet radiation shall be verified according to 10.2.4.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Vastupidavust ultraviolettkiirgusele tuleb kontrollida vastavalt jaotisele 10.2.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For assemblies exposed to UV radiation, other than solar radiation, the means of verification for resistance of the enclosures and external parts made of insulating material or external metal parts that are coated on their exposed surface(s) by synthetic material, are subject to agreement between the user and the manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Koostete puhul, millele toimib päikesekiirgusest erinev ultraviolettkiirgus, ning isoleermaterjalist valmistatud ümbriste ja välisosade või kiirguse toime all olevate sünteetilise materjaliga kaetud metall-välisosade pindade puhul on ultraviolettkiirgusele vastupidavuse kontrolli viisid kooste tootja ja kasutaja vahelise kokkuleppe asi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.1.5 	Mechanical strength</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.1.5 Mehaaniline tugevus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All enclosures or partitions, including locking means and hinges for doors, shall be of a mechanical strength sufficient to withstand the stresses to which they may be subjected in normal service, (see also 10.2.8) and during short-circuit conditions (see also 10.11).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kõik ümbrised ja vaheseinad, sealhulgas uste lukustusseadised ja hinged, peavad olema mehaaniliselt piisavalt tugevad, et taluda neile normaaltalitlusel (vt ka jaotis 10.2.8) ja lühiseoludes toimivaid koormusi (vt ka jaotis 10.11).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The mechanical operation of removable parts, including any insertion interlock, shall be verified by test according to 10.2.8.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Eemaldatavate osade, sealhulgas mistahes sisestusblokeeringu mehaanilist talitlust tuleb kontrollida vastavalt jaotises 10.2.8 kirjeldatud katsetusele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.1.6 	Lifting provision</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.1.6 Tõstekorraldus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where lifting, other than by manual means is recommended by the manufacturer, e.g. by crane or fork lift truck, transport units shall be provided with the appropriate provision for lifting.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui tootja on soovitanud kasutada tõstmist mitte-käsivahenditega, vaid nt kraana või kahveltõstuki abil, tuleb 	transportühikud 	varustada 	asjakohaste 	tõstekorraldusvahenditega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compliance is verified according to 10.2.5.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Nõuetele 	vastavust kontrollitakse jaotises 10.2.5 kirjeldatud katsetusega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.2 	Degree of protection provided by an assembly enclosure</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.2 Kooste ümbrisega tagatav kaitseaste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.2.1 	Protection against mechanical impact (IK code)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.2.1 Kaitse mehaaniliste toimete eest (IK-kood)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The minimum degree of protection provided by an assembly enclosure against mechanical impact, if necessary, shall be defined by the relevant assembly standards.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kooste ümbrisega tagatav vähim kaitseaste mehaaniliste toimete eest tuleb vajaduse korral määratleda asjakohastes koostestandardites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compliance is verified according to 10.2.6.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Vastavust tuleb kontrollida jaotise 10.2.6 järgi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.2.2 	Protection against contact with live parts, ingress of solid foreign bodies and water (IP code)</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.2.2 Kaitse pingestatud osadega kokkupuute ning tahkete võõrkehade ja vee sissepääsu eest 
+(IP-kood)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The degree of protection provided by any assembly against contact with live parts, ingress of solid foreign bodies and water is indicated by the IP code according to IEC 60529:1989, IEC 60529:1989/AMD1:1999 and IEC 60529:1989/AMD2:2013; and verified according to 10.3.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Mingi kooste kaitseastet pingestatud osadega kokkupuute ning tahkete võõrkehade ja vee sissepääsu eest tähistatakse vastavalt standardile IEC 60529:1989 ja selle muudatustele IEC 60529:1989/AMD1:1999 ja IEC 60529:1989/AMD2:2013 IP-koodiga ning kontrollitakse vastavalt jaotisele 10.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After installation in accordance with the assembly manufacturer's instructions, the degree of protection of an enclosed assembly shall be at least IP2X.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kinnise kooste kaitseaste peab pärast kooste paigaldamist vastavalt kooste tootja juhistele olema vähemalt IP2X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The degree of protection provided from the front of a dead-front assembly shall be at least IPXXB.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Eest kinnise kooste kaitseaste peab eestpoolt olema vähemalt IPXXB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For assemblies for outdoor use having no supplementary protection, the second characteristic numeral shall be at least 3.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Väljas kasutatava lisakaitseta koostete kaitseastme teine tunnusnumber peab olema vähemalt 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For outdoor installation, supplementary protection can be protective roofing or similar.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Välispaigaldise korral võib lisakaitseks olla kaitsekatus või muu taoline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unless otherwise specified, the degree of protection indicated by the assembly manufacturer applies to the complete assembly when installed in accordance with the assembly manufacturer's instructions, for example sealing of the open mounting surface of an assembly, etc.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui pole sätestatud teisiti, rakendatakse kooste tootja näidatud kaitseastet kogu kooste kohta, kui see on paigaldatud vastavalt kooste tootja juhistele, näiteks kooste lahtise kinnituspinna tihendamine jne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where the assembly does not have the same IP rating throughout, the assembly manufacturer shall declare the IP rating for the separate parts.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui kooste osade kaitseastmed ei ole ühesugused, peab kooste tootja deklareerima eri osade kaitseastmed eraldi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Different IP ratings shall not impair the intended use of the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kaitseastmete erisugused tunnusväärtused ei tohi kahjustada kooste ettenähtud kasutamist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>EXAMPLES:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>NÄITED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	operating face IP20, other parts IP00;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>•	Teeninduskülg IP20, muud osad IP00.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	drain holes in the base IPXXD, other parts IP43.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>•	Aluses olevad veeväljapääsuavad IPXXD, muud osad IP43.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>IP codes shall not be declared by the assembly manufacturer unless the appropriate verifications have been made according to 10.3.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kooste tootja ei tohi deklareerida IP-koode, väljaarvatult juhul, mil asjakohased kontrollitoimingud on sooritatud vastavalt jaotisele 10.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enclosed assemblies, for outdoor and indoor installation, intended for use in locations with high humidity and temperatures varying within wide limits, shall be provided with suitable arrangements (ventilation and/or internal heating, drain holes, etc.) to prevent harmful condensation within the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Välis- ja sisepaigaldiste kinnistes koostetes, mis on ette nähtud kasutamiseks väga niisketes ja suure temperatuurikõikumisega kohtades, tuleb vee koostesisese kahjuliku kondenseerumise vältimiseks rakendada sobivaid korraldusviise (ventilatsioon ja/või siseküte, veeväljapääsuavad jne).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, the specified degree of protection shall at the same time be maintained.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Ühtlasi tuleb aga säilitada sätestatud kaitseaste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.2.3 	Assembly with removable parts</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.2.3 Eemaldatavate osadega kooste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The degree of protection (IP) indicated for assemblies normally applies to the connected position (see 3.2.3) of the removable parts.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Koostetele määratud kaitseaste (IP) kehtib tavaliselt eemaldatavate osade ühendatud asendi korral (vt termin 3.2.3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If, after the removal of a removable part, it is not possible to maintain the original degree of protection (e.g. by closing a door), the assembly manufacturer shall make available covers or similar to restore the original degree of protection.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui pärast eemaldatava osa eemaldamist ei ole võimalik säilitada kooste originaalkaitseastet (nt ukse sulgemise teel), peab kooste tootja tegema kättesaadavaks katted või muud taolised, et taastada originaalkaitseaste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If these measures are not available, the IP tests shall be carried out without the removable part in place.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui need meetmed ei ole kättesaadavad, tuleb IP-katsetused sooritada eemaldatavate osade oma paigal olekuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When shutters are used to provide adequate protection to live parts, they shall be secured to prevent unintentional removal.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui pingestatud osade adekvaatse puutekaitse tagamiseks kasutatakse luuke, peavad need olema turvaliselt kaitstud tahtmatu eemaldamise eest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.3 	Clearances and creepage distances</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.3 Õhk- ja roomevahemikud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.3.1 	General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.3.1 Üldnõuded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The requirements for clearances and creepage distances are based on the principles of IEC 60664-1:2007 and are intended to provide insulation coordination within the installation.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Õhk- ja roomevahemikele esitatavad nõuded põhinevad standardi IEC 60664-1:2007 põhimõtetel ning on ette nähtud selleks, et tagada isolatsiooni paigaldisesisene koordinatsioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Further information is available in IEC TR 60664-2-1:2011.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Lähem teave on kättesaadav dokumendist IEC TR 60664-2-1:2011.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The clearances and creepage distances of equipment that form part of the assembly shall comply with the requirements of the relevant product standard.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kooste osaks olevate seadmete õhk- ja roomevahemikud peavad vastama asjakohaste tootestandardite nõuetele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When incorporating equipment into the assembly, the specified clearances and creepage distances shall be maintained during normal service conditions.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Seadmete paigutamisel koostesse peavad sätestatud õhk- ja roomevahemikud normaaltalitlusoludes säilima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For dimensioning clearances and creepage distances between separate circuits, the highest voltage ratings shall be used (rated impulse withstand voltage for clearances and rated insulation voltage for creepage distances).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Eraldatud ahelate vaheliste õhk- ja roomevahemike valikul tuleb lähtuda pinge suurimatest tunnusandmetest (õhkvahemikel tunnus-impulsstaluvuspingest, roomevahemikel isolatsiooni tunnuspingest).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The clearances and creepage distances apply to line to line, line to neutral, and, except where a conductor is connected directly to earth, line to earth and neutral to earth.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Õhk- ja roomevahemikud kehtivad vahemikele kahe faasijuhi ning faasi- ja neutraaljuhi vahel või, kui juht ei ole ühendatud otseselt maaga, vahemikele faasijuhi ja maa ning neutraaljuhi ja maa vahel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For bare live conductors and terminations, the clearances and creepage distances shall at least be equivalent to those specified for the equipment with which they are directly associated.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Pingestatud paljasjuhtide ja lõpuühenduste õhk- ja roomevahemikud peavad olema vähemalt võrdväärsed nendega otseselt ühendatud seadmete jaoks sätestatud nõuetega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The effect of a short-circuit up to and including the declared rating(s) of the assembly shall not reduce permanently the clearances or creepage distances between busbars and/or connections below the values specified for the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Lühise toime kuni kooste deklareeritud tunnusandmeteni ei tohi püsivalt vähendada lattide- ja/või ühendustevahelisi õhk- ja roomevahemikke alla koostele sätestatud väärtuste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deformation of parts of the enclosure or of the internal partitions, barriers and obstacles due to a short-circuit shall not reduce permanently the clearances or creepage distances below those specified in 8.3.2 and 8.3.3 (see also 10.11.5.5).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Ümbrise osade või sisemiste vaheseinte, kaitsepiirete ja kaitsetõkete lühisest tingitud deformatsioon ei tohi püsivalt vähendada õhk- ega roomevahemikke alla jaotistes 8.3.2 ja 8.3.3 sätestatud väärtuste (vt ka 10.11.5.5).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.3.2 	Clearances</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.3.2 Õhkvahemikud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The clearances shall be sufficient to enable the declared rated impulse withstand voltage (Uimp) of a circuit to be achieved.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Õhkvahemikud peavad olema piisavad, et tagada ahela deklareeritud tunnus-impulsstaluvuspinge (Uimp).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The clearances shall be at least as specified in Table 1; if not, a design verification test and a routine impulse withstand voltage test are carried out in accordance with 10.9.3 and 11.3, respectively.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Õhkvahemikud peavad olema vähemalt sama laiad, nagu sätestatud tabelis 1; kui mitte, tuleb sooritada konstruktsiooni kontrollkatsetus ja impulsstaluvuspinge tavakatsetus vastavalt jaotistele 10.9.3 ja 11.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The method of determining clearances by measurement is given in Annex F.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Õhkvahemike määramise meetod mõõtmise teel on esitatud lisas F.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.3.3 	Creepage distances 
+The original manufacturer shall select a rated insulation voltage(s) (Ui) for the circuits of the assembly from which the creepage distance(s) shall be determined.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.3.3 Roomevahemikud 
+Esmatootja peab kooste ahelate jaoks valima isolatsiooni tunnuspinge(d) (Ui), mille põhjal tuleb määrata roomevahemik(ud).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For any given circuit, the rated insulation voltage shall not be less than the rated operational voltage (Ue).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Ühegi antud ahela isolatsiooni tunnuspinge ei tohi olla väiksem kui tunnustalitluspinge (Ue).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The creepage distances shall not, in any case, be less than the associated minimum clearances.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Roomevahemikud ei tohi mingil juhul olla väiksemad kui nendega seotud vähimad õhkvahemikud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creepage distances shall correspond to a pollution degree as specified in 7.1.2 and to the corresponding material group at the rated insulation voltage given in Table 2.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Roomevahemikud peavad vastama jaotises 7.1.2 määratletud saasteastmele ja tabelis 2 esitatud isolatsiooni tunnuspinge järgi määratletud materjalirühmale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The method of determining creepage distances by measurement is given in Annex F.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Roomevahemike määramise meetod mõõtmise teel on esitatud lisas F.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For inorganic insulating materials, e.g. glass or ceramics, which do not track, creepage distances need not be greater than their associated clearances.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Anorgaaniliste isolatsioonimaterjalide, nt klaasi või keraamika puhul, millel roomet ei teki, ei pea roomevahemikud olema suuremad kui nendega seotud õhkvahemikud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, the risk of disruptive discharge should be considered.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Tuleb aga siiski arvestada läbilöögiriski.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By using ribs of a minimum height of 2 mm, the creepage distance may be reduced but, irrespective of the number of ribs, shall be not less than 0,8 times the value of Table 2 and not less than the associated minimum clearance.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui kasutada ribisid kõrgusega vähemalt 2 mm, võib roomevahemikku vähendada, kuid sõltumata ribide arvust peab see olema vähemalt 0,8-kordne tabelis 2 esitatud väärtusest ja mitte väiksem kui sellega seotud vähim õhkvahemik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The minimum base of the rib is determined by mechanical requirements (see Clause F.2).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Ribi aluse vähimalt vajalik laius on määratud mehaanilise tugevuse nõuetega 
+(vt jaotis F.2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4 	Protection against electric shock</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4 Kaitse elektrilöögi eest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.1 	General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.1 Üldnõuded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The apparatus and circuits in the assembly shall be so arranged as to facilitate their operation and maintenance with the required protection against electric shock.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kooste aparatuur ja ahelad peavad olema paigutatud selliselt, et nende talitlus ja hooldamine oleks võimalik koos nõutava kaitsega elektrilöögi eest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following requirements are intended to ensure that the required protective measures are obtained when an assembly is installed in an electrical system conforming to the IEC 60364 series.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Järgmised nõuded on ette nähtud nõutavate kaitsemeetmete saavutamise tagamiseks juhul, mil kooste on paigaldatud elektrilisse süsteemi, mis on kooskõlas standardisarjaga IEC 60364.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For generally accepted protective measures, refer to IEC 61140:2016 and IEC 60364-4-41:2005, and IEC 60364-4-41:2005/AMD1:2017.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Üldtunnustatud kaitseviisid on esitatud standardites IEC 61140:2016, IEC 60364-4-41:2005 ja IEC 60364-4-41:2005/AMD1:2017.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Those protective measures, which are of particular importance for an assembly, are reproduced in 8.4.2 to 8.4.6.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kaitseviisid, mis koostete suhtes on eriti tähtsad, on esitatud jaotistes 8.4.2 kuni 8.4.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.2 	Basic protection</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.2 Põhikaitse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.2.1 	General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.2.1 	Üldnõuded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Basic protection is intended to provide protection against electric shock under normal conditions, preventing direct contact with hazardous live parts.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Põhikaitse on ette nähtud kaitse tagamiseks elektrilöögi eest normaaloludes, ohtlike pingestatud osade otsepuute vältimise teel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Basic protection can be achieved either by appropriate constructional measures on the assembly itself or by additional measures to be taken during installation; this may require information to be given by the assembly manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Põhikaitse võib saavutada kas asjakohaste konstruktiivsete meetmetega koostes endas või paigaldamisel rakendatavate lisameetmetega; see võib nõuda, et kooste tootja annaks sellekohast teavet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An example of additional measures to be taken is the installation of an open-type assembly without further provisions in a location where access is only permitted for authorized person(s).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Vajalike lisameetmete näitena võib esitada lahtise kooste paigaldamise ilma muude kaitsevahenditeta sellisesse kohta, kuhu ligipääs on lubatud üksnes volitatud isiku(te)le.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where basic protection is achieved by constructional measures, one or more of the protective measures given in 8.4.2.2 and 8.4.2.3 may be selected.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui põhikaitse saavutatakse konstruktiivsete meetmetega, võib valida ühe või mitu jaotistes 8.4.2.2 ja 8.4.2.3 esitatud kaitseviisi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The choice of the protective measure shall be declared by the assembly manufacturer if not specified within the relevant assembly standard.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui kaitseviisi valik pole määratletud asjakohases koostestandardis, peab selle deklareerima kooste tootja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.2.2 	Basic insulation provided by insulating material</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.2.2 	Isoleermaterjaliga tagatud põhiisolatsioon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hazardous live parts shall be completely covered with insulation that can only be removed by destruction or by the use of a tool.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Ohtlikud pingestatud osad peavad olema täielikult kaetud isolatsiooniga, mida saab kõrvaldada üksnes purustamise teel või tööriista abil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The insulation shall be made of suitable materials capable of durably withstanding the mechanical, electrical and thermal stresses to which the insulation may be subjected in service.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Isolatsioon peab olema valmistatud sobivatest materjalidest, mis on suutelised kestvalt taluma nendele talitluses mõjuvaid mehaanilisi, elektrilisi ja soojuslikke toimeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>EXAMPLES</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Electrical devices embedded in insulation and insulated conductors.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Siia kuuluvad näiteks isoleeraines paiknevad elektriseadised ja isoleerjuhid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Paints, varnishes and lacquers alone are generally not considered to satisfy the requirements for basic insulation.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Ainuüksi värv-, võõpkatteid ja lakki ei arvestata üldjuhul põhiisolatsiooni nõudeid rahuldavaks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This does not preclude the use of specifically designed insulating coatings that fulfil the dielectric requirements specified in 10.9.6.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>See ei takista aga spetsiifiliselt kujundatud isoleerkatete kasutamist, mis täidavad jaotises 10.9.6 esitatud dielektrilisi nõudeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.2.3 	Barriers or enclosures</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.2.3 	Kaitsekatted ja ümbrised</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Air-insulated live parts shall be inside enclosures or behind barriers.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Pingestatud osad, mille isolatsiooniks on õhk, peavad paiknema ümbristes või kaitsekatete taga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The enclosures or barriers shall provide a degree of protection of at least IPXXB.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Ümbrised või kaitsekatted peavad tagama kaitseastme vähemalt IPXXB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Horizontal top surfaces of accessible enclosures having a height equal to or lower than 1,6 m above the standing area shall provide a degree of protection of at least IPXXD.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Ligipääsetavate ümbriste rõhtsad ülapinnad, mille kõrgus seisutasandist on kuni 1,6 m, peavad tagama kaitseastme vähemalt IPXXD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Barriers and enclosures shall be firmly secured in place and have sufficient stability and durability to maintain the required degrees of protection and appropriate separation from live parts under normal service conditions, taking account of relevant external influences.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kõik kaitsekatted ja ümbrised peavad olema tugevasti oma kohale kinnitatud ning olema piisava püsivuse ja vastupidavusega, et säilitada normaaltalitluses ning välismõjusid arvestades nõutav kaitseaste ja asjakohane eraldatus pingestatud osadest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The distance between a conductive barrier or enclosure and the live parts they protect shall not be less than the values specified for the clearances and creepage distances in 8.3.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Juhtivast materjalist katte või ümbrise ja nende abil kaitstavate pingestatud osade vaheline kaugus ei tohi olla väiksem kui jaotises 8.3 sätestatud õhk- ja roomevahemike väärtused.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where it is necessary to remove barriers or open enclosures or to remove parts of enclosures (see 8.4.6), this shall be possible only if one of the conditions a) to c) is fulfilled.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui on vaja eemaldada kaitsekatteid, avada ümbriseid või eemaldada ümbriste osi (vt jaotis 8.4.6), peab see olema võimalik üksnes siis, kui on täidetud üks järgmistest tingimustest:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	By the use of a key or tool, i.e. any mechanical aid, to open the door, cover or override an interlock.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>a)	ukse avamine, kaitsekatte eemaldamine või blokeeringu kõrvaldamine peab olema võimalik üksnes võtme või tööriista abil, s.t mingi mehaanilise abivahendiga;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	After isolation of the supply to live parts, against which the barriers or enclosures afford basic protection, restoration of the supply being possible only after replacement or reclosure of the barriers or enclosures.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>b)	pärast toite turvalahutamist pingestatud osadelt, mille eest kaitsekatted või ümbrised tagavad põhikaitse, peab toite taastamine olema võimalik vaid pärast katete või ümbriste asendamist või taassulgemist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In TN-C and TN-C-S systems, the PEL, PEM or PEN conductor shall not be isolated or switched.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>TN-C- ega TN-C-S-süsteemides ei tohi PEL-, PEM- ega PEN-juhti turvalahutada ega lülitada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In TN-S and TN-C-S systems, the mid-point and neutral conductors need not be isolated or switched (see IEC 60364-5-53:2001, 536.1.2).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>TN-S- ega TN-C-S-süsteemides ei ole kesk- ega neutraaljuhtide turvalahutamine ega lülitamine vajalik (vt standardi IEC 60364-5-53:2001 jaotis 536.1.2);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>EXAMPLE</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>NÄIDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By interlocking the door(s) with a disconnector so that they can only be opened when the disconnector is in the isolated position and closing of the disconnector without the use of a tool is impossible while the door is open.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui uks(ed) on blokeeritud lahklüliti abil selliselt, et seda (või neid) saab avada ainult lahklüliti turvalahutatud asendis, ei ole aga võimalik lahklülitit ilma tööriista abita sisse lülitada, kui uks on avatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>c)	Where an intermediate barrier providing a degree of protection of at least IPXXB prevents contact with live parts, such a barrier being removable only by the use of a key or tool.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>c)	kui kokkupuute pingestatud osadega hoiab ära vahepealne kaitsekate, mis tagab kaitseastme vähemalt IPXXB, tohib selline piire olla eemaldatav üksnes võtme või tööriista abil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.3 	Fault protection</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.3 Rikkekaitse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.3.1 	Installation conditions</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.3.1 	Paigaldustingimused</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The assembly shall include protective measures and be suitable for installations designed to be in accordance with IEC 60364-4-41:2005 and IEC 60364-4-41:2005/AMD1:2017.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kooste peab sisaldama kaitseviise ning sobima paigaldistele, mis on projekteeritud olema vastavuses standarditega IEC 60364-4-41:2005 ja IEC 60364-4-41:2005/AMD1:2017.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE 1</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>MÄRKUS 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Protective measure suitable for particular installations can be subject to additional or different requirements, e.g. for installation in ships as given in IEC 60092 series.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Eripaigaldistele sobivad kaitseviisid võivad nõuda lisa- või erimeetmeid, nt paigaldamisel laevadele, nagu see on esitatud standardisarjas IEC 60092.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When a TT earthing system is being used in the electrical network, one of the following protective measures shall be applied in the assembly:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui elektrivõrgus kasutatakse juhistikusüsteemi TT, tuleb koostes rakendada üht järgmistest kaitseviisidest:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	double or reinforced insulation of all conductors (incoming cables, extension terminals, etc.) upto the supply side of the first RCD(s) in the system (this is not a requirement when a 
+Class II assembly is used); or</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>a)	kõigi juhtide topelt- või tugevdatud isolatsioon (sisestusjuhtmed või -kaablid, laiendusklemmid jne) kuni süsteemi esimese rikkevooluaparaadi (esimeste rikkevooluaparaatide) toitepooleni (see ei ole aga nõue, kui kasutatakse II klassi kuuluvat koostet) või</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	residual current device (RCD) protecting the incoming circuit.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>b)	sisendahelat kaitsvat rikkevooluaparaati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE 2</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>MÄRKUS 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An equivalent to reinforced insulation can be provided by rigid connections, air and suitable mechanical protection.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Jäikade ühenduste korral võib tugevdatud isolatsiooni ekvivalendina ette näha õhkisolatsiooni koos sobiva mehaanilise kaitsega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Such provisions are subject to agreement between the user and the manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Sellised sätted on kasutaja ja tootja vahelise kokkuleppe aine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.3.2 	Requirements for the protective conductor to facilitate automatic disconnection of the supply</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.3.2 	Kaitsejuhile esitatavad nõuded toite automaatse väljalülitamise võimaldamiseks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.3.2.1 	General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.3.2.1 Üldnõuded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each assembly shall have a protective conductor to facilitate automatic disconnection of the supply for:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Igal koostel peab olema kaitsejuht, et võimaldada toite automaatset väljalülitamist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	protection against the consequences of earth faults within the class I assembly;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>a) kaitseks I klassi koostete maaühenduse tagajärgede eest;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	protection against the consequences of earth faults in external circuits supplied through the class I and class II assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>b) kaitseks I ja II klassi koostete kaudu toidetavate välisahelate maaühenduste tagajärgede eest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the case of a class II assembly, the protective conductor may or may not be incorporated within the assembly: it is permissible for it to pass the assembly externally.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>II klassi koostete puhul võib kaitsejuht olla või mitte olla koostesse sisse ehitatud: on lubatud, et see kulgeb väljaspool koostet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The enclosure can be or be part of the protective circuit.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Ümbrist võib kasutada kaitseahelana või selle osana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The requirements to be complied with are given in 8.4.3.2.2 and 8.4.3.2.3.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Täitmist vajavad nõuded on esitatud jaotistes 8.4.3.2.2 ja 8.4.3.2.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Requirements for identification of the protective conductor (PE, PEN, PEM, PEL) are given in 8.6.6.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Nõuded kaitsejuhi (PE-, PEN-, PEM- või PEL-juhi) tuvastamiseks on esitatud jaotises 8.6.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.3.2.2 	Requirements for earth continuity providing protection against the consequences of faults within the class I assembly</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.3.2.2 Nõuded maanduse pidevusele, mis tagab kaitse rikete tagajärgede eest I klassi koostetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All exposed-conductive-parts of the assembly shall be interconnected together and to the protective conductor of the supply or via an earthing conductor to the earthing arrangement.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kooste kõik pingealtid juhtivad osad tuleb ühendada omavahel kokku ning ühendada toiteahela kaitsejuhiga või maandusjuhi kaudu maandussüsteemiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These interconnections may be achieved either by metal screwed connections, welding or other conductive connections, or by a separate conductor providing earth continuity.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kokkuühendamiseks võib kasutada metall-kruviliiteid, keevisliiteid või muid juhtivaid ühendusi või eraldi juhti, mis tagab maanduse pidevuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With metal parts of the assembly where abrasion-resistant finishes are used (e.g. gland plates with powder coatings), interconnections providing earth continuity requires the removal or the penetration of the coating.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui koostes kasutatakse kulumiskindlalt lõpptöödeldud pinnakatetega metallosi (nt tihenduspukside pulberkattega plaate), nõuavad maanduse pidevust tagavad ühendused pinnakatte eemaldamist või läbistamist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The method to verify the earth continuity between the exposed-conductive-parts of the assembly and the protective conductor is given in 10.5.2.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kooste pingealdiste juhtivate osade ja kaitsejuhi vahelise maanduse pidevuse kontrolli meetod on esitatud jaotises 10.5.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For the continuity of these connections, the following shall apply:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Nende ühenduste pidevuse tagamiseks tuleb rakendada järgmisi meetmeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	When a part of the assembly is removed, for example for routine maintenance, the earth continuity for the remainder of the assembly shall not be interrupted.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>a)	Kui kooste mingi osa on näiteks tavahoolduseks eemaldatud, ei tohi kooste ülejäänud osade maanduse pidevus katkeda (ühendus maaga peab säilima).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Means used for assembling the various metal parts of an assembly are considered sufficient for ensuring earth continuity if the precautions taken guarantee permanent good conductivity.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kooste eri metallosade ühendamiseks kasutatud vahendeid peetakse maanduse pidevuse tagamiseks piisavaks, kui püsiva hea juhtivuse saavutamiseks on rakendatud sellekohaseid meetmeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Flexible or pliable metal conduits shall not be used as protective conductors unless they are designed for that purpose.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Painduvaid ega järeleandvaid metall-paigaldustorusid ei tohi kasutada kaitsejuhina, väljaarvatult siis, kui need on selleks otstarbeks ette nähtud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	For lids, doors, cover plates and the like, the usual metal screwed connections and metal hinges are considered sufficient to ensure continuity provided that no electrical equipment is attached to them except equipment which is part of a PELV or SELV system.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>b)	Kaante, uste, katteplaatide jms puhul arvestatakse metall-kruviliiteid ja metallhingesid tavaliselt piisava pidevuse tagamise meetmetena, kui nendega ei ole ühendatud elektriseadmeid, väljaarvatult seadmed, mis kuuluvad maandatavasse või maandusvabasse kaitseväikepingesüsteemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If devices with a voltage exceeding the limits of PELV or SELV systems, as appropriate, are attached to lids, doors, or cover plates, additional measures shall be taken to ensure earth continuity.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui seadised, mille pinge on üle maandatavate või maandusvabade kaitseväikepingesüsteemide piirväärtuste, on, nagu asjakohane, kinnitatud kaante, uste või katteplaatide külge, tuleb maanduse pidevuse tagamiseks rakendada lisameetmeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These parts (lids, doors or covers) shall be fitted with a protective conductor (PE) whose cross-sectional area is in accordance with Table 3 depending on the highest rated operational current Ie of the devices attached.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Need osad (kaaned, uksed või katteplaadid) tuleb varustada kaitsejuhiga (PE), mille ristlõige vastab tabelile 3 sõltuvalt paigaldatud seadiste suurimast tunnustalitlusvoolust Ie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, if the rated operational current of the attached devices is less than or equal to 16 A an equivalent electrical connection specifically designed and verified for this purpose shall be provided (e.g. sliding contact, hinges protected against corrosion).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Alternatiivselt, kui kinnitatud seadiste tunnus-talitlusvool ei ole üle 16 A, tuleb ette näha samaväärne spetsiaalselt selleks ette nähtud ja kontrollitud elektriline ühendus (nt liugkontakt või korrosiooni eest kaitstud hinged).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exposed conductive parts of a device that cannot be interconnected for earthing continuity by the fixing means of the device shall be connected to the earthing arrangement of the assembly by a conductor whose cross-sectional area is chosen according to Table 3.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Seadise pingealtid juhtivad osad, mida ei saa ühendada maanduse pidevuse saavutamiseks seadise enda kinnitusvahendite abil, tuleb ühendada kooste maandusahela külge juhiga, mille ristlõige on valitud vastavalt tabelile 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Certain exposed-conductive-parts of an assembly that do not constitute a danger need not be connected to the earthing arrangement, either;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Maandusahelaga ei ole vaja ühendada kooste mõningaid pingealteid juhtivaid osi, mis ei kujuta ohtu põhjusel, et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	because they cannot be touched on large surfaces or grasped with the hand; or</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— neid ei saa puudutada laiapinnaliselt ega haarata käega või</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	because they are of small size (approximately 50 mm by 50 mm) or so located as to exclude any contact with live parts.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— need on väikeste mõõtmetega (ligikaudu 50 mm × 50 mm) või paiknevad selliselt, et igasugune kokkupuude pingestatud osadega on välistatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This applies to screws, rivets and nameplates.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>See kehtib kruvide, neetide ja nimesiltide kohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It also applies to electromagnets of contactors or relays, magnetic cores of transformers, certain parts of releases, or similar, irrespective of their size.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>See kehtib ka kontaktorite või releede elektromagnetite, trafode magnetsüdamike, vabastite mõningate osade või muude taoliste puhul nende mõõtmetest sõltumata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When removable parts are equipped with a metal supporting surface, these surfaces shall be considered sufficient for ensuring earth continuity provided that the pressure exerted on them is sufficiently high.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui eemaldatavad osad on varustatud metall-kandepinnaga, tuleb need pinnad arvata piisavaks, et tagada maanduse pidevus, kui sellele pinnale avaldatav surve on piisavalt suur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.3.2.3 	Requirements for protective conductors providing protection against the consequences of earth faults in external circuits supplied through the class I or class II assemblies</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.3.2.3 Nõuded kaitsejuhtidele, mis tagavad kaitse maaühenduste tagajärgede eest välisahelates, mida toidetakse läbi I või II klassi koostete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A protective conductor within the assembly shall be designed so that it can withstand the highest thermal and dynamic stresses arising from earth fault currents in external circuits supplied through the assembly in its installed location.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Koostes sisalduv kaitsejuht peab olema valitud selliselt, et see võiks vastu pidada suurimatele soojuslikele ja dünaamilistele toimetele, mis võivad tekkida läbi kooste toidetavate välisahelate maaühenduste korral kooste paigaldamiskohas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conductive structural parts may be used as a protective conductor or a part of it.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Juhtivaid tariosi võib kasutada kaitsejuhina või selle osana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Additional requirements for protective conductors for class II assemblies are given in 8.4.4 c).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Lisanõuded II klassi koostete kaitsejuhtidele on esitatud jaotise 8.4.4 punktis c.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Except where verification of the short-circuit withstand strength is not required in accordance with 10.11.2, verification shall be made in accordance with 10.5.3.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kontroll tuleb sooritada jaotise 10.5.3 järgi, välja arvatud juhtumil, mil jaotise 10.11.2 kohaselt pole vaja lühisetaluvust kontrollida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In principle, with the exception of the cases mentioned below, protective conductors within an assembly shall not include a disconnecting device (switch, disconnector, etc.).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Põhimõtteliselt ei tohi koostesisestes kaitsejuhtides olla lahutusaparaate (lihtlüliteid, lahklüliteid jne), väljaarvatult allpool kirjeldatud juhtumeil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	In the run of protective conductors, links shall be permitted which are removable by means of a tool and accessible only to authorized person(s) (these links may be required for certain tests).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— Kaitsejuhtide ahelates tuleb lubada lülisid, mida saab eemaldada tööriista abil ja millele juurdepääs on üksnes volitatud isiku(te)l (neid lülisid võidakse nõuda mõningatel katsetustel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	Where continuity can be interrupted by means of connectors or plug-and-socket devices, the protective circuit shall be interrupted only after the live conductors have been interrupted and continuity shall be established before the live conductors are reconnected.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— Kui pidevuse saab katkestada liitmike või pistikühenduste abil, peab kaitseahelat saama katkestada alles pärast seda, kui pingestatud juhid on lahti ühendatud, ja pidevus tuleb taastada enne pingestatud juhtide taasühendamist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the case of an assembly containing structural parts, frameworks, enclosures, etc. made of conducting materials, a protective conductor, if provided, need not be insulated from these parts.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui koostesse kuuluvad tariosad, sõrestikud, ümbrised jne on valmistatud juhtivast materjalist, ei ole kaitsejuhti, kui see on olemas, vaja nendest osadest isoleerida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conductors to voltage-operated fault detection devices, including the conductors connecting them to a separate earth electrode, shall be insulated when specified by their manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Pinge järgi rikkeid tuvastavate kaitseseadistega ühendatud juhid, sealhulgas juhid, mis ühendavad neid eraldiasuva maanduselektroodiga, tuleb isoleerida, kui selle on sätestanud nende seadiste tootja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This can also apply to the earth connection of the transformer neutral.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>See võib kehtida ka trafo neutraali maandamisühenduse kohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The cross-sectional area of protective conductors (PE, PEL, PEM, PEN) in an assembly to which external conductors are intended to be connected shall be not less than the value calculated with the aid of the formula indicated in Annex B using the highest earth fault current and fault duration that may occur and taking into account the limitation of the SCPDs that protect the corresponding live conductors.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kaitsejuhtide (PE-, PEL-, PEM- või PEN-juhtide) ristlõige koostes, millega välisjuhid on ette nähtud ühendada, ei tohi olla väiksem kui lisas B esitatud valemi järgi ning võimaliku suurima rikkevoolu ja rikke kestuse põhjal arvutatud väärtus, arvestades seejuures piiranguid, mis tulenevad vastavaid pingestatud juhte kaitsvatest lühisekaitseaparaatidest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The short-circuit withstand strength is verified according to 10.5.3.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Lühisetaluvust tuleb kontrollida jaotise 10.5.3 kohaselt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For PEL, PEM and PEN conductors, the following additional requirements apply.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>PEL-, PEM- ja PEN-juhtidele kehtivad järgmised lisanõuded:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	The minimum cross-sectional area shall be 10 mm2 for copper or 16 mm2 for aluminium.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— vaskjuhtide ristlõige peab olema vähemalt 10 mm2, alumiiniumjuhtide ristlõige aga vähemalt 16 mm2;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	The PEN and PEM conductor shall have a cross-sectional area not less than that required for a neutral  and mid-point conductor (see 8.6.1).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— PEN- ega PEM-juhi ristlõige ei tohi olla väiksem kui neutraal- või keskjuhi nõutav ristlõige  
+(vt jaotis 8.6.1);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	The PEN, PEL and PEM conductors need not be insulated within a class I assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— PEN-, PEL- ega PEM-juhte pole vaja I klassi kuuluva kooste sisemuses isoleerida;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	Structural parts shall not be used as a PEN, PEL and PEM conductor; however, mounting rails according to IEC 60947-7-2:2009, Annex A, made of copper or aluminium may be used.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— PEN-, PEL- ega PEM-juhina ei tohi kasutada tariosi, kuid võib kasutada standardi IEC 60947-7-2:2009 lisale A vastavaid vasest või alumiiniumist paigaldusliiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For details of requirements for terminals for external protective conductors, see 8.8.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Üksikasjalikud nõuded väliste kaitsejuhtide klemmide kohta on esitatud jaotises 8.8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.3.3 	Electrical separation 
+Electrical separation of individual circuits is intended to prevent electrical shock through contact with exposed-conductive-parts, which can become live when basic insulation of the circuit fails.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.3.3 	Elektriline eraldamine 
+Üksikahelate elektriline eraldamine on ette nähtud selleks, et vältida elektrilööki kokkupuutel pingealdiste juhtivate osadega, mis võivad pingestuda ahela põhiisolatsiooni rikke korral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For this type of protection, see IEC 60364-4-41:2005 and IEC 60364-4-41:2005/AMD1:2017.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Seda liiki kaitse kohta vt standardid IEC 60364-4-41:2005 ja IEC 60364-4-41:2005/AMD1:2017.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.4 	Additional requirements for class II assemblies</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.4 Lisanõuded II klassi kuuluvatele koostetele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	For basic and fault protection, by double or reinforced insulation, the following additional requirements shall be met.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>a)	Põhi- ja rikkekaitse kohta tuleb topelt- või tugevdatud isolatsiooni korral kasutada alljärgnevaid lisanõudeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The electrical equipment shall be enclosed in insulating material which is equivalent of double or reinforced insulation.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Elektriseadmed tuleb ümbritseda isoleermaterjalist ümbrisega, mis on võrdväärne topelt- või tugevdatud isolatsiooniga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The enclosure shall carry the symbol   which shall be visible from the outside of the protected space.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Ümbrisel peab olema väljastpoolt kaitstavat ruumi nähtav sümbol  .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE 1</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>MÄRKUS 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The enclosure can be the protected space or the protected space can be behind a barrier behind the door of an enclosure.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Ümbris võib kas ümbritseda kaitstavat ruumi või võib kaitstav ruum olla ümbrise ukse taga oleva katte taga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE 2</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>MÄRKUS 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The requirement of a class II assembly can be fulfilled by means of a metal enclosure separated from hazardous live parts and protective PEL, PEM and PEN conductors by double or reinforced insulation.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>II klassi kuuluva kooste nõude võib täita metallümbrisega, mis on eraldatud ohtlikest pingestatud osadest ja PEL-, PEM- või PEN-kaitsejuhtidest topelt- või tugevdatud isolatsiooniga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	The enclosure shall at no point be pierced by conducting parts in such a manner that there is the possibility of a fault voltage being brought out of the enclosure.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>b)	Ümbrist ei tohi üheski kohas läbida juhtivad osad, mis võiksid põhjustada rikkepinge kandumist väljapoole ümbrist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This means that metal parts, such as actuator shafts that, for constructional reasons, have to be brought through the enclosure, shall be insulated on the inside or the outside of the enclosure from the live parts for the maximum rated insulation voltage and the maximum rated impulse withstand voltage of all circuits in the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>See tähendab, et metallosad, nagu täiturite võllid, mis konstruktsioonilistel põhjustel lähevad läbi ümbrise, peavad olema isoleeritud pingestatud osadest ümbrise sisemuses või väljaspool ümbrist vastavalt kooste kõigi ahelate isolatsiooni suurimale tunnuspingele ja suurimale tunnusimpulsstaluvuspingele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If an actuator, or similar, is made of metal (whether covered by insulating material or not), it shall be provided with insulation rated for the maximum rated insulation voltage and the maximum impulse withstand voltage of all circuits in the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui täitur või muu taoline on valmistatud metallist (kas isoleermaterjaliga kaetult või katmata), tuleb see varustada isolatsiooniga, mis vastab kooste kõigi ahelate isolatsiooni suurimale tunnuspingele ja suurimale tunnus-impulsstaluvuspingele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>c)	If an actuator, or similar, is principally made of insulating material, any of its metal parts which may become accessible in the event of insulation failure shall also be insulated from live parts for the maximum rated insulation voltage and the maximum rated impulse withstand voltage of all circuits in the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>c)	Kui täitur või muu taoline on põhiliselt isoleermaterjalist, peab iga selle metallosa, mis võib isolatsiooni tõrke korral tulla juurdepääsetavaks, olema pingestatud osadest samuti isoleeritud vastavalt kooste kõigi ahelate isolatsiooni suurimale tunnuspingele ja suurimale tunnus-impulsstaluvuspingele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The enclosure or protected space, when the class II assembly is ready for operation and connected to the supply, shall enclose all live parts, exposed-conductive-parts and parts belonging to a protective circuit in such a manner that they cannot be touched.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui II klassi kuuluv kooste on talitlusvalmis ja toiteallikaga ühendatud, peab kooste ümbris või kaitstud ruum ümbritsema kõiki pingestatud, pingealteid juhtivaid ja kaitsejuhiahelasse kuuluvaid osi selliselt, 
+et neid ei saaks puudutada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The enclosure shall give at least the degree of protection IP2XC (see IEC 60529:1989, IEC 60529:1989/AMD1:1999 and IEC 60529:1989/AMD2:2013).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Ümbris peab tagama vähemalt kaitseastme IP2XC  (vt standardid IEC 60529:1989, IEC 60529:1989/AMD1:1999 ja IEC 60529:1989/AMD2:2013).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If an external protective PEL, PEM or PEN conductor is passed through the class II assembly, the assembly should be provided with a suitably identified terminal.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui väline PEL-, PEM- või PEN-kaitsejuht läbib II klassi kuuluvat koostet, tuleb kooste varustada sobivalt tuvastatava klemmiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>d)	Inside the enclosure or protected space of a class II assembly, the protective conductor, (PE, PEL, PEM or PEN conductor) and its terminal shall be insulated from the live parts and the exposed-conductive-parts.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>d)	II klassi kuuluva kooste ümbrise või kaitstava ruumi sees peab kaitsejuht (PE-, PEL-, PEM- või  PEN-juht) ja selle klemm olema pingestatud ja pingealdistest juhtivatest osadest isoleeritud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exposed-conductive-parts within the assembly shall not be connected to the protective conductor.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Koostesiseseid pingealteid juhtivaid osi ei tohi ühendada kaitsejuhiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This applies also to built-in apparatus, even if they have a connecting terminal for a protective conductor.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>See kehtib ka koostesse sisse ehitatud aparaatide kohta, isegi kui neil on kaitsejuhi ühendamiseks mõeldud ühendusklemm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>e)	If doors or covers of the enclosure can be opened without the use of a key or tool, a barrier of insulating material shall be provided that will afford protection of at least IPXXB against unintentional contact not only with the accessible live parts, but also with the exposedconductive-parts that are only accessible after the door or cover has been opened; this barrier, however, shall not be removable except with the use of a tool.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>e)	Kui ümbrise uksi ja katteid saab avada võtit või tööriista kasutamata, tuleb ette näha isoleermaterjalist kaitsekate, et võimaldada kaitseastet vähemalt IPXXB tahtmatu kokkupuute eest mitte üksnes juurdepääsetavate pingestatud osadega, vaid ka pingealdiste juhtivate osadega, mis on ligipääsetavad üksnes pärast ukse või katte avamist; seda kaitsekatet ei tohi aga olla võimalik eemaldada, väljaarvatult tööriista kasutamise teel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.5 	Limitation of steady-state touch currents and charge 
+If the assembly contains items of equipment that may retain charges after they have been switched off (capacitors banks without internal basic protection, etc.), a warning label is required.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.5 Püsi-puutevoolu ja -puutelaengu piiramine 
+Kui kooste sisaldab seadmeid, millel võivad pärast väljalülitamist säilida laengud (ilma sisemise põhikaitseta kondensaatorpatareid jne), tuleb koostele kinnitada hoiatussilt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Small capacitors such as those used for arc extinction, for delaying the response of relays, etc., shall not be considered dangerous.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Väikekondensaatoreid, mida kasutatakse näiteks kaarekustutuseks või releede viivitusahelates jne, ei peeta ohtlikuks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unintentional contact is not considered dangerous if the voltages resulting from static charges fall below a DC voltage of 60 V in less than 5 s after disconnection from the power supply.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Tahtmatut puudet ei peeta ohtlikuks, kui staatilistest laengutest tingitud alalispinge langeb alla 60 V vähem kui 5 s jooksul pärast elektritoite väljalülitamist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Touch currents are limited by ensuring exposed-conductive-parts are effectively connected to the protective conductor.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Puutevoolusid saab piirata, kui tagada, et pingealtid juhtivad osad on tõhusalt ühendatud kaitsejuhiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See 10.5.2.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Vt ka jaotis 10.5.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.6 	Operating and servicing conditions</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.6 Talitlus- ja teenindusolud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.6.1 	Devices to be operated or components to be replaced by ordinary persons</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.6.1 	Tavaisikute käitatavad seadised ja vahetatavad komponendid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Protection against any contact with live parts shall be maintained when operating devices or when replacing components.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Pingestatud osade täielik puutekaitse peab säilima seadiste käitamisel ja komponentide vahetamisel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The minimum degree of protection shall be IPXXC.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kaitseaste peab olema vähemalt IPXXC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>During the replacement of certain lamps or fuselinks, openings larger than those defined by the degree of protection IPXXC are allowed.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Mõningate lampide või sularite vahetamise ajal lubatakse avausi, mis on suuremad, kui kaitseastmega IPXXC sätestatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.6.2 	Requirements related to accessibility in service by authorized persons</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.6.2 	Nõuded volitatud isikute juurdepääsetavusele talitlusel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.6.2.1 	General</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.6.2.1 Üldnõuded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Depending on the application and accessibility necessary in service, by authorized person(s), one or more of the following requirements in 8.4.6.2.2 to 8.4.6.2.4 shall be fulfilled.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Olenevalt rakendusest ja volitatud isiku(te) vajalikuks juurdepääsetavuseks talitlusel tuleb täita üht või enamat alljärgnevatest jaotistes 8.4.6.2.2 kuni 8.4.6.2.4 esitatud nõuetest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These requirements shall be complementary to the basic protection specified in 8.4.2.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Need nõuded peavad täiendama jaotises 8.4.2 sätestatud põhikaitset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If doors or covers of the assembly can be opened by authorized persons by overriding an interlock to obtain access to live parts, then the interlock shall automatically be restored on reclosing the door(s) or replacing the cover(s).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui kooste uksi või katteid saavad volitatud isikud blokeeringu mahavõtmise teel juurdepääsuks pingestatud osadele avada, peab blokeering automaatselt taastuma ukse (või uste) taas sulgumise või katte (või katete) taas-kohaleasetumise teel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Obstacles can be used to prevent either:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Tõkkeid võib kasutada, et vältida kas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	unintentional bodily approach to live parts; or</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— tahtmatut kehalist lähenemist pingestatud osadele või</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	unintentional contact with live parts during the operation of live equipment in normal service.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— tahtmatut kokkupuudet pingestatud osadega pingestatud seadmete normaaltalitlusel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Obstacles may be removed without using a key or tool but shall be so secured as to prevent unintentional removal.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Tõkkeid võib kõrvaldada võtme või tööriista kasutamiseta, kuid need peavad olema sedavõrd turvaliselt kinnitatud, et tahtmatu kõrvaldamine oleks välditud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The distance between a conductive obstacle and the live parts they protect shall not be less than the values specified for the clearances and creepage distances in 8.3.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kaugus juhtiva tõkke ja pingestatud osade vahel, mida see kaitseb, ei tohi olla väiksem kui jaotises 8.3 õhk- ja roomevahemike jaoks sätestatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where a conductive obstacle is separated from hazardous live parts by basic protection only, it is an exposed-conductive-part, and measures for fault protection shall also be applied.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui juhtiv tõke on eraldatud ohtlikest pingestatud osadest üksnes põhikaitsega, on see pingealdis juhtiv osa ja tuleb ühtlasi rakendada rikkekaitseviise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.6.2.2 	Requirements related to accessibility for inspection and similar operations</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.6.2.2 Nõuded juurdepääsetavusele seoses ülevaatuse ja muude taoliste toimingutega</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The assembly shall be constructed in such a way that certain operations can be performed when the assembly is in service and energized.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kooste peab olema konstrueeritud selliselt, et mõningaid toiminguid saab sooritada ka siis, kui kooste on talitluses ning pingestatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Such operations may consist of:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Sellised toimingud võivad sisaldada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	visual inspections of;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— visuaalset ülevaatust</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	switching devices and other apparatus;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>•	lülitus- ja muude aparaatide kohta,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	settings and indicators of relays and releases;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>•	releede ja vabastite sätete ja näidikute kohta,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>•	conductor connections and marking;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>•	juhtide ühenduste ning märgistuse kohta;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	adjusting and resetting of relays, releases and electronic devices;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— releede, vabastite ja elektroonikaseadiste häälestamist ja ennistamist;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	replacement of fuse-links;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— sularite vahetamist;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	replacement of indicating lamps;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— indikaatorlampide vahetamist;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	certain fault location operations, for example voltage and current measuring with suitably designed and insulated devices.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— mõningaid rikketuvastusoperatsioone, näiteks pinge ja voolu mõõtmist sobivalt kujundatud ja isoleeritud seadistega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.6.2.3 	Requirements related to accessibility for maintenance</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.6.2.3 Nõuded juurdepääsetavusele hoolduse puhul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To enable maintenance on an isolated functional unit or isolated group of functional units in the assembly, with adjacent functional units or groups still energized, necessary measures shall be taken.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Et võimaldada kooste turvalahutatud funktsionaalühiku või turvalahutatud funktsionaalühikute rühma hooldust, kui naaber-funktsionaalühikud või nende rühmad on jäetud pingestatuks, tuleb rakendada vajalikke meetmeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The choice depends on such factors as service conditions, frequency of maintenance, competence of the authorized person, as well as local installation rules.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Meetmete valik sõltub sellistest teguritest nagu teenindusolud, hooldustööde sagedus, volitatud isikute pädevus ja ka kohalikud paigaldusreeglid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Such measures may include the following:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Sellised meetmed võivad sisaldada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	sufficient space between the actual functional unit or group and adjacent functional units or groups.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— piisavat vahekaugust käidetava funktsionaalühiku või funktsionaalühikute rühma ja naaberfunktsionaalühikute või nende rühmade vahel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is recommended that parts likely to be removed for maintenance have, as far as possible, retainable fastening means;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Soovitatakse, et osad, mida hooldamiseks tõenäoliselt tuleb eemaldada, oleksid varustatud, niipalju kui võimalik, mitteeralduvate kinnitusvahenditega;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	use of barriers or obstacles designed and arranged to protect against direct contact with equipment in adjacent functional units or groups;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— kaitsekatete või -tõkete kasutamist, mis on kujundatud ja paigutatud kaitseks otsepuute eest naaberfunktsionaalühikutes või nende rühmades paiknevate seadmetega;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	use of terminal shields;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— klemmikatete kasutamist;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	use of compartments for each functional unit or group;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— lahtrite kasutamist iga funktsionaalühiku või nende rühma jaoks;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	insertion of additional protective means provided or specified by the assembly manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— kooste tootja ettenähtud või sätestatud lisa-kaitseviiside rakendamist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.4.6.2.4 	Requirements related to accessibility for extension when energized</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.4.6.2.4 Nõuded seoses juurdepääsetavusega pingestatud kooste laiendamisel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When it is required to enable future extension of an assembly with additional functional units or groups, with the rest of the assembly still energized, the requirements specified in 8.4.6.2.3 shall apply, subject to agreement between the assembly manufacturer and the user.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui nõutakse kooste edasise laiendamise võimaldamist lisa-funktsionaalühikute või nende rühmadega oludes, mil kooste ülejäänud osa on jäetud pinge alla, tuleb rakendada jaotise 8.4.6.2.3 nõudeid vastavalt kooste tootja ja kasutaja kokkuleppele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These requirements also apply for the insertion and connection of additional outgoing cables when the existing cables are energized.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Neid nõudeid rakendatakse ka lisa-väljundkaablite paigaldamisel ja külgeühendamisel, kui olemasolevad kaablid on pingestatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The extension of busbars and connection of additional units to their incoming supply shall not be made when energized, unless the assembly is designed for this purpose.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kogumislattide pikendamist ja lisaühikute ühendamist nende sisend-toiteliiniga ei tohi sooritada pingestatud olukorras, välja arvatud juhul, mil kooste on selleks otstarbeks ette nähtud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.5 	Incorporation of switching devices and components</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.5 Lülitusseadiste ja komponentide ühendamine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.5.1	Fixed parts</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.5.1 Kohtkindlad osad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For fixed parts (see 3.2.1), the connections of the main circuits (see 3.1.3) shall only be connected or disconnected when the assembly is not energized.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kohtkindlate osade (vt termin 3.2.1) puhul võib peaahelate (vt termin 3.1.3) ühendusi kokku või lahti ühendada üksnes siis, kui kooste ei ole pingestatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Removal and installation of fixed parts requires the use of a tool.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kohtkindlate osade eemaldamine ja paigaldamine nõuab tööriista kasutamist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The disconnection of a fixed part shall require the isolation of the complete assembly or part of it.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kohtkindla osa lahtiühendamiseks tuleb nõuda kogu kooste või selle osa turvalahutamist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In order to prevent unauthorized operation, the switching device may be provided with means to secure it in one or more of its positions.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Volitamata toimingute vältimiseks võib lülitusseadise varustada vahenditega selle kindlaks fikseerimiseks ühes või mitmes asendis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.5.2	Removable parts</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.5.2 Eemaldatavad osad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The removable parts shall be so constructed that their electrical equipment can be safely removed from, or connected to, the main circuit even if this circuit is live.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Eemaldatavad osad peavad olema sellise ehitusega, et nende elektriseadmeid saaks peaahelast ohutult eemaldada või sellega kokku ühendada ka siis, kui peaahel on pingestatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The removable parts may be provided with an insertion interlock (see 3.2.5).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Eemaldatavad osad võivad olla varustatud sisestusblokeeringuga (vt termin 3.2.5).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clearances and creepage distances (see 8.3) shall be complied with during transfer from one position to another.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Teisaldamise ajal ühest asendist teise tuleb järgida õhk- ja roomevahemikke (vt jaotis 8.3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A removable part shall be fitted with a device that ensures that it can only be removed and inserted after its main circuit has been switched off from the load.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Eemaldatav osa peab olema varustatud seadisega, mis võimaldab seda osa eemaldada ja tagasi asetada vaid pärast seda, kui selle peaahel on koormusest lahutatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If unauthorized operation, can occur, then the removable parts shall be provided with a locking means to secure them in one or more of their positions.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Juhtuda 	võivate 	volitamata 	operatsioonide 	vältimiseks 	tuleb 	eemaldatavad 	osad 	varustada lukustusvahenditega, et neid saaks kindlalt kinnitada nende ühte või mitmesse asendisse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.5.3 	Selection of switching devices and components 
+Switching devices and components incorporated in assemblies shall comply with the relevant IEC standards.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.5.3 Lülitusseadiste ja komponentide valik 
+Koostetes sisalduvad lülitusseadised ja komponendid peavad vastama asjakohaste IEC standarditele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The switching devices and components shall be suitable for the particular application with respect to the external design of the assembly (e.g. open type or enclosed), their rated voltages, rated currents, rated frequency, service life, making and breaking capacities, short-circuit withstand strength, etc.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Lülitusseadised ja komponendid peavad sobima ettenähtud kasutamiseks sõltuvalt kooste väliskujundusest (nt lahtine või kinnine kooste), nende tunnuspingetest, tunnusvooludest, tunnussagedusest, talitluskestusest, sisse- ja väljalülitusvõimest, lühisetaluvusest jne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The rated insulation voltage, and rated impulse withstand voltage of the devices installed in the circuit shall be equal or higher than the corresponding value assigned to that circuit.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Ahelasse paigaldatud seadiste isolatsiooni tunnuspinge ja tunnus-impulsstaluvuspinge peavad olema vähemalt sama kõrged kui ahelale ette nähtud vastavad väärtused.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In some cases, overvoltage protection may be necessary (e.g. for equipment fulfilling overvoltage category II (see 3.6.11)).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Mõnel juhul võib vaja olla liigpingekaitset (nt seadiste puhul, mis vastavad II liigpingekategooriale (vt termin 3.6.11).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The switching devices and components having a short-circuit withstand strength and/or a breaking capacity which is insufficient to withstand the stresses likely to occur at the place of installation, shall be protected by means of protective devices with suitable current-limiting characteristics, for example fuses or current-limiting circuit-breakers.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Lülitusseadiseid ja -komponente, mille lühisetaluvus ja/või lahutusvõime pole piisavad paigalduskohal tõenäoliselt võimalike toimete talumiseks, tuleb kaitsta voolupiiravate kaitseseadistega, näiteks sulavkaitsmete või voolupiiravate kaitselülititega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When selecting current-limiting protective devices for built-in switching devices, the maximum permissible values specified by the device manufacturer shall be taken into account with due regard to coordination (see 9.3.4).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Voolupiiravate kaitseseadiste valikul sisseehitatud lülitusseadiste jaoks tuleb arvestada seadise tootja sätestatud suurimaid lubatavaid väärtusi sõltuvalt nende nõutavast koordinatsioonist (vt jaotis 9.3.4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Coordination of switching devices and components shall comply with the relevant IEC standards.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Lülitusseadiste ja komponentide koordineerimine peab järgima asjakohaseid IEC standardeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Coordination of motor starters with short-circuit protective devices shall comply with IEC 609474-1:2018.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Mootorikäivitite koordineerimine lühisekaitseaparaatidega peab vastama standardile  
+IEC 60947-4-1:2018.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See also 9.3.4.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Vt ka jaotis 9.3.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE Guidance is given in IEC TR 61912-1:2007 and IEC TR 61912-2:2009.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>MÄRKUS 	Juhised on esitatud dokumentides IEC TR 61912-1:2007 ja IEC TR 61912-2:2009.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.5.4 	Installation of switching devices and components</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.5.4 Lülitusseadiste ja komponentide paigaldamine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Switching devices and components shall be installed and wired in the assembly in accordance with instructions provided by their manufacturers and in such a manner that their proper functioning is not impaired by interaction, such as heat, switching emissions, vibrations, electromagnetic fields, which are present in normal operation.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Lülitusseadised ja komponendid tuleb koostesse paigaldada ja juhtmetega ühendada vastavalt nende tootjate antud juhistele ning viisil, mis normaaltalitlusega kaasnevate toimete, näiteks kuumuse, lülitamisel toimuva gaasieralduse, vibratsiooni ja elektromagnetiliste väljade tõttu ei kahjusta nende nõuetekohast talitlust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the case of electronic equipment, this may necessitate the separation or screening of all electronic signal processing circuits.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Elektroonikaseadmete puhul võib see tingida vajaduse eraldada või varjestada kõiki elektroonilisi signaalitöötlusahelaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When fuses are installed, the original manufacturer shall state the type and rating of the fuselinks to be used.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Sulavkaitsmete paigaldamise korral peab esmatootja määrama kasutatavate sularite tüübi ja tunnusandmed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.5.5 	Accessibility</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.5.5 Juurdepääsetavus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Adjusting and resetting devices, that have to be operated inside the assembly, shall be easily accessible.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Koostesiseselt käitatavatele seadistus- ja ennistusvahenditele peab hõlpsasti juurde pääsema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Functional units mounted on the same support (mounting plate, mounting frame) and their terminals for external conductors shall be so arranged as to be accessible for mounting, wiring, maintenance and replacement.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Ühele ja samale alusele (paigaldusplaadile, paigaldusraamile) monteeritud funktsionaalühikud ja nende välisjuhtide klemmid peavad olema korraldatud selliselt, et neile pääseks juurde monteerimiseks, juhtmete ühendamiseks, hooldamiseks ja asendamiseks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assuming the base of the assembly and the normal standing area for operational personnel are at the same level, the following accessibility requirements associated with floor-standing assemblies shall apply.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Eeldades, et kooste alus ja käidupersonali tavaline seisupind on ühelsamal tasemel, tuleb põrandal seisvate koostete puhul rakendada järgmisi juurdepääsunõudeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	The terminals, excluding terminals for protective conductors, shall be situated at least 0,2 m above the base of the assembly and, moreover, be so placed that the cables can be easily connected to them with their respective bending radii respected.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— Klemmid, välja arvatud kaitsejuhiklemmid, peavad asetsema kooste alusest vähemalt 0,2 m kõrgusel ja selliselt, et juhtmeid või kaableid saaks hõlpsasti nende külge ühendada, arvestades nende vastavat painutusraadiust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	Indicating instruments that need to be read by the operator shall be located within a zone between 0,2 m and 2,2 m above the base of the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— Näitmõõteriistad, mille näite on operaatoril vaja lugeda, peavad asetsema kooste alusest 0,2 m kuni 2,2 m kõrgusel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	Operating devices such as handles, push buttons, or similar shall be located at such a height that they can easily be operated; this means that their centreline shall be located within a zone between 0,2 m and 2 m above the base of the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— Juhtimisseadised, nagu näiteks käepidemed, nupplülitid või muud taolised, peavad asetsema kõrgusel, mis võimaldab nende hõlpsat käsitsemist; see tähendab, et nende keskjoon peab asetsema kooste alusest 0,2 m kuni 2 m kõrgusel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Devices which are infrequently operated (e.g. less than once per month) may be installed at a height up to 2,2 m.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Seadised, mida käsitsetakse harva (nt harvemini kui kord kuus), võidakse paigaldada kõrgusele kuni 2,2 m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	Actuators for emergency switching devices (see 536.4.2 of IEC 60364-5-53:2001) shall be accessible within a zone between 0,8 m and 1,6 m above the base of the assembly.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— Hädalülitusseadiste aktivaatorid (vt standardi IEC 60364-5-53:2001 jaotis 536.4.2) peavad olema juurdepääsetavad tsoonis, mis paikneb kooste alusest 0,8 m kuni 1,6 m vahelisel kõrgusel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.5.6 	Barriers</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.5.6 Kaitsekatted</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Barriers for manual switching devices shall be so designed that the switching emissions do not present a danger to the operator.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Käsilülitusseadiste kaitsekatted peavad olema kujundatud selliselt, et lülitamisel tekkiv gaasieraldus ei tekitaks ohtu operaatorile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To minimize danger when replacing fuse-links, interphase barriers shall be applied, unless the design and location of the fuses makes this unnecessary.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Võimaliku ohu minimeerimiseks sularite asendamisel tuleb rakendada faasidevahelisi kaitsekatteid, välja arvatud juhul, mil sulavkaitsmete ehitus ja paigutus seda ei nõua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.5.7 	Direction of operation and indication of switching positions</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.5.7 Toimingu suuna ja lülitusasendite näitamine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The operational positions of components and devices shall be clearly identified.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Komponentide ja seadiste talitlusasendid peavad olema selgelt tuvastatavad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Operational positions are the “on” and the “off” position (see 8.1.6 of IEC 60947-1:2020).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Talitlusasendid on „sees“ ja „väljas“ (vt standardi IEC 60947-1:2020 jaotis 8.1.6).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A tripped position is not considered as an operational position and need not to be indicated.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Vabastunud asendit ei arvestata talitlusasendina ja selle tähistamist ei nõuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the direction of operation is not in accordance with IEC 60447:2004, then the direction of operation shall be clearly identified.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui toimingu suund ei ole kooskõlas standardiga IEC 60447:2004, tuleb toimingu suund selgelt ära näidata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.5.8 	Indicator lights and push-buttons</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.5.8 Indikaatorlambid ja nupplülitid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unless otherwise specified in the relevant product standard, the colours of indicator lights and push-buttons shall be in accordance with IEC 60073:2002.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui asjakohases tootestandardis ei ole sätestatud teisiti, peavad indikaatorlampide ja nupplülitite värvid olema kooskõlas standardiga IEC 60073:2002.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.5.9 	Power factor correction banks 
+For power factor correction banks incorporated in assemblies, the requirements of IEC 61921:2017 shall be met.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.5.9 Võimsusteguri korrigeerimise kondensaatorpatareid 
+Kui koostetesse on sisse ehitatud võimsusteguri korrigeerimise kondensaatorpatareid, tuleb järgida standardi IEC 61921:2017 nõudeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>IEC 61439 standard is the principal reference for the verification required by IEC 61921:2017.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Peamine pädev standard standardiga IEC 61921:2017 nõutava kontrolli jaoks on IEC 61439.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.6 	Internal electrical circuits and connections</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.6 Sisemised elektriahelad ja -ühendused</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.6.1 	Main circuits</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.6.1 Peaahelad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The busbars (bare or insulated, see 3.1.5) shall be arranged in such a manner that an internal short-circuit is not to be expected.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kogumislatid (isoleerimata või isoleeritud, vt termin 3.1.5) peavad olema korraldatud selliselt, et nendevaheline lühis poleks tõenäoline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They shall be rated at least in accordance with the requirements concerning the short-circuit withstand strength (see 9.3) and designed to withstand at least the short-circuit stresses limited by the protective device(s) on the supply side of the busbars.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Need peavad olema kooskõlas vähemalt nõuetega, mis kehtivad lühisetaluvuse kohta (vt jaotis 9.3) ja kavandatud taluma vähemalt lattide toitepoole kaitseaparaadi või  -aparaatidega piiratud lühisvoolu toimeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Within one section, the conductors (including distribution busbars) between the main busbars and the supply side of functional units – or in the case of a single section assembly, between the load terminals of the incoming device and the supply terminals of each outgoing SCPD – as well as the components included in these units, may be rated on the basis of the reduced shortcircuit stresses occurring on the load side of the respective short-circuit protective device within each unit.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Ühe sektsiooni piirides võib pealattide ja funktsionaalühikute toitepoole vaheliste juhtide (sealhulgas jaotuslattide) – või ühesektsioonilise kooste korral sisendseadise koormuspoolsete klemmide ja iga väljund-lühisekaitseaparaadi toiteklemmide vahel – nagu ka nendes ühikutes olevate komponentide tunnusandmeid, valida vastavalt igas ühikus asuva lühisekaitseaparaadi koormuspoole vähendatud lühisvoolutoimete järgi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is provided that these conductors are arranged so that under normal operation, an internal short-circuit between live parts and/or between live parts and earth is not to be expected (see 8.6.4).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>On ette nähtud nende juhtide korraldamine selliselt, et normaaltalitluses ei eeldata sisemist lühist pingestatud osade vahel ja/või pingestatud osade ja maa vahel (vt jaotis 8.6.4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The minimum cross-sectional area of the neutral conductor within a three-phase and neutral circuit shall be:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kolmefaasilise neutraaljuhti sisaldava ahela neutraaljuhi ristlõige peab olema vähemalt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	for circuits with a line conductor cross-sectional area up to and including 16 mm2, 100 % of that of the corresponding lines;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— kuni 16 mm2 ristlõikega faasijuhtide korral 100 % faasijuhi ristlõikest;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	for circuits with a line conductor cross-sectional area above 16 mm2, 50 % of that of the corresponding lines with a minimum of 16 mm2.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— üle 16 mm2 ristlõikega faasijuhtide korral 50 % faasijuhi ristlõikest, kuid mitte alla 16 mm2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>MÄRKUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are specific applications when a smaller neutral conductor is acceptable to the user.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>On erirakendusi, mille puhul väiksema ristlõikega neutraaljuht on kasutajale vastuvõetav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is assumed that the neutral:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Eeldatakse, et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a)	current does not exceed 50 % of the line currents;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>a)	neutraaljuhi vool ei ole suurem kui 50 % faasijuhi voolust;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>b)	conductor is made of the same material as the line conductors.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>b)	neutraaljuht on samast materjalist nagu faasijuhid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where this is not the case, the neutral conductor shall have at least the same conductance or current carrying capacity as that provided when the neutral conductor is of the same material as the line conductors.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui see nii ei ole, peab neutraaljuhi juhtivus või lubatav koormusvool olema selline, nagu see on ette nähtud juhtumil, mil neutraaljuht on samast materjalist nagu faasijuhid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For certain applications, which lead to high values of zero sequence harmonics (e.g. third order harmonics), higher cross-sections of the neutral conductor may be required as these harmonics of the lines are added in the neutral conductor and lead to high current load at higher frequencies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Mõningate rakenduste puhul, mis põhjustavad nulljärgnevusega harmooniliste komponentide (nt kolmandat järku harmooniliste) teket, võib nõuda neutraaljuhi suuremat ristlõiget, sest faasijuhi voolu harmoonilised komponendid summeeruvad neutraaljuhis ja põhjustavad suurt voolukoormust kõrgematel sagedustel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is subject to special agreement between the assembly manufacturer and the user.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>See küsimus on kooste tootja ja kasutaja vahelise erikokkuleppe aines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The PEL, PEM and PEN conductors shall be dimensioned as specified in 8.4.3.2.3.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>PEL-, PEM- ja PEN-juhtide mõõtmed tuleb valida, nagu see on sätestatud jaotises 8.4.3.2.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.6.2 	Auxiliary circuits 
+The design of the auxiliary circuits shall take into account the auxiliary circuit(s) earthing and ensure that an earth fault shall not cause unintentional dangerous operation.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.6.2 Abiahelad 
+Abiahelate ehitus peab arvestama abiahela(te) maandamist ja tagama, et maaühendusrike ei põhjustaks ohtlikku tahtmatut toimingut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In general, auxiliary circuits shall be protected against the effects of short-circuits.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Üldjuhul tuleb abiahelaid kaitsta lühistest tulenevate nähtuste eest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, a short-circuit protective device shall not be provided if its operation is liable to cause a danger.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Lühisekaitseaparaati ei tule aga ette näha juhul, mil selle talitlus võib tõenäoliselt põhjustada ohtu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In such a case, the conductors of auxiliary circuits shall be arranged in such a manner that a short-circuit is not to be expected (see 8.6.4).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Sellisel juhul tuleb abiahelate juhid korraldada selliselt, et lühise tekkimist ei saaks eeldada (vt jaotis 8.6.4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE Further information on the requirements for auxiliary circuits is given in IEC 60364-5-55:2011, IEC 60364-555:2011/AMD1:2012 and IEC 60364-5-55:2011/AMD2:2016, 557.3.4.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>MÄRKUS Lähem teave abiahelate kohta käivatest nõuetest on esitatud standardite IEC 60364-5-55:2011, IEC 60364-5-55:2011/AMD1:2012 ja IEC 60364-5-55:2011/AMD2:2016 jaotises 557.3.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.6.3 	Bare and insulated conductors</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.6.3 Paljad ja isoleeritud juhid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The connections of current-carrying parts shall not suffer undue alteration as a result of normal temperature-rise, ageing of the insulating materials and vibrations occurring in normal operation.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Voolujuhtivate osade ühendused ei tohi liialt kahjustuda normaalse ületemperatuuri, isoleermaterjalide vananemise ja normaaltalitluses toimuva vibratsiooni tagajärjel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The effects of thermal expansion, electrolytic action in the case of dissimilar metals, and the ageing due to the temperatures attained shall be taken into consideration.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Tuleb arvestada soojuspaisumist, elektrolüütilist toimet eri metallide puhul ja vananemist saavutatava temperatuuri tõttu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Connections to devices mounted on doors or to other movable parts shall be made using flexible conductors, e.g. Class 5 or Class 6 according to IEC 60228:2004, to allow the movement of the part.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Ühendused ustele või muudele liikuvatele osadele paigaldatud seadistega tuleb sooritada paindjuhtide, nt standardi IEC 60228:2004 järgi klassi 5 või klassi 6 kuuluvate juhtide kasutamise teel, et võimaldada osa liikumist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The conductors shall be anchored to the fixed part and to the movable part independent of the electrical connection terminals.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Juhid tuleb ankurdada kohtkindlale osale ja liikuvale osale sõltumatult elektrilistest ühendusklemmidest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Connections between current-carrying parts shall be established by means that ensure a sufficient and durable contact pressure.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Voolujuhtivate osade vahelised ühendused tuleb teostada vahenditega, mis tagavad piisava ja püsiva kontaktsurve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the verification of temperature-rise is carried out on the basis of tests (see 10.10.2), the selection of conductors and their cross-sections used inside the assembly shall be the responsibility of the original manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui ületemperatuuri kontroll sooritatakse katsetuste abil (vt jaotis 10.10.2), peab koostes kasutatavate juhtide ja nende ristlõike valik toimuma esmatootja vastutusel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If verification of temperature-rise is made following the assessment rules of 10.10.4, the conductors shall have a minimum cross-section according to IEC 60364-5-52:2009.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui ületemperatuuri kontroll toimub jaotise 10.10.4 hindamisreeglite põhjal, peab juhtide vähim ristlõige vastama standardile  IEC 60364-5-52:2009.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Examples on how to use this document for conditions inside an assembly are given in Tables H.1 and H.2.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Näited, kuidas seda dokumenti kohaldada vastavalt koostesisestele oludele, on esitatud tabelites H.1 ja H.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In addition to the current-carrying capacity of the conductors, the selection is governed by:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Lisaks juhtide voolutalumisvõimele mõjutavad juhtide valikut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	the mechanical stresses to which the assembly may be subjected;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— koostele mõjuda võivad mehaanilised toimed;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	the method used to lay and secure the conductors;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— juhtide asetamise ja kinnitamise viis;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	the type of insulation;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— isolatsiooni liik;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	the type of components being connected (e.g. switchgear and controlgear in accordance with IEC 60947 series; electronic devices or equipment).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— ühendatavate komponentide liik (nt standardisarjale IEC 60947 vastavad lülitusaparaadid; elektroonikaseadised või -seadmed).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the case of insulated solid or flexible conductors, the following criteria apply:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Isoleeritud jäikade või paindjuhtide puhul kehtivad alljärgnevad kriteeriumid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	They shall be rated for at least the rated insulation voltage (see 5.2.3) of the circuit concerned.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— Need peavad vastama vähemalt vaadeldava ahela isolatsiooni tunnuspingele (vt jaotis 5.2.3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	Conductors connecting two termination points shall have no intermediate joint, e.g. spliced or soldered.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— Juhtidel, mis ühendavad kahte otsastuspunkti, ei tohi olla vahepealset liidet, nt keerutus- ega jooteliidet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	Conductors with only basic insulation shall be prevented from coming into contact with bare live parts at different potentials.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— Juhte, millel on ainult põhiisolatsioon, tuleb hoida kokkupuute eest eri potentsiaali all olevate isoleerimata pingestatud osadega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	Contact of conductors with sharp edges shall be prevented.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— Tuleb vältida juhtide kokkupuudet teravate servadega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	Supply conductors to apparatus and measuring instruments in covers or doors shall be so installed that no mechanical damage can occur to the conductors as a result of movement of these covers or doors.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— Kattel või uksel paiknevate aparaatide ja mõõteriistade toitejuhid peavad olema paigaldatud selliselt, et katte või ukse liikumine ei tekitaks juhtide mehaanilisi kahjustusi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	Soldered connections to apparatus shall be permitted in assemblies only in cases where provision is made for this type of connection on the apparatus and the specified type of conductor is used.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— Jooteühendusi aparaatidega tohib koostes lubada üksnes juhtumeil, mil niisugune ühenduse liik on aparaadile ette nähtud ning kui kasutatakse sätestatud liiki juhte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	For apparatus other than those mentioned above, soldering cable lugs or soldered ends of stranded conductors are not acceptable under conditions of heavy vibration.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— Muude kui eelnimetatud aparaatide korral ei ole joodetud kaablikingad ega kiudjuhtmete joodetud otsad tugeva vibratsiooni oludes vastuvõetavad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In locations where, heavy vibrations exist during normal operation, for example in the case of dredger and crane operation, operation on board ships, lifting equipment and locomotives, attention should be given to the support of conductors.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kohtades, kus tugev vibratsioon toimub normaaltalitluse ajal, näiteks ekskavaatori või kraana talitlemise korral, laevade pardaseadmete talitlusel, tõsteseadmetes ja veduritel, tuleks tähelepanu pöörata juhtide toestamisele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	Generally, only one conductor should be connected to a terminal clamping unit; the connection of two or more conductors to one terminal clamping unit is permissible only in those cases where the terminal clamping units are designed for this purpose.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— Klemmiga tuleb üldjuhul ühendada ainult üks juht; kahe või enama juhi ühendamine ühe klemmi alla on lubatav vaid siis, kui klemmid on selleks ette nähtud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	Conductors of different circuits may be laid side by side, may occupy the same duct (for example conduit, trunking system), or may be in the same multiconductor cable if the arrangement does not impair the proper functioning of the respective circuits.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— Eri ahelate juhte võib asetada kõrvuti, need võivad olla ühes ja samas viigus (näiteks paigaldustorus või karbikus) või olla ühes ja samas mitmesoonelises kaablis, kui selline korraldus ei kahjusta vastavate ahelate õiget funktsioneerimist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where those circuits operate at different voltages, the conductors shall be separated by suitable barriers.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui sellised ahelad talitlevad eri pingetel, tuleb juhid eraldada sobivate katetega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, all conductors within the same duct or any conductors in multicore cables shall be insulated for the highest voltage to which any conductor within the same duct can be subjected, for example line to line voltage for unearthed systems and line to earth voltage for earthed systems.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Alternatiivselt peavad ühe ja sama viigu kõik juhid või iga juht mitmesoonelises kaablis olema isoleeritud kõrgeimale mingi juhi pingele selles viigus, näiteks maandamata süsteemi faasidevahelisele pingele või maandatud süsteemi faasi ja maa vahelisele pingele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.6.4 	Selection and installation of non-protected live conductors to reduce the possibility of short-circuits</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.6.4 Kaitsmata pingestatud juhtide valik ja paigaldamine lühise tekke võimaluse piiramiseks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Live conductors in an assembly that are not protected by short-circuit protective devices (see 8.6.1 and 8.6.2) shall be selected and installed throughout the entire assembly in accordance with Table 4.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kooste lühisekaitseaparaatidega kaitsmata pingestatud juhid (vt jaotised 8.6.1 ja 8.6.2) tuleb valida ja paigaldada kooste kogu ulatuses tabeli 4 kohaselt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Non-protected live conductors selected and installed as in Table 4 shall have a total length not exceeding 3 m between the main busbar and each respective SCPD or, in the case of a single section assembly, between the load terminals of the incoming device and the supply terminals of each outgoing SCPD.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Tabeli 4 järgi valitud ja paigaldatud kaitsmata pingestatud juhtide kogupikkus pealattide ja iga vastava lühisekaitseaparaadi vahel või ühesektsioonilise kooste puhul sisendseadise koormusklemmide ja iga väljund-lühisekaitseaparaadi toiteklemmide vahel ei tohi olla üle 3 m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.6.5 	Identification of the conductors of main and auxiliary circuits</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.6.5 Pea- ja abiahelate juhtide tuvastamine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Except for the cases mentioned in 8.6.6, the method and the extent of identification of conductors, for example by arrangement, colours or symbols, on the terminals to which they are connected or on the end(s) of the conductors themselves, is the responsibility of the assembly manufacturer and shall be in agreement with the indications on the wiring diagrams and drawings.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Väljaarvatult jaotises 8.6.6 nimetatud juhtumid, vastutab juhtide tähistamisviisi ja ulatuse, näiteks korralduse, värvide või tähiste eest klemmidel, kuhu need on ühendatud, või juhtide endi otstel kooste tootja, kusjuures tähised peavad olema kooskõlas ühendusskeemidel ja joonistel olevate tähistega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where appropriate, identification according to IEC 60445:2017 shall be applied.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Sobivuse korral tuleb rakendada standardile IEC 60445:2017 vastavaid tähiseid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.6.6 	Identification of the protective conductor (PE, PEL, PEM, PEN) and of the 
+neutral conductor (N) and the mid-point conductor (M) of the main circuits</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.6.6 Peaahelate kaitsejuhtide (PE, PEL, PEM, PEN), neutraaljuhi (N) ja keskjuhi (M) tuvastamine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The protective conductor (PE, PEL, PEM or PEN) shall be readily distinguishable by location and/or marking or colour.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kaitsejuhti (PE, PEL, PEM või PEN) peab saama selgelt eristada oma asetuse ja/või tähistuse või värviga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If identification by colour or marking is used it shall be in accordance with IEC 60445:2017.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui tuvastamiseks kasutatakse värvi või märgistust, peab see olema kooskõlas standardiga IEC 60445:2017.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When the protective conductor is an insulated single-core cable, this colour identification shall be used, preferably throughout the whole length.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui kaitsejuht on ühesooneline isoleerjuhe või kaabel, tuleb kasutada seda värvtuvastust, eelistatavalt kogu pikkuses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any neutral or mid-point conductor of the main circuit shall be readily distinguishable by location and/or marking or colour (see IEC 60445:2017 where blue is required).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Peaahela iga neutraal- või keskjuht peab olema selgelt eristatav oma asetuse ja/või tähistuse või värviga (vt standard IEC 60445:2017, kus soovitatakse sinist värvi).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.6.7 	Conductors in AC circuits passing through ferromagnetic enclosures or plates</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.6.7 Vahelduvvooluahelate juhid, mis kulgevad läbi ferromagnetiliste ümbriste või plaatide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where conductors in AC circuits with a current rating exceeding 200 A pass through ferromagnetic enclosures, sections or plates, they shall:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui vahelduvvooluahelate juhid tunnusvooluga üle 200 A kulgevad läbi ferromagnetiliste ümbriste, sektsioonide või plaatide, peavad need</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	be arranged such that the conductors are only collectively surrounded by ferromagnetic material, e.g. pass through the same hole; or</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— olema korraldatud selliselt, et juhid on üksnes kogumina ümbritsetud ferromagnetilise materjaliga, nt kulgema läbi ühesama ava, või</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	arrangements where conductors pass through separate holes shall have been verified by temperature-rise test(s).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— korraldusviise, mil juhid kulgevad läbi eri avade, tuleb kontrollida ületemperatuurikatsetus(t)ega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is permitted for an additional protective conductor to enter the ferrous enclosure individually.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>On lubatud, et lisa-kaitsejuht siseneb ferromagnetilisse ümbrisesse eraldi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.7	Cooling</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.7 Jahutamine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If special precautions are required at the place of installation to ensure proper cooling, the assembly manufacturer shall furnish the necessary information (for instance indication of the need for spacing with respect to parts that are liable to impede the dissipation of heat or produce heat themselves).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui paigalduskohal tuleb nõuetekohase jahutuse tagamiseks rakendada erimeetmeid, peab kooste tootja andma vajalikku teavet (näiteks vajalike vahekauguste kohta osadest, mis võivad takistada soojuse hajutamist või mis ise eraldavad soojust).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.8	Terminals for external cables</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>8.8 Välisjuhtmete või -kaablite klemmid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Based on information from the original manufacturer, the assembly manufacturer shall indicate whether the terminals are suitable for connection of copper or aluminium conductors, or both.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kooste tootja peab esmatootjalt saadud teabe alusel näitama, kas klemmid sobivad vask- või alumiiniumjuhtide või mõlema ühendamiseks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The terminals shall be such that the external conductors may be connected by a means (screws, connectors, etc.) that ensures that the necessary contact pressure corresponding to the current rating and the short-circuit strength of the apparatus and the circuit is maintained.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Klemmid peavad olema sellised, et välisjuhte saaks ühendada kinnitusvahendite (kruvide, liitmike jne) abil, mis tagavad aparaadi tunnusvoolule ja lühisetaluvusele vajaliku kontaktsurve ning ahela säilimise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the absence of a specific information that larger cables are to be used, which require larger terminals, the terminals shall be capable of accommodating copper conductors from the smallest to the largest cross-sectional areas corresponding to the rated current of the circuit protective device In, (see Annex A).</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui ei ole eriteavet, et tuleb kasutada suurema ristlõikega kaableid, mis nõuaksid suuremaid klemme, peavad klemmid sobima vähimast kuni suurima ristlõikega vaskjuhtidele, mis vastavad ahela kaitseaparaadi tunnusvoolule In (vt lisa A).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For adjustable protective devices, the rated current is the current setting selected.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Reguleeritava kaitseaparaadi puhul võrdub tunnusvool valitud voolusättega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where aluminium conductors are to be terminated, the type, size and termination method of the conductors shall be as agreed between the assembly manufacturer and the user.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui klemmidega tuleb ühendada alumiiniumjuhte, peavad juhtide liigi, ristlõike ja klemmidega ühendamise viisi kohta kooste tootja ja kasutaja omavahel kokku leppima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the case where external conductors for electronic circuits with low-level currents and voltages (less than 1 A and less than 50 V AC or 120 V DC) have to be connected to an assembly, Table A.1 does not apply.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Tabel A.1 ei kehti juhtumil, mil koostega tuleb ühendada väikese voolu ja madala pingega elektroonikaahelate välisjuhte (vooluga alla 1 A ja vahelduvpingega alla 50 V või alalispingega alla 120 V).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The available wiring space shall permit proper connection of the external conductors of the indicated material and, in the case of multicore cables, spreading of the cores.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Juhtide kasutusvõimalik ühendusruum peab võimaldama ettenähtud materjalist välisjuhtide nõuetekohast ühendamist ning mitmesooneliste kaablite puhul soonte laialijaotamist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The conductors shall not be subjected to stresses which are likely to reduce their normal life expectancy.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Juhtidele ei tohi mõjuda toimeid, mis võivad vähendada nende normaalset oodatavat tööiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the absence of a specific information that larger cables are to be used, which require larger terminals, on three-phase and neutral circuits, terminals for the neutral conductor shall allow the connection of copper conductors having a minimum cross-sectional area:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui ei ole eriteavet, et tuleb kasutada suurema ristlõikega kaableid, mis nõuaksid suuremaid klemme, peavad kolmefaasiliste neutraaljuhiga ahelate neutraaljuhi klemmid võimaldama ühendamist vaskjuhtidega, mille ristlõige on vähemalt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	equal to half the cross-sectional area of the line conductor, with a minimum of 16 mm2, if the size of the line conductor exceeds 16 mm2;</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— pool faasijuhi ristlõikest, kuid vähemalt 16 mm2, kui faasijuhi ristlõige on üle 16 mm2;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>–	equal to the full cross-sectional area of the line conductor, if the size of the latter is less than or equal to 16 mm2.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>— võrdne faasijuhi täisristlõikega, kui faasijuhi ristlõige on 16 mm2 või alla selle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For conductors, other than copper conductors, the above cross-sections should be replaced by cross-sections of equivalent conductance, which may require larger terminals.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Muust kui vasest juhtide puhul tuleb eelmainitud ristlõikega juhtide asemel kasutada muust materjalist samaväärse juhtivusega juhte, mille ristlõige võib nõuda suuremaid klemme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For certain applications, which lead to high values of zero sequence harmonics (e.g. third order harmonics), higher cross-sections of the neutral conductor may be required as these harmonics of the lines are added in the neutral conductor and lead to high current load at higher frequencies.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Mõningate rakenduste puhul, mis põhjustavad nulljärgnevusega harmooniliste komponentide (nt kolmandat järku harmooniliste) teket, võib olla vajalik valida suurema ristlõikega neutraaljuht, sest faasijuhi voolu harmoonilised komponendid summeeruvad neutraaljuhis ja põhjustavad kõrgematel sagedustel suuremat koormusvoolu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is subject to special agreement between the assembly manufacturer and the user.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>See küsimus on kooste tootja ja kasutaja vahelise erikokkuleppe asi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If connecting facilities for incoming and outgoing neutral, mid-point, protective, PEL, PEM and PEN conductors are provided, they shall be arranged near the associated line conductor terminals.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui koostes on siseneva ja väljuva neutraaljuhi, keskjuhi, kaitsejuhi, PEL-, PEM- ja PEN-juhi ühendusvahendid, peavad need asetsema nende juurde kuuluvate faasijuhtide klemmide läheduses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NOTE IEC 60204-1:2016 requires a minimum cross-section of the conductor and does not allow the connection of PEN into the electrical equipment of the machinery.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>MÄRKUS 	Standard IEC 60204-1:2016 nõuab juhilt vähimat ristlõiget ega luba PEN-juhi ühendamist masinate elektriseadmetega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Openings in cable entries, cover plates, etc. shall be so designed that, when the cables are properly installed, the stated protective measures against contact and degree of protection shall be obtained.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kaablisisendite avaused, katteplaadid jms peavad olema sellise ehitusega, et nõuetekohaselt paigaldatud kaablite puhul oleks tagatud ettenähtud puutekaitsemeetmed ja nõutav kaitseaste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This implies the selection of means of entry suitable for the application as stated by the assembly manufacturer.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>See tähendab rakendusele sobiva kaablisisendi valikut vastavalt kooste tootja nõuetele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The terminals for external protective conductors shall be marked according to IEC 60445:2017.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Väliste kaitsejuhtide klemmid peavad olema tähistatud vastavalt standardile IEC 60445:2017.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As an example, see graphical symbol   IEC 60417-5019:2006-08-25.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Näitena vt tingmärk   IEC 60417-5019:2006-08-25.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This symbol is not required where the external protective conductor is intended to be connected to an internal protective conductor that is clearly identified with the colours green and yellow.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Seda tingmärki ei nõuta, kui väline kaitsejuht on ette nähtud ühendada sisemise kaitsejuhiga, mis on selgelt tähistatud kollarohelise kaksikvärviga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The terminals for external protective conductors (PE, PEL, PEM, PEN) and metal sheathing of connecting cables (steel conduit, lead sheath, etc.) shall, where required, be bare and, unless otherwise specified, suitable for the connection of copper conductors.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Väliste kaitsejuhtide (PE, PEL, PEM, PEN) klemmid ja ühenduskaablite metallkatted (teras-paigaldustorud, pliimantlid jne) peavad olema, kus see on nõutud, paljad, ja kui ei ole sätestatud teisiti, sobima vaskjuhtide ühendamiseks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A separate terminal of adequate size shall be provided for the outgoing protective conductor(s) of each circuit.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Iga ahela väljuva(te) kaitsejuhi (-juhtide) jaoks peab olema ette nähtud eraldi sobiva suurusega klemm(id).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the absence of a specific information that larger cables are to be used, which require larger terminals, terminals for protective conductors shall allow the connection of copper conductors having a cross-section depending on the cross-section of the corresponding line conductors according to Table 5.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui ei ole eriteavet, et tuleb kasutada suurema ristlõikega kaableid, mis nõuaksid suuremaid klemme, peavad kaitsejuhtide klemmid võimaldama tabelile 5 vastava faasijuhi ristlõikest sõltuva ristlõikega vaskjuhtide ühendamist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Terminals for PEN conductors shall be the same as for neutral conductors.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>PEN-juhtide klemmid peavad olema samasugused nagu neutraaljuhtide omad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the case of enclosures and conductors of aluminium or aluminium alloys, particular consideration shall be given to the danger of electrolytic corrosion.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Alumiiniumist või alumiiniumisulamist ümbriste ja juhtide puhul tuleb eriti arvestada elektrolüütilise korrosiooni ohtu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The connecting means to ensure the continuity of the conductive parts with external protective conductors shall have no other function.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Juhtivate osade ja väliste kaitsejuhtide ühenduse pidevust tagavatel kinnitusvahenditel ei tohi olla muid funktsioone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Special precautions can be necessary with metal parts of the assembly, particularly gland plates, where abrasion-resistant finishes, for example powder coatings, are used.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Spetsiaalsed ohutusmeetmed võivad olla vajalikud kooste metallosade puhul, eriti tihenduspukside plaatide puhul, kus kasutatakse kulumiskindlat viimistlust, näiteks pulberkatteid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Identification of terminals shall comply with IEC 60445:2017 unless otherwise stated.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240422T180013Z">
+        <seg>Kui ei ole ette nähtud teisiti, peab klemmide tähistus olema kooskõlas standardiga IEC 60445:2017.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

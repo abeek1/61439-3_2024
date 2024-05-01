@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>4 	Symbols and abbreviations</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>4 TÄHISED JA LÜHENDID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alphabetical list of terms with symbols and abbreviations together with the subclause where they are first used:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>Tähiste ja lühendite tähestikuline loend koos vastavate terminitega ja terminite numbritega, milles neid esimest korda kasutatakse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Symbol/Abbreviation 	Term 	Term number</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>Tähis või lühend 	Termin 	Termini nr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CTI 	comparative tracking index 	3.6.16</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>CTI 	roomemoodustuse võrdlusindeks 	3.6.16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>EMC 	electromagnetic compatibility</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>EMC 	elektromagnetiline ühilduvus 	3.8.13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>3.8.13 
+fn 	rated frequency 	3.8.12</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>fn 	tunnussagedus 	3.8.12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>Ic 	lühisvool 	3.8.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ic 	short-circuit current  	3.8.6 
+Icc 	rated conditional short-circuit current of an assembly or a circuit of an assembly 	3.8.10.4</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>Icc 	kooste või koostesse kuuluva ahela tinglik tunnus-lühisvool 	3.8.10.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ilt 	cut-off current, let-through current 	3.8.8</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>Ilt 	lõikevool, läbilaskevool 	3.8.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Icp 	prospective short-circuit current  	3.8.7</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>Icp 	arvutuslik lühisvool 	3.8.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Icw 	rated short-time withstand current  	3.8.10.3</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>Icw 	lühiajaline tunnus-taluvusvool 	3.8.10.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>IB 	design current (of an electric circuit) 	3.8.10.8</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>IB 	(elektriahela) ettenähtud vool 	3.8.10.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>InA 	rated current of an assembly 	3.8.10.7</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>InA 	kooste tunnusvool 	3.8.10.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inc 	rated current of a main circuit 	3.8.10.5</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>Inc 	peaahela tunnusvool 	3.8.10.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ing 	group rated current of a main circuit 	3.8.10.6</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>Ing 	peaahela rühmtunnusvool 	3.8.10.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ipk 	rated peak withstand current  	3.8.10.2</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>Ipk 	tunnus-lööktaluvusvool 	3.8.10.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L 	line conductor 	3.1.14</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>L 	faasijuht, poolusejuht, liinijuht 	3.1.14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>M 	mid-point conductor 	3.7.18</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>M 	keskjuht 	3.7.18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>N  	neutral conductor 	3.7.5</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>N 	neutraaljuht 	3.7.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PE 	protective conductor  	3.7.4</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>PE 	kaitsejuht 	3.7.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PEL 	PEL conductor 	3.7.20</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>PEL 	PEL-juht 	3.7.20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PEM 	PEM conductor 	3.7.19</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>PEM 	PEM-juht 	3.7.19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PELV 	protective extra low-voltage 	3.7.11</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>PELV 	maandatav kaitseväikepinge 	3.7.11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PEN 	PEN conductor 	3.7.6</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>PEN 	PEN-juht 	3.7.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>RDF 	rated diversity factor 	3.8.11</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>RDF 	tunnus-samaaegsustegur 	3.8.11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SCPD 	short-circuit protective device 	3.1.11</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>SCPD 	lühisekaitseaparaat 	3.1.11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SELV 	safety extra low-voltage 	3.7.12</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>SELV 	maandusvaba kaitseväikepinge 	3.7.12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SPD 	surge protective device  	3.6.12</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>SPD 	liigpingepiirik 	3.6.12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ue 	rated operational voltage  	3.8.9.2</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>Ue 	tunnus-talitluspinge 	3.8.9.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ui 	rated insulation voltage  	3.8.9.3</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>Ui 	isolatsiooni tunnuspinge 	3.8.9.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Uimp 	rated impulse withstand voltage  	3.8.9.4</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>Uimp 	tunnus-impulsstaluvuspinge 	3.8.9.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Un 	rated voltage  	3.8.9.1</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240421T184300Z">
+        <seg>Un 	tunnuspinge 	3.8.9.1 EE MÄRKUS Lühendeid EMC, RDF, PELV, SCPD, SELV ja SPD kasutatakse standardi ingliskeelses tekstis.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Terms and definitions</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240219T204115Z">
+        <seg>TERMINID JA MÄÄRATLUSED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This clause of Part 1 applies except as follows. 
+3.1	General terms</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240219T204115Z">
+        <seg>Kehtivad osa 1 jaotise 3 määratlused koos alljärgnevate muudatustega. 
+1	Üldterminid ja määratlused</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Additional terms:</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240219T204115Z">
+        <seg>Lisamääratlused:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>distribution board intended to be operated by ordinary persons DBO
+ASSEMBLY used to distribute electrical energy in domestic (household) applications and other places where operation is intended by ordinary persons</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240219T204115Z">
+        <seg>jaotuskilp, mida tohivad käsitada tavaisikud
+elektrienergia jaotamiseks kasutatav kooste kodumajapidamises ja muudes kohtades, kus on ette nähtud, et seda saavad käsitada tavaisikud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note 1 to entry  Switching operations and replacing fuse-links are examples of operations intended to be carried out by normal persons.</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240219T204115Z">
+        <seg>MÄRKUS	Tavaisikute sooritatavad ettenähtud toimingud on näiteks lülitustoimingud ja sulavpanuste vahetamine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>type A DBO</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240219T204115Z">
+        <seg>A-tüüpi jaotuskilp, mida tohivad käsitada tavaisikud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>DBO designed to accept single pole devices</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240219T204115Z">
+        <seg>jaotuskilp, mida tohivad käsitada tavaisikud ja mis on projekteeritud ühepooluseliste seadmete jaoks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note 1 to entry  In the UK, a type A DBO used principally for domestic (household) installations and having a maximum incoming unit rating of 100 A and a maximum outgoing circuit rating of 63 A, is known as a "consumer unit" or "customer distribution board".</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240219T204115Z">
+        <seg>MÄRKUS Ühendkuningriigis peamiselt kodumajapidamispaigaldistes kasutatavat A-tüüpi jaotuskilpi, mida tohivad käsitada tavaisikud ja mille sisendühiku maksimaalne tunnusvool on 100 A, väljundahela maksimaalne tunnusvool aga 63 A, on tuntud kui „tarbijaühik“ või „kliendi-jaotuskilp“.e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>type B DBO</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240219T204115Z">
+        <seg>B-tüüpi jaotuskilp, mida tohivad käsitada tavaisikud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>DBO designed to accept multi-pole and/or single pole devices</seg>
+      </tuv>
+      <tuv xml:lang="et" creationid="OmegaT Aligner" creationdate="20240219T204115Z">
+        <seg>jaotuskilp, mida tohivad käsitada tavaisikud ja mis on projekteeritud mitme- ja/või ühepooluseliste seadmete jaoks</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
