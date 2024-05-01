@@ -1,0 +1,14 @@
+5/1/24, 1:02 PM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	    1482	13460	                  70991	                 82686	     1	
+Remaining:       	    1482	13460	                  70991	                 82686	     1	
+Unique:          	    1167	12563	                  66617	                 77764	     1	
+Unique Remaining:	    1167	12563	                  66617	                 77764	     1	
+
+
+Individual File Statistics:
+
+File Name                     	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+EN IEC 61439-3 alusfail 5.docx	          1482	              1482	           1167	                     1167	      13460	          13460	       12563	                 12563	                        70991	                            70991	                         66617	                                   66617	                       82686	                           82686	                        77764	                                  77764	
